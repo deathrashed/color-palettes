@@ -1,0 +1,1105 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="author" content="colorslurp.com">
+
+    <title>HTML</title>
+
+    <style>
+        *, *::before, *::after {
+            box-sizing: border-box;
+        }
+
+        body, html {
+            margin: 0;
+            padding: 0;
+            background: #fff;
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+        }
+
+        html {
+            font-size: 16px;
+        }
+
+        a, a:link, a:visited, a:hover {
+            color: #3873f4;
+            text-decoration: none;
+        }
+
+        a:hover {
+            text-decoration: underline;
+        }
+
+        .container {
+            width: 100%;
+            max-width: 1200px;
+            margin: auto;
+            padding: 0 60px;
+        }
+
+        .header-stripes {
+            display: flex;
+        }
+
+        .header-stripe {
+            height: 4px;
+            flex: 1 1 0px;
+        }
+
+        .header {
+            padding: 50px 0;
+            background: #fafafa;
+        }
+
+        .header-title {
+            font-weight: bold;
+            font-size: 1.8rem;
+        }
+
+        .header-subtitle {
+            margin-top: 20px;
+        }
+
+        .colors {
+            margin: 50px auto;
+            display: grid;
+            grid-template-columns: repeat(auto-fill,minmax(160px, 1fr));
+            grid-gap: 30px;
+        }
+
+        .color-drop {
+            height: 80px;
+            border-radius: 10px;
+            box-shadow: inset 0 0 0 2px rgba(0, 0, 0, 0.2);
+        }
+
+        .color-name {
+            font-weight: 600;
+            font-size: 1.1rem;
+            margin-top: 15px;
+            margin-bottom: 10px;
+        }
+
+        .color-value {
+            color: #6b6b6b;
+            margin-top: 5px;
+            font-size: 0.9rem;
+        }
+
+        @media only screen and (max-width: 600px) {
+            html {
+                font-size: 15px;
+            }
+
+            .container {
+                padding: 0 30px;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="wrapper">
+        <div class="header-stripes">
+            
+<div class="header-stripe" style="background: #dcdcdc;"></div>
+<div class="header-stripe" style="background: #d3d3d3;"></div>
+<div class="header-stripe" style="background: #c0c0c0;"></div>
+<div class="header-stripe" style="background: #a9a9a9;"></div>
+<div class="header-stripe" style="background: #808080;"></div>
+<div class="header-stripe" style="background: #696969;"></div>
+<div class="header-stripe" style="background: #778899;"></div>
+<div class="header-stripe" style="background: #708090;"></div>
+<div class="header-stripe" style="background: #2f4f4f;"></div>
+<div class="header-stripe" style="background: #000000;"></div>
+<div class="header-stripe" style="background: #fff8dc;"></div>
+<div class="header-stripe" style="background: #ffebcd;"></div>
+<div class="header-stripe" style="background: #ffe4c4;"></div>
+<div class="header-stripe" style="background: #ffdead;"></div>
+<div class="header-stripe" style="background: #f5deb3;"></div>
+<div class="header-stripe" style="background: #deb887;"></div>
+<div class="header-stripe" style="background: #d2b48c;"></div>
+<div class="header-stripe" style="background: #bc8f8f;"></div>
+<div class="header-stripe" style="background: #f4a460;"></div>
+<div class="header-stripe" style="background: #daa520;"></div>
+<div class="header-stripe" style="background: #b8860b;"></div>
+<div class="header-stripe" style="background: #cd853f;"></div>
+<div class="header-stripe" style="background: #d2691e;"></div>
+<div class="header-stripe" style="background: #8b4513;"></div>
+<div class="header-stripe" style="background: #a0522d;"></div>
+<div class="header-stripe" style="background: #a52a2a;"></div>
+<div class="header-stripe" style="background: #800d00;"></div>
+<div class="header-stripe" style="background: #cd5c5c;"></div>
+<div class="header-stripe" style="background: #f08080;"></div>
+<div class="header-stripe" style="background: #fa8072;"></div>
+<div class="header-stripe" style="background: #e9967a;"></div>
+<div class="header-stripe" style="background: #ffa07a;"></div>
+<div class="header-stripe" style="background: #dc213c;"></div>
+<div class="header-stripe" style="background: #ff2600;"></div>
+<div class="header-stripe" style="background: #b22222;"></div>
+<div class="header-stripe" style="background: #8b0f00;"></div>
+<div class="header-stripe" style="background: #ffc0cb;"></div>
+<div class="header-stripe" style="background: #ffb6c1;"></div>
+<div class="header-stripe" style="background: #ff69b4;"></div>
+<div class="header-stripe" style="background: #ff2f93;"></div>
+<div class="header-stripe" style="background: #c72585;"></div>
+<div class="header-stripe" style="background: #db7093;"></div>
+<div class="header-stripe" style="background: #ff7f50;"></div>
+<div class="header-stripe" style="background: #ff6347;"></div>
+<div class="header-stripe" style="background: #ff4500;"></div>
+<div class="header-stripe" style="background: #ff8c00;"></div>
+<div class="header-stripe" style="background: #ffa500;"></div>
+<div class="header-stripe" style="background: #ffd700;"></div>
+<div class="header-stripe" style="background: #fffb00;"></div>
+<div class="header-stripe" style="background: #fffee0;"></div>
+<div class="header-stripe" style="background: #fffacd;"></div>
+<div class="header-stripe" style="background: #fafad2;"></div>
+<div class="header-stripe" style="background: #ffefd5;"></div>
+<div class="header-stripe" style="background: #ffe4b5;"></div>
+<div class="header-stripe" style="background: #ffdab9;"></div>
+<div class="header-stripe" style="background: #eee8aa;"></div>
+<div class="header-stripe" style="background: #f0e68c;"></div>
+<div class="header-stripe" style="background: #bdb76b;"></div>
+<div class="header-stripe" style="background: #adfa2f;"></div>
+<div class="header-stripe" style="background: #7ffa00;"></div>
+<div class="header-stripe" style="background: #7cfa00;"></div>
+<div class="header-stripe" style="background: #05f900;"></div>
+<div class="header-stripe" style="background: #32cd32;"></div>
+<div class="header-stripe" style="background: #98fb98;"></div>
+<div class="header-stripe" style="background: #90ee90;"></div>
+<div class="header-stripe" style="background: #00fa9a;"></div>
+<div class="header-stripe" style="background: #04fa7f;"></div>
+<div class="header-stripe" style="background: #3cb371;"></div>
+<div class="header-stripe" style="background: #2e8b57;"></div>
+<div class="header-stripe" style="background: #228b22;"></div>
+<div class="header-stripe" style="background: #008000;"></div>
+<div class="header-stripe" style="background: #006400;"></div>
+<div class="header-stripe" style="background: #9acd32;"></div>
+<div class="header-stripe" style="background: #6b8e23;"></div>
+<div class="header-stripe" style="background: #808000;"></div>
+<div class="header-stripe" style="background: #556b2f;"></div>
+<div class="header-stripe" style="background: #66cdaa;"></div>
+<div class="header-stripe" style="background: #8fbc8b;"></div>
+<div class="header-stripe" style="background: #20b2aa;"></div>
+<div class="header-stripe" style="background: #008b8b;"></div>
+<div class="header-stripe" style="background: #008080;"></div>
+<div class="header-stripe" style="background: #e6e6fa;"></div>
+<div class="header-stripe" style="background: #d8bfd8;"></div>
+<div class="header-stripe" style="background: #dda0dd;"></div>
+<div class="header-stripe" style="background: #ee82ee;"></div>
+<div class="header-stripe" style="background: #da70d6;"></div>
+<div class="header-stripe" style="background: #ff40ff;"></div>
+<div class="header-stripe" style="background: #ff40ff;"></div>
+<div class="header-stripe" style="background: #ba55d3;"></div>
+<div class="header-stripe" style="background: #9370db;"></div>
+<div class="header-stripe" style="background: #663399;"></div>
+<div class="header-stripe" style="background: #8a30e2;"></div>
+<div class="header-stripe" style="background: #942dd3;"></div>
+<div class="header-stripe" style="background: #9932cc;"></div>
+<div class="header-stripe" style="background: #8b1e8b;"></div>
+<div class="header-stripe" style="background: #801b80;"></div>
+<div class="header-stripe" style="background: #4b1782;"></div>
+<div class="header-stripe" style="background: #6a5acd;"></div>
+<div class="header-stripe" style="background: #483d8b;"></div>
+<div class="header-stripe" style="background: #7b68ee;"></div>
+<div class="header-stripe" style="background: #02fdff;"></div>
+<div class="header-stripe" style="background: #02fdff;"></div>
+<div class="header-stripe" style="background: #e0feff;"></div>
+<div class="header-stripe" style="background: #afeeee;"></div>
+<div class="header-stripe" style="background: #7ffcd4;"></div>
+<div class="header-stripe" style="background: #40e0d0;"></div>
+<div class="header-stripe" style="background: #48d1cc;"></div>
+<div class="header-stripe" style="background: #00ced1;"></div>
+<div class="header-stripe" style="background: #5f9ea0;"></div>
+<div class="header-stripe" style="background: #4682b4;"></div>
+<div class="header-stripe" style="background: #b0c4de;"></div>
+<div class="header-stripe" style="background: #b0e0e6;"></div>
+<div class="header-stripe" style="background: #add8e6;"></div>
+<div class="header-stripe" style="background: #87ceeb;"></div>
+<div class="header-stripe" style="background: #87cefa;"></div>
+<div class="header-stripe" style="background: #00bfff;"></div>
+<div class="header-stripe" style="background: #1e90ff;"></div>
+<div class="header-stripe" style="background: #6495ed;"></div>
+<div class="header-stripe" style="background: #4169e1;"></div>
+<div class="header-stripe" style="background: #0432ff;"></div>
+<div class="header-stripe" style="background: #0327cd;"></div>
+<div class="header-stripe" style="background: #01178b;"></div>
+<div class="header-stripe" style="background: #011480;"></div>
+<div class="header-stripe" style="background: #191970;"></div>
+<div class="header-stripe" style="background: #ffffff;"></div>
+<div class="header-stripe" style="background: #fffafa;"></div>
+<div class="header-stripe" style="background: #f0fef0;"></div>
+<div class="header-stripe" style="background: #f5fffa;"></div>
+<div class="header-stripe" style="background: #f0ffff;"></div>
+<div class="header-stripe" style="background: #f0f8ff;"></div>
+<div class="header-stripe" style="background: #f8f8ff;"></div>
+<div class="header-stripe" style="background: #f5f5f5;"></div>
+<div class="header-stripe" style="background: #fff5ee;"></div>
+<div class="header-stripe" style="background: #f5f5dc;"></div>
+<div class="header-stripe" style="background: #fdf5e6;"></div>
+<div class="header-stripe" style="background: #fffaf0;"></div>
+<div class="header-stripe" style="background: #fffff0;"></div>
+<div class="header-stripe" style="background: #faebd7;"></div>
+<div class="header-stripe" style="background: #faf0e6;"></div>
+<div class="header-stripe" style="background: #fff0f5;"></div>
+<div class="header-stripe" style="background: #ffe4e1;"></div>
+        </div>
+        <div class="header">
+            <div class="container">
+                <div class="header-title">HTML</div>
+                <div class="header-subtitle"></div>
+            </div>
+        </div>
+        <div class="container colors">
+            
+<div class="color">
+    <div class="color-drop" style="background: #dcdcdc;"></div>
+    <div class="color-name">Gainsboro</div>
+    <div class="color-value">#dcdcdc</div>
+    <div class="color-value">RGB 220, 220, 220</div>
+</div>
+<div class="color">
+    <div class="color-drop" style="background: #d3d3d3;"></div>
+    <div class="color-name">Light Gray</div>
+    <div class="color-value">#d3d3d3</div>
+    <div class="color-value">RGB 211, 211, 211</div>
+</div>
+<div class="color">
+    <div class="color-drop" style="background: #c0c0c0;"></div>
+    <div class="color-name">Silver</div>
+    <div class="color-value">#c0c0c0</div>
+    <div class="color-value">RGB 192, 192, 192</div>
+</div>
+<div class="color">
+    <div class="color-drop" style="background: #a9a9a9;"></div>
+    <div class="color-name">Dark Gray</div>
+    <div class="color-value">#a9a9a9</div>
+    <div class="color-value">RGB 169, 169, 169</div>
+</div>
+<div class="color">
+    <div class="color-drop" style="background: #808080;"></div>
+    <div class="color-name">Gray</div>
+    <div class="color-value">#808080</div>
+    <div class="color-value">RGB 128, 128, 128</div>
+</div>
+<div class="color">
+    <div class="color-drop" style="background: #696969;"></div>
+    <div class="color-name">Dim Gray</div>
+    <div class="color-value">#696969</div>
+    <div class="color-value">RGB 105, 105, 105</div>
+</div>
+<div class="color">
+    <div class="color-drop" style="background: #778899;"></div>
+    <div class="color-name">Light Slate Gray</div>
+    <div class="color-value">#778899</div>
+    <div class="color-value">RGB 119, 136, 153</div>
+</div>
+<div class="color">
+    <div class="color-drop" style="background: #708090;"></div>
+    <div class="color-name">Slate Gray</div>
+    <div class="color-value">#708090</div>
+    <div class="color-value">RGB 112, 128, 144</div>
+</div>
+<div class="color">
+    <div class="color-drop" style="background: #2f4f4f;"></div>
+    <div class="color-name">Dark Slate Gray</div>
+    <div class="color-value">#2f4f4f</div>
+    <div class="color-value">RGB 47, 79, 79</div>
+</div>
+<div class="color">
+    <div class="color-drop" style="background: #000000;"></div>
+    <div class="color-name">Black</div>
+    <div class="color-value">#000000</div>
+    <div class="color-value">RGB 0, 0, 0</div>
+</div>
+<div class="color">
+    <div class="color-drop" style="background: #fff8dc;"></div>
+    <div class="color-name">Cornsilk</div>
+    <div class="color-value">#fff8dc</div>
+    <div class="color-value">RGB 255, 248, 220</div>
+</div>
+<div class="color">
+    <div class="color-drop" style="background: #ffebcd;"></div>
+    <div class="color-name">Blanched Almond</div>
+    <div class="color-value">#ffebcd</div>
+    <div class="color-value">RGB 255, 235, 205</div>
+</div>
+<div class="color">
+    <div class="color-drop" style="background: #ffe4c4;"></div>
+    <div class="color-name">Bisque</div>
+    <div class="color-value">#ffe4c4</div>
+    <div class="color-value">RGB 255, 228, 196</div>
+</div>
+<div class="color">
+    <div class="color-drop" style="background: #ffdead;"></div>
+    <div class="color-name">Navajo White</div>
+    <div class="color-value">#ffdead</div>
+    <div class="color-value">RGB 255, 222, 173</div>
+</div>
+<div class="color">
+    <div class="color-drop" style="background: #f5deb3;"></div>
+    <div class="color-name">Wheat</div>
+    <div class="color-value">#f5deb3</div>
+    <div class="color-value">RGB 245, 222, 179</div>
+</div>
+<div class="color">
+    <div class="color-drop" style="background: #deb887;"></div>
+    <div class="color-name">Burly Wood</div>
+    <div class="color-value">#deb887</div>
+    <div class="color-value">RGB 222, 184, 135</div>
+</div>
+<div class="color">
+    <div class="color-drop" style="background: #d2b48c;"></div>
+    <div class="color-name">Tan</div>
+    <div class="color-value">#d2b48c</div>
+    <div class="color-value">RGB 210, 180, 140</div>
+</div>
+<div class="color">
+    <div class="color-drop" style="background: #bc8f8f;"></div>
+    <div class="color-name">Rosy Brown</div>
+    <div class="color-value">#bc8f8f</div>
+    <div class="color-value">RGB 188, 143, 143</div>
+</div>
+<div class="color">
+    <div class="color-drop" style="background: #f4a460;"></div>
+    <div class="color-name">Sandy Brown</div>
+    <div class="color-value">#f4a460</div>
+    <div class="color-value">RGB 244, 164, 96</div>
+</div>
+<div class="color">
+    <div class="color-drop" style="background: #daa520;"></div>
+    <div class="color-name">Goldenrod</div>
+    <div class="color-value">#daa520</div>
+    <div class="color-value">RGB 218, 165, 32</div>
+</div>
+<div class="color">
+    <div class="color-drop" style="background: #b8860b;"></div>
+    <div class="color-name">Dark Goldenrod</div>
+    <div class="color-value">#b8860b</div>
+    <div class="color-value">RGB 184, 134, 11</div>
+</div>
+<div class="color">
+    <div class="color-drop" style="background: #cd853f;"></div>
+    <div class="color-name">Peru</div>
+    <div class="color-value">#cd853f</div>
+    <div class="color-value">RGB 205, 133, 63</div>
+</div>
+<div class="color">
+    <div class="color-drop" style="background: #d2691e;"></div>
+    <div class="color-name">Chocolate</div>
+    <div class="color-value">#d2691e</div>
+    <div class="color-value">RGB 210, 105, 30</div>
+</div>
+<div class="color">
+    <div class="color-drop" style="background: #8b4513;"></div>
+    <div class="color-name">Saddle Brown</div>
+    <div class="color-value">#8b4513</div>
+    <div class="color-value">RGB 139, 69, 19</div>
+</div>
+<div class="color">
+    <div class="color-drop" style="background: #a0522d;"></div>
+    <div class="color-name">Sienna</div>
+    <div class="color-value">#a0522d</div>
+    <div class="color-value">RGB 160, 82, 45</div>
+</div>
+<div class="color">
+    <div class="color-drop" style="background: #a52a2a;"></div>
+    <div class="color-name">Brown</div>
+    <div class="color-value">#a52a2a</div>
+    <div class="color-value">RGB 165, 42, 42</div>
+</div>
+<div class="color">
+    <div class="color-drop" style="background: #800d00;"></div>
+    <div class="color-name">Maroon</div>
+    <div class="color-value">#800d00</div>
+    <div class="color-value">RGB 128, 13, 0</div>
+</div>
+<div class="color">
+    <div class="color-drop" style="background: #cd5c5c;"></div>
+    <div class="color-name">Indian Red</div>
+    <div class="color-value">#cd5c5c</div>
+    <div class="color-value">RGB 205, 92, 92</div>
+</div>
+<div class="color">
+    <div class="color-drop" style="background: #f08080;"></div>
+    <div class="color-name">Light Coral</div>
+    <div class="color-value">#f08080</div>
+    <div class="color-value">RGB 240, 128, 128</div>
+</div>
+<div class="color">
+    <div class="color-drop" style="background: #fa8072;"></div>
+    <div class="color-name">Salmon</div>
+    <div class="color-value">#fa8072</div>
+    <div class="color-value">RGB 250, 128, 114</div>
+</div>
+<div class="color">
+    <div class="color-drop" style="background: #e9967a;"></div>
+    <div class="color-name">Dark Salmon</div>
+    <div class="color-value">#e9967a</div>
+    <div class="color-value">RGB 233, 150, 122</div>
+</div>
+<div class="color">
+    <div class="color-drop" style="background: #ffa07a;"></div>
+    <div class="color-name">Light Salmon</div>
+    <div class="color-value">#ffa07a</div>
+    <div class="color-value">RGB 255, 160, 122</div>
+</div>
+<div class="color">
+    <div class="color-drop" style="background: #dc213c;"></div>
+    <div class="color-name">Crimson</div>
+    <div class="color-value">#dc213c</div>
+    <div class="color-value">RGB 220, 33, 60</div>
+</div>
+<div class="color">
+    <div class="color-drop" style="background: #ff2600;"></div>
+    <div class="color-name">Red</div>
+    <div class="color-value">#ff2600</div>
+    <div class="color-value">RGB 255, 38, 0</div>
+</div>
+<div class="color">
+    <div class="color-drop" style="background: #b22222;"></div>
+    <div class="color-name">Fire Brick</div>
+    <div class="color-value">#b22222</div>
+    <div class="color-value">RGB 178, 34, 34</div>
+</div>
+<div class="color">
+    <div class="color-drop" style="background: #8b0f00;"></div>
+    <div class="color-name">Dark Red</div>
+    <div class="color-value">#8b0f00</div>
+    <div class="color-value">RGB 139, 15, 0</div>
+</div>
+<div class="color">
+    <div class="color-drop" style="background: #ffc0cb;"></div>
+    <div class="color-name">Pink</div>
+    <div class="color-value">#ffc0cb</div>
+    <div class="color-value">RGB 255, 192, 203</div>
+</div>
+<div class="color">
+    <div class="color-drop" style="background: #ffb6c1;"></div>
+    <div class="color-name">Light Pink</div>
+    <div class="color-value">#ffb6c1</div>
+    <div class="color-value">RGB 255, 182, 193</div>
+</div>
+<div class="color">
+    <div class="color-drop" style="background: #ff69b4;"></div>
+    <div class="color-name">Hot Pink</div>
+    <div class="color-value">#ff69b4</div>
+    <div class="color-value">RGB 255, 105, 180</div>
+</div>
+<div class="color">
+    <div class="color-drop" style="background: #ff2f93;"></div>
+    <div class="color-name">Deep Pink</div>
+    <div class="color-value">#ff2f93</div>
+    <div class="color-value">RGB 255, 47, 147</div>
+</div>
+<div class="color">
+    <div class="color-drop" style="background: #c72585;"></div>
+    <div class="color-name">Medium Violet Red</div>
+    <div class="color-value">#c72585</div>
+    <div class="color-value">RGB 199, 37, 133</div>
+</div>
+<div class="color">
+    <div class="color-drop" style="background: #db7093;"></div>
+    <div class="color-name">Pale Violet Red</div>
+    <div class="color-value">#db7093</div>
+    <div class="color-value">RGB 219, 112, 147</div>
+</div>
+<div class="color">
+    <div class="color-drop" style="background: #ff7f50;"></div>
+    <div class="color-name">Coral</div>
+    <div class="color-value">#ff7f50</div>
+    <div class="color-value">RGB 255, 127, 80</div>
+</div>
+<div class="color">
+    <div class="color-drop" style="background: #ff6347;"></div>
+    <div class="color-name">Tomato</div>
+    <div class="color-value">#ff6347</div>
+    <div class="color-value">RGB 255, 99, 71</div>
+</div>
+<div class="color">
+    <div class="color-drop" style="background: #ff4500;"></div>
+    <div class="color-name">Orange Red</div>
+    <div class="color-value">#ff4500</div>
+    <div class="color-value">RGB 255, 69, 0</div>
+</div>
+<div class="color">
+    <div class="color-drop" style="background: #ff8c00;"></div>
+    <div class="color-name">Dark Orange</div>
+    <div class="color-value">#ff8c00</div>
+    <div class="color-value">RGB 255, 140, 0</div>
+</div>
+<div class="color">
+    <div class="color-drop" style="background: #ffa500;"></div>
+    <div class="color-name">Orange</div>
+    <div class="color-value">#ffa500</div>
+    <div class="color-value">RGB 255, 165, 0</div>
+</div>
+<div class="color">
+    <div class="color-drop" style="background: #ffd700;"></div>
+    <div class="color-name">Gold</div>
+    <div class="color-value">#ffd700</div>
+    <div class="color-value">RGB 255, 215, 0</div>
+</div>
+<div class="color">
+    <div class="color-drop" style="background: #fffb00;"></div>
+    <div class="color-name">Yellow</div>
+    <div class="color-value">#fffb00</div>
+    <div class="color-value">RGB 255, 251, 0</div>
+</div>
+<div class="color">
+    <div class="color-drop" style="background: #fffee0;"></div>
+    <div class="color-name">Light Yellow</div>
+    <div class="color-value">#fffee0</div>
+    <div class="color-value">RGB 255, 254, 224</div>
+</div>
+<div class="color">
+    <div class="color-drop" style="background: #fffacd;"></div>
+    <div class="color-name">Lemon Chiffon</div>
+    <div class="color-value">#fffacd</div>
+    <div class="color-value">RGB 255, 250, 205</div>
+</div>
+<div class="color">
+    <div class="color-drop" style="background: #fafad2;"></div>
+    <div class="color-name">Light Goldenrod Yellow</div>
+    <div class="color-value">#fafad2</div>
+    <div class="color-value">RGB 250, 250, 210</div>
+</div>
+<div class="color">
+    <div class="color-drop" style="background: #ffefd5;"></div>
+    <div class="color-name">Papaya Whip</div>
+    <div class="color-value">#ffefd5</div>
+    <div class="color-value">RGB 255, 239, 213</div>
+</div>
+<div class="color">
+    <div class="color-drop" style="background: #ffe4b5;"></div>
+    <div class="color-name">Moccasin</div>
+    <div class="color-value">#ffe4b5</div>
+    <div class="color-value">RGB 255, 228, 181</div>
+</div>
+<div class="color">
+    <div class="color-drop" style="background: #ffdab9;"></div>
+    <div class="color-name">Peach Puff</div>
+    <div class="color-value">#ffdab9</div>
+    <div class="color-value">RGB 255, 218, 185</div>
+</div>
+<div class="color">
+    <div class="color-drop" style="background: #eee8aa;"></div>
+    <div class="color-name">Pale Goldenrod</div>
+    <div class="color-value">#eee8aa</div>
+    <div class="color-value">RGB 238, 232, 170</div>
+</div>
+<div class="color">
+    <div class="color-drop" style="background: #f0e68c;"></div>
+    <div class="color-name">Khaki</div>
+    <div class="color-value">#f0e68c</div>
+    <div class="color-value">RGB 240, 230, 140</div>
+</div>
+<div class="color">
+    <div class="color-drop" style="background: #bdb76b;"></div>
+    <div class="color-name">Dark Khaki</div>
+    <div class="color-value">#bdb76b</div>
+    <div class="color-value">RGB 189, 183, 107</div>
+</div>
+<div class="color">
+    <div class="color-drop" style="background: #adfa2f;"></div>
+    <div class="color-name">Green Yellow</div>
+    <div class="color-value">#adfa2f</div>
+    <div class="color-value">RGB 173, 250, 47</div>
+</div>
+<div class="color">
+    <div class="color-drop" style="background: #7ffa00;"></div>
+    <div class="color-name">Chartreuse</div>
+    <div class="color-value">#7ffa00</div>
+    <div class="color-value">RGB 127, 250, 0</div>
+</div>
+<div class="color">
+    <div class="color-drop" style="background: #7cfa00;"></div>
+    <div class="color-name">Lawn Green</div>
+    <div class="color-value">#7cfa00</div>
+    <div class="color-value">RGB 124, 250, 0</div>
+</div>
+<div class="color">
+    <div class="color-drop" style="background: #05f900;"></div>
+    <div class="color-name">Lime</div>
+    <div class="color-value">#05f900</div>
+    <div class="color-value">RGB 5, 249, 0</div>
+</div>
+<div class="color">
+    <div class="color-drop" style="background: #32cd32;"></div>
+    <div class="color-name">Lime Green</div>
+    <div class="color-value">#32cd32</div>
+    <div class="color-value">RGB 50, 205, 50</div>
+</div>
+<div class="color">
+    <div class="color-drop" style="background: #98fb98;"></div>
+    <div class="color-name">Pale Green</div>
+    <div class="color-value">#98fb98</div>
+    <div class="color-value">RGB 152, 251, 152</div>
+</div>
+<div class="color">
+    <div class="color-drop" style="background: #90ee90;"></div>
+    <div class="color-name">Light Green</div>
+    <div class="color-value">#90ee90</div>
+    <div class="color-value">RGB 144, 238, 144</div>
+</div>
+<div class="color">
+    <div class="color-drop" style="background: #00fa9a;"></div>
+    <div class="color-name">Medium Spring Green</div>
+    <div class="color-value">#00fa9a</div>
+    <div class="color-value">RGB 0, 250, 154</div>
+</div>
+<div class="color">
+    <div class="color-drop" style="background: #04fa7f;"></div>
+    <div class="color-name">Spring Green</div>
+    <div class="color-value">#04fa7f</div>
+    <div class="color-value">RGB 4, 250, 127</div>
+</div>
+<div class="color">
+    <div class="color-drop" style="background: #3cb371;"></div>
+    <div class="color-name">Medium Sea Green</div>
+    <div class="color-value">#3cb371</div>
+    <div class="color-value">RGB 60, 179, 113</div>
+</div>
+<div class="color">
+    <div class="color-drop" style="background: #2e8b57;"></div>
+    <div class="color-name">Sea Green</div>
+    <div class="color-value">#2e8b57</div>
+    <div class="color-value">RGB 46, 139, 87</div>
+</div>
+<div class="color">
+    <div class="color-drop" style="background: #228b22;"></div>
+    <div class="color-name">Forest Green</div>
+    <div class="color-value">#228b22</div>
+    <div class="color-value">RGB 34, 139, 34</div>
+</div>
+<div class="color">
+    <div class="color-drop" style="background: #008000;"></div>
+    <div class="color-name">Green</div>
+    <div class="color-value">#008000</div>
+    <div class="color-value">RGB 0, 128, 0</div>
+</div>
+<div class="color">
+    <div class="color-drop" style="background: #006400;"></div>
+    <div class="color-name">Dark Green</div>
+    <div class="color-value">#006400</div>
+    <div class="color-value">RGB 0, 100, 0</div>
+</div>
+<div class="color">
+    <div class="color-drop" style="background: #9acd32;"></div>
+    <div class="color-name">Yellow Green</div>
+    <div class="color-value">#9acd32</div>
+    <div class="color-value">RGB 154, 205, 50</div>
+</div>
+<div class="color">
+    <div class="color-drop" style="background: #6b8e23;"></div>
+    <div class="color-name">Olive Drab</div>
+    <div class="color-value">#6b8e23</div>
+    <div class="color-value">RGB 107, 142, 35</div>
+</div>
+<div class="color">
+    <div class="color-drop" style="background: #808000;"></div>
+    <div class="color-name">Olive</div>
+    <div class="color-value">#808000</div>
+    <div class="color-value">RGB 128, 128, 0</div>
+</div>
+<div class="color">
+    <div class="color-drop" style="background: #556b2f;"></div>
+    <div class="color-name">Dark Olive Green</div>
+    <div class="color-value">#556b2f</div>
+    <div class="color-value">RGB 85, 107, 47</div>
+</div>
+<div class="color">
+    <div class="color-drop" style="background: #66cdaa;"></div>
+    <div class="color-name">Medium Aquamarine</div>
+    <div class="color-value">#66cdaa</div>
+    <div class="color-value">RGB 102, 205, 170</div>
+</div>
+<div class="color">
+    <div class="color-drop" style="background: #8fbc8b;"></div>
+    <div class="color-name">Dark Sea Green</div>
+    <div class="color-value">#8fbc8b</div>
+    <div class="color-value">RGB 143, 188, 139</div>
+</div>
+<div class="color">
+    <div class="color-drop" style="background: #20b2aa;"></div>
+    <div class="color-name">Light Sea Green</div>
+    <div class="color-value">#20b2aa</div>
+    <div class="color-value">RGB 32, 178, 170</div>
+</div>
+<div class="color">
+    <div class="color-drop" style="background: #008b8b;"></div>
+    <div class="color-name">Dark Cyan</div>
+    <div class="color-value">#008b8b</div>
+    <div class="color-value">RGB 0, 139, 139</div>
+</div>
+<div class="color">
+    <div class="color-drop" style="background: #008080;"></div>
+    <div class="color-name">Teal</div>
+    <div class="color-value">#008080</div>
+    <div class="color-value">RGB 0, 128, 128</div>
+</div>
+<div class="color">
+    <div class="color-drop" style="background: #e6e6fa;"></div>
+    <div class="color-name">Lavender</div>
+    <div class="color-value">#e6e6fa</div>
+    <div class="color-value">RGB 230, 230, 250</div>
+</div>
+<div class="color">
+    <div class="color-drop" style="background: #d8bfd8;"></div>
+    <div class="color-name">Thistle</div>
+    <div class="color-value">#d8bfd8</div>
+    <div class="color-value">RGB 216, 191, 216</div>
+</div>
+<div class="color">
+    <div class="color-drop" style="background: #dda0dd;"></div>
+    <div class="color-name">Plum</div>
+    <div class="color-value">#dda0dd</div>
+    <div class="color-value">RGB 221, 160, 221</div>
+</div>
+<div class="color">
+    <div class="color-drop" style="background: #ee82ee;"></div>
+    <div class="color-name">Violet</div>
+    <div class="color-value">#ee82ee</div>
+    <div class="color-value">RGB 238, 130, 238</div>
+</div>
+<div class="color">
+    <div class="color-drop" style="background: #da70d6;"></div>
+    <div class="color-name">Orchid</div>
+    <div class="color-value">#da70d6</div>
+    <div class="color-value">RGB 218, 112, 214</div>
+</div>
+<div class="color">
+    <div class="color-drop" style="background: #ff40ff;"></div>
+    <div class="color-name">Fuchsia</div>
+    <div class="color-value">#ff40ff</div>
+    <div class="color-value">RGB 255, 64, 255</div>
+</div>
+<div class="color">
+    <div class="color-drop" style="background: #ff40ff;"></div>
+    <div class="color-name">Magenta</div>
+    <div class="color-value">#ff40ff</div>
+    <div class="color-value">RGB 255, 64, 255</div>
+</div>
+<div class="color">
+    <div class="color-drop" style="background: #ba55d3;"></div>
+    <div class="color-name">Medium Orchid</div>
+    <div class="color-value">#ba55d3</div>
+    <div class="color-value">RGB 186, 85, 211</div>
+</div>
+<div class="color">
+    <div class="color-drop" style="background: #9370db;"></div>
+    <div class="color-name">Medium Purple</div>
+    <div class="color-value">#9370db</div>
+    <div class="color-value">RGB 147, 112, 219</div>
+</div>
+<div class="color">
+    <div class="color-drop" style="background: #663399;"></div>
+    <div class="color-name">Rebecca Purple</div>
+    <div class="color-value">#663399</div>
+    <div class="color-value">RGB 102, 51, 153</div>
+</div>
+<div class="color">
+    <div class="color-drop" style="background: #8a30e2;"></div>
+    <div class="color-name">Blue Violet</div>
+    <div class="color-value">#8a30e2</div>
+    <div class="color-value">RGB 138, 48, 226</div>
+</div>
+<div class="color">
+    <div class="color-drop" style="background: #942dd3;"></div>
+    <div class="color-name">Dark Violet</div>
+    <div class="color-value">#942dd3</div>
+    <div class="color-value">RGB 148, 45, 211</div>
+</div>
+<div class="color">
+    <div class="color-drop" style="background: #9932cc;"></div>
+    <div class="color-name">Dark Orchid</div>
+    <div class="color-value">#9932cc</div>
+    <div class="color-value">RGB 153, 50, 204</div>
+</div>
+<div class="color">
+    <div class="color-drop" style="background: #8b1e8b;"></div>
+    <div class="color-name">Dark Magenta</div>
+    <div class="color-value">#8b1e8b</div>
+    <div class="color-value">RGB 139, 30, 139</div>
+</div>
+<div class="color">
+    <div class="color-drop" style="background: #801b80;"></div>
+    <div class="color-name">Purple</div>
+    <div class="color-value">#801b80</div>
+    <div class="color-value">RGB 128, 27, 128</div>
+</div>
+<div class="color">
+    <div class="color-drop" style="background: #4b1782;"></div>
+    <div class="color-name">Indigo</div>
+    <div class="color-value">#4b1782</div>
+    <div class="color-value">RGB 75, 23, 130</div>
+</div>
+<div class="color">
+    <div class="color-drop" style="background: #6a5acd;"></div>
+    <div class="color-name">Slate Blue</div>
+    <div class="color-value">#6a5acd</div>
+    <div class="color-value">RGB 106, 90, 205</div>
+</div>
+<div class="color">
+    <div class="color-drop" style="background: #483d8b;"></div>
+    <div class="color-name">Dark Slate Blue</div>
+    <div class="color-value">#483d8b</div>
+    <div class="color-value">RGB 72, 61, 139</div>
+</div>
+<div class="color">
+    <div class="color-drop" style="background: #7b68ee;"></div>
+    <div class="color-name">Medium Slate Blue</div>
+    <div class="color-value">#7b68ee</div>
+    <div class="color-value">RGB 123, 104, 238</div>
+</div>
+<div class="color">
+    <div class="color-drop" style="background: #02fdff;"></div>
+    <div class="color-name">Aqua</div>
+    <div class="color-value">#02fdff</div>
+    <div class="color-value">RGB 2, 253, 255</div>
+</div>
+<div class="color">
+    <div class="color-drop" style="background: #02fdff;"></div>
+    <div class="color-name">Cyan</div>
+    <div class="color-value">#02fdff</div>
+    <div class="color-value">RGB 2, 253, 255</div>
+</div>
+<div class="color">
+    <div class="color-drop" style="background: #e0feff;"></div>
+    <div class="color-name">Light Cyan</div>
+    <div class="color-value">#e0feff</div>
+    <div class="color-value">RGB 224, 254, 255</div>
+</div>
+<div class="color">
+    <div class="color-drop" style="background: #afeeee;"></div>
+    <div class="color-name">Pale Turquoise</div>
+    <div class="color-value">#afeeee</div>
+    <div class="color-value">RGB 175, 238, 238</div>
+</div>
+<div class="color">
+    <div class="color-drop" style="background: #7ffcd4;"></div>
+    <div class="color-name">Aquamarine</div>
+    <div class="color-value">#7ffcd4</div>
+    <div class="color-value">RGB 127, 252, 212</div>
+</div>
+<div class="color">
+    <div class="color-drop" style="background: #40e0d0;"></div>
+    <div class="color-name">Turquoise</div>
+    <div class="color-value">#40e0d0</div>
+    <div class="color-value">RGB 64, 224, 208</div>
+</div>
+<div class="color">
+    <div class="color-drop" style="background: #48d1cc;"></div>
+    <div class="color-name">Medium Turquoise</div>
+    <div class="color-value">#48d1cc</div>
+    <div class="color-value">RGB 72, 209, 204</div>
+</div>
+<div class="color">
+    <div class="color-drop" style="background: #00ced1;"></div>
+    <div class="color-name">Dark Turquoise</div>
+    <div class="color-value">#00ced1</div>
+    <div class="color-value">RGB 0, 206, 209</div>
+</div>
+<div class="color">
+    <div class="color-drop" style="background: #5f9ea0;"></div>
+    <div class="color-name">Cadet Blue</div>
+    <div class="color-value">#5f9ea0</div>
+    <div class="color-value">RGB 95, 158, 160</div>
+</div>
+<div class="color">
+    <div class="color-drop" style="background: #4682b4;"></div>
+    <div class="color-name">Steel Blue</div>
+    <div class="color-value">#4682b4</div>
+    <div class="color-value">RGB 70, 130, 180</div>
+</div>
+<div class="color">
+    <div class="color-drop" style="background: #b0c4de;"></div>
+    <div class="color-name">Light Steel Blue</div>
+    <div class="color-value">#b0c4de</div>
+    <div class="color-value">RGB 176, 196, 222</div>
+</div>
+<div class="color">
+    <div class="color-drop" style="background: #b0e0e6;"></div>
+    <div class="color-name">Powder Blue</div>
+    <div class="color-value">#b0e0e6</div>
+    <div class="color-value">RGB 176, 224, 230</div>
+</div>
+<div class="color">
+    <div class="color-drop" style="background: #add8e6;"></div>
+    <div class="color-name">Light Blue</div>
+    <div class="color-value">#add8e6</div>
+    <div class="color-value">RGB 173, 216, 230</div>
+</div>
+<div class="color">
+    <div class="color-drop" style="background: #87ceeb;"></div>
+    <div class="color-name">Sky Blue</div>
+    <div class="color-value">#87ceeb</div>
+    <div class="color-value">RGB 135, 206, 235</div>
+</div>
+<div class="color">
+    <div class="color-drop" style="background: #87cefa;"></div>
+    <div class="color-name">Light Sky Blue</div>
+    <div class="color-value">#87cefa</div>
+    <div class="color-value">RGB 135, 206, 250</div>
+</div>
+<div class="color">
+    <div class="color-drop" style="background: #00bfff;"></div>
+    <div class="color-name">Deep Sky Blue</div>
+    <div class="color-value">#00bfff</div>
+    <div class="color-value">RGB 0, 191, 255</div>
+</div>
+<div class="color">
+    <div class="color-drop" style="background: #1e90ff;"></div>
+    <div class="color-name">Dodger Blue</div>
+    <div class="color-value">#1e90ff</div>
+    <div class="color-value">RGB 30, 144, 255</div>
+</div>
+<div class="color">
+    <div class="color-drop" style="background: #6495ed;"></div>
+    <div class="color-name">Cornflower Blue</div>
+    <div class="color-value">#6495ed</div>
+    <div class="color-value">RGB 100, 149, 237</div>
+</div>
+<div class="color">
+    <div class="color-drop" style="background: #4169e1;"></div>
+    <div class="color-name">Royal Blue</div>
+    <div class="color-value">#4169e1</div>
+    <div class="color-value">RGB 65, 105, 225</div>
+</div>
+<div class="color">
+    <div class="color-drop" style="background: #0432ff;"></div>
+    <div class="color-name">Blue</div>
+    <div class="color-value">#0432ff</div>
+    <div class="color-value">RGB 4, 50, 255</div>
+</div>
+<div class="color">
+    <div class="color-drop" style="background: #0327cd;"></div>
+    <div class="color-name">Medium Blue</div>
+    <div class="color-value">#0327cd</div>
+    <div class="color-value">RGB 3, 39, 205</div>
+</div>
+<div class="color">
+    <div class="color-drop" style="background: #01178b;"></div>
+    <div class="color-name">Dark Blue</div>
+    <div class="color-value">#01178b</div>
+    <div class="color-value">RGB 1, 23, 139</div>
+</div>
+<div class="color">
+    <div class="color-drop" style="background: #011480;"></div>
+    <div class="color-name">Navy</div>
+    <div class="color-value">#011480</div>
+    <div class="color-value">RGB 1, 20, 128</div>
+</div>
+<div class="color">
+    <div class="color-drop" style="background: #191970;"></div>
+    <div class="color-name">Midnight Blue</div>
+    <div class="color-value">#191970</div>
+    <div class="color-value">RGB 25, 25, 112</div>
+</div>
+<div class="color">
+    <div class="color-drop" style="background: #ffffff;"></div>
+    <div class="color-name">White</div>
+    <div class="color-value">#ffffff</div>
+    <div class="color-value">RGB 255, 255, 255</div>
+</div>
+<div class="color">
+    <div class="color-drop" style="background: #fffafa;"></div>
+    <div class="color-name">Snow</div>
+    <div class="color-value">#fffafa</div>
+    <div class="color-value">RGB 255, 250, 250</div>
+</div>
+<div class="color">
+    <div class="color-drop" style="background: #f0fef0;"></div>
+    <div class="color-name">Honey Dew</div>
+    <div class="color-value">#f0fef0</div>
+    <div class="color-value">RGB 240, 254, 240</div>
+</div>
+<div class="color">
+    <div class="color-drop" style="background: #f5fffa;"></div>
+    <div class="color-name">Mint Cream</div>
+    <div class="color-value">#f5fffa</div>
+    <div class="color-value">RGB 245, 255, 250</div>
+</div>
+<div class="color">
+    <div class="color-drop" style="background: #f0ffff;"></div>
+    <div class="color-name">Azure</div>
+    <div class="color-value">#f0ffff</div>
+    <div class="color-value">RGB 240, 255, 255</div>
+</div>
+<div class="color">
+    <div class="color-drop" style="background: #f0f8ff;"></div>
+    <div class="color-name">Alice Blue</div>
+    <div class="color-value">#f0f8ff</div>
+    <div class="color-value">RGB 240, 248, 255</div>
+</div>
+<div class="color">
+    <div class="color-drop" style="background: #f8f8ff;"></div>
+    <div class="color-name">Ghost White</div>
+    <div class="color-value">#f8f8ff</div>
+    <div class="color-value">RGB 248, 248, 255</div>
+</div>
+<div class="color">
+    <div class="color-drop" style="background: #f5f5f5;"></div>
+    <div class="color-name">White Smoke</div>
+    <div class="color-value">#f5f5f5</div>
+    <div class="color-value">RGB 245, 245, 245</div>
+</div>
+<div class="color">
+    <div class="color-drop" style="background: #fff5ee;"></div>
+    <div class="color-name">Sea Shell</div>
+    <div class="color-value">#fff5ee</div>
+    <div class="color-value">RGB 255, 245, 238</div>
+</div>
+<div class="color">
+    <div class="color-drop" style="background: #f5f5dc;"></div>
+    <div class="color-name">Beige</div>
+    <div class="color-value">#f5f5dc</div>
+    <div class="color-value">RGB 245, 245, 220</div>
+</div>
+<div class="color">
+    <div class="color-drop" style="background: #fdf5e6;"></div>
+    <div class="color-name">Old Lace</div>
+    <div class="color-value">#fdf5e6</div>
+    <div class="color-value">RGB 253, 245, 230</div>
+</div>
+<div class="color">
+    <div class="color-drop" style="background: #fffaf0;"></div>
+    <div class="color-name">Floral White</div>
+    <div class="color-value">#fffaf0</div>
+    <div class="color-value">RGB 255, 250, 240</div>
+</div>
+<div class="color">
+    <div class="color-drop" style="background: #fffff0;"></div>
+    <div class="color-name">Ivory</div>
+    <div class="color-value">#fffff0</div>
+    <div class="color-value">RGB 255, 255, 240</div>
+</div>
+<div class="color">
+    <div class="color-drop" style="background: #faebd7;"></div>
+    <div class="color-name">Antique White</div>
+    <div class="color-value">#faebd7</div>
+    <div class="color-value">RGB 250, 235, 215</div>
+</div>
+<div class="color">
+    <div class="color-drop" style="background: #faf0e6;"></div>
+    <div class="color-name">Linen</div>
+    <div class="color-value">#faf0e6</div>
+    <div class="color-value">RGB 250, 240, 230</div>
+</div>
+<div class="color">
+    <div class="color-drop" style="background: #fff0f5;"></div>
+    <div class="color-name">Lavender Blush</div>
+    <div class="color-value">#fff0f5</div>
+    <div class="color-value">RGB 255, 240, 245</div>
+</div>
+<div class="color">
+    <div class="color-drop" style="background: #ffe4e1;"></div>
+    <div class="color-name">Misty Rose</div>
+    <div class="color-value">#ffe4e1</div>
+    <div class="color-value">RGB 255, 228, 225</div>
+</div>
+        </div>
+    </div>
+</body>
+</html>

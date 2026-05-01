@@ -1,0 +1,565 @@
+name = "HTML Colors"
+
+[[colors]]
+name = "Gainsboro"
+hex = "#dcdcdc"
+
+[[colors]]
+name = "Light Gray"
+hex = "#d3d3d3"
+
+[[colors]]
+name = "Silver"
+hex = "#c0c0c0"
+
+[[colors]]
+name = "Dark Gray"
+hex = "#a9a9a9"
+
+[[colors]]
+name = "Gray"
+hex = "#808080"
+
+[[colors]]
+name = "Dim Gray"
+hex = "#696969"
+
+[[colors]]
+name = "Light Slate Gray"
+hex = "#778899"
+
+[[colors]]
+name = "Slate Gray"
+hex = "#708090"
+
+[[colors]]
+name = "Dark Slate Gray"
+hex = "#2f4f4f"
+
+[[colors]]
+name = "Black"
+hex = "#000000"
+
+[[colors]]
+name = "Cornsilk"
+hex = "#fff8dc"
+
+[[colors]]
+name = "Blanched Almond"
+hex = "#ffebcd"
+
+[[colors]]
+name = "Bisque"
+hex = "#ffe4c4"
+
+[[colors]]
+name = "Navajo White"
+hex = "#ffdead"
+
+[[colors]]
+name = "Wheat"
+hex = "#f5deb3"
+
+[[colors]]
+name = "Burly Wood"
+hex = "#deb887"
+
+[[colors]]
+name = "Tan"
+hex = "#d2b48c"
+
+[[colors]]
+name = "Rosy Brown"
+hex = "#bc8f8f"
+
+[[colors]]
+name = "Sandy Brown"
+hex = "#f4a460"
+
+[[colors]]
+name = "Goldenrod"
+hex = "#daa520"
+
+[[colors]]
+name = "Dark Goldenrod"
+hex = "#b8860b"
+
+[[colors]]
+name = "Peru"
+hex = "#cd853f"
+
+[[colors]]
+name = "Chocolate"
+hex = "#d2691e"
+
+[[colors]]
+name = "Saddle Brown"
+hex = "#8b4513"
+
+[[colors]]
+name = "Sienna"
+hex = "#a0522d"
+
+[[colors]]
+name = "Brown"
+hex = "#a52a2a"
+
+[[colors]]
+name = "Maroon"
+hex = "#800d00"
+
+[[colors]]
+name = "Indian Red"
+hex = "#cd5c5c"
+
+[[colors]]
+name = "Light Coral"
+hex = "#f08080"
+
+[[colors]]
+name = "Salmon"
+hex = "#fa8072"
+
+[[colors]]
+name = "Dark Salmon"
+hex = "#e9967a"
+
+[[colors]]
+name = "Light Salmon"
+hex = "#ffa07a"
+
+[[colors]]
+name = "Crimson"
+hex = "#dc213c"
+
+[[colors]]
+name = "Red"
+hex = "#ff2600"
+
+[[colors]]
+name = "Fire Brick"
+hex = "#b22222"
+
+[[colors]]
+name = "Dark Red"
+hex = "#8b0f00"
+
+[[colors]]
+name = "Pink"
+hex = "#ffc0cb"
+
+[[colors]]
+name = "Light Pink"
+hex = "#ffb6c1"
+
+[[colors]]
+name = "Hot Pink"
+hex = "#ff69b4"
+
+[[colors]]
+name = "Deep Pink"
+hex = "#ff2f93"
+
+[[colors]]
+name = "Medium Violet Red"
+hex = "#c72585"
+
+[[colors]]
+name = "Pale Violet Red"
+hex = "#db7093"
+
+[[colors]]
+name = "Coral"
+hex = "#ff7f50"
+
+[[colors]]
+name = "Tomato"
+hex = "#ff6347"
+
+[[colors]]
+name = "Orange Red"
+hex = "#ff4500"
+
+[[colors]]
+name = "Dark Orange"
+hex = "#ff8c00"
+
+[[colors]]
+name = "Orange"
+hex = "#ffa500"
+
+[[colors]]
+name = "Gold"
+hex = "#ffd700"
+
+[[colors]]
+name = "Yellow"
+hex = "#fffb00"
+
+[[colors]]
+name = "Light Yellow"
+hex = "#fffee0"
+
+[[colors]]
+name = "Lemon Chiffon"
+hex = "#fffacd"
+
+[[colors]]
+name = "Light Goldenrod Yellow"
+hex = "#fafad2"
+
+[[colors]]
+name = "Papaya Whip"
+hex = "#ffefd5"
+
+[[colors]]
+name = "Moccasin"
+hex = "#ffe4b5"
+
+[[colors]]
+name = "Peach Puff"
+hex = "#ffdab9"
+
+[[colors]]
+name = "Pale Goldenrod"
+hex = "#eee8aa"
+
+[[colors]]
+name = "Khaki"
+hex = "#f0e68c"
+
+[[colors]]
+name = "Dark Khaki"
+hex = "#bdb76b"
+
+[[colors]]
+name = "Green Yellow"
+hex = "#adfa2f"
+
+[[colors]]
+name = "Chartreuse"
+hex = "#7ffa00"
+
+[[colors]]
+name = "Lawn Green"
+hex = "#7cfa00"
+
+[[colors]]
+name = "Lime"
+hex = "#05f900"
+
+[[colors]]
+name = "Lime Green"
+hex = "#32cd32"
+
+[[colors]]
+name = "Pale Green"
+hex = "#98fb98"
+
+[[colors]]
+name = "Light Green"
+hex = "#90ee90"
+
+[[colors]]
+name = "Medium Spring Green"
+hex = "#00fa9a"
+
+[[colors]]
+name = "Spring Green"
+hex = "#04fa7f"
+
+[[colors]]
+name = "Medium Sea Green"
+hex = "#3cb371"
+
+[[colors]]
+name = "Sea Green"
+hex = "#2e8b57"
+
+[[colors]]
+name = "Forest Green"
+hex = "#228b22"
+
+[[colors]]
+name = "Green"
+hex = "#008000"
+
+[[colors]]
+name = "Dark Green"
+hex = "#006400"
+
+[[colors]]
+name = "Yellow Green"
+hex = "#9acd32"
+
+[[colors]]
+name = "Olive Drab"
+hex = "#6b8e23"
+
+[[colors]]
+name = "Olive"
+hex = "#808000"
+
+[[colors]]
+name = "Dark Olive Green"
+hex = "#556b2f"
+
+[[colors]]
+name = "Medium Aquamarine"
+hex = "#66cdaa"
+
+[[colors]]
+name = "Dark Sea Green"
+hex = "#8fbc8b"
+
+[[colors]]
+name = "Light Sea Green"
+hex = "#20b2aa"
+
+[[colors]]
+name = "Dark Cyan"
+hex = "#008b8b"
+
+[[colors]]
+name = "Teal"
+hex = "#008080"
+
+[[colors]]
+name = "Lavender"
+hex = "#e6e6fa"
+
+[[colors]]
+name = "Thistle"
+hex = "#d8bfd8"
+
+[[colors]]
+name = "Plum"
+hex = "#dda0dd"
+
+[[colors]]
+name = "Violet"
+hex = "#ee82ee"
+
+[[colors]]
+name = "Orchid"
+hex = "#da70d6"
+
+[[colors]]
+name = "Fuchsia"
+hex = "#ff40ff"
+
+[[colors]]
+name = "Magenta"
+hex = "#ff40ff"
+
+[[colors]]
+name = "Medium Orchid"
+hex = "#ba55d3"
+
+[[colors]]
+name = "Medium Purple"
+hex = "#9370db"
+
+[[colors]]
+name = "Rebecca Purple"
+hex = "#663399"
+
+[[colors]]
+name = "Blue Violet"
+hex = "#8a30e2"
+
+[[colors]]
+name = "Dark Violet"
+hex = "#942dd3"
+
+[[colors]]
+name = "Dark Orchid"
+hex = "#9932cc"
+
+[[colors]]
+name = "Dark Magenta"
+hex = "#8b1e8b"
+
+[[colors]]
+name = "Purple"
+hex = "#801b80"
+
+[[colors]]
+name = "Indigo"
+hex = "#4b1782"
+
+[[colors]]
+name = "Slate Blue"
+hex = "#6a5acd"
+
+[[colors]]
+name = "Dark Slate Blue"
+hex = "#483d8b"
+
+[[colors]]
+name = "Medium Slate Blue"
+hex = "#7b68ee"
+
+[[colors]]
+name = "Aqua"
+hex = "#02fdff"
+
+[[colors]]
+name = "Cyan"
+hex = "#02fdff"
+
+[[colors]]
+name = "Light Cyan"
+hex = "#e0feff"
+
+[[colors]]
+name = "Pale Turquoise"
+hex = "#afeeee"
+
+[[colors]]
+name = "Aquamarine"
+hex = "#7ffcd4"
+
+[[colors]]
+name = "Turquoise"
+hex = "#40e0d0"
+
+[[colors]]
+name = "Medium Turquoise"
+hex = "#48d1cc"
+
+[[colors]]
+name = "Dark Turquoise"
+hex = "#00ced1"
+
+[[colors]]
+name = "Cadet Blue"
+hex = "#5f9ea0"
+
+[[colors]]
+name = "Steel Blue"
+hex = "#4682b4"
+
+[[colors]]
+name = "Light Steel Blue"
+hex = "#b0c4de"
+
+[[colors]]
+name = "Powder Blue"
+hex = "#b0e0e6"
+
+[[colors]]
+name = "Light Blue"
+hex = "#add8e6"
+
+[[colors]]
+name = "Sky Blue"
+hex = "#87ceeb"
+
+[[colors]]
+name = "Light Sky Blue"
+hex = "#87cefa"
+
+[[colors]]
+name = "Deep Sky Blue"
+hex = "#00bfff"
+
+[[colors]]
+name = "Dodger Blue"
+hex = "#1e90ff"
+
+[[colors]]
+name = "Cornflower Blue"
+hex = "#6495ed"
+
+[[colors]]
+name = "Royal Blue"
+hex = "#4169e1"
+
+[[colors]]
+name = "Blue"
+hex = "#0432ff"
+
+[[colors]]
+name = "Medium Blue"
+hex = "#0326cd"
+
+[[colors]]
+name = "Dark Blue"
+hex = "#01178b"
+
+[[colors]]
+name = "Navy"
+hex = "#011480"
+
+[[colors]]
+name = "Midnight Blue"
+hex = "#191970"
+
+[[colors]]
+name = "White"
+hex = "#ffffff"
+
+[[colors]]
+name = "Snow"
+hex = "#fffafa"
+
+[[colors]]
+name = "Honey Dew"
+hex = "#f0fef0"
+
+[[colors]]
+name = "Mint Cream"
+hex = "#f5fffa"
+
+[[colors]]
+name = "Azure"
+hex = "#f0ffff"
+
+[[colors]]
+name = "Alice Blue"
+hex = "#f0f8ff"
+
+[[colors]]
+name = "Ghost White"
+hex = "#f8f8ff"
+
+[[colors]]
+name = "White Smoke"
+hex = "#f5f5f5"
+
+[[colors]]
+name = "Sea Shell"
+hex = "#fff5ee"
+
+[[colors]]
+name = "Beige"
+hex = "#f5f5dc"
+
+[[colors]]
+name = "Old Lace"
+hex = "#fdf5e6"
+
+[[colors]]
+name = "Floral White"
+hex = "#fffaf0"
+
+[[colors]]
+name = "Ivory"
+hex = "#fffff0"
+
+[[colors]]
+name = "Antique White"
+hex = "#faebd7"
+
+[[colors]]
+name = "Linen"
+hex = "#faf0e6"
+
+[[colors]]
+name = "Lavender Blush"
+hex = "#fff0f5"
+
+[[colors]]
+name = "Misty Rose"
+hex = "#ffe4e1"
