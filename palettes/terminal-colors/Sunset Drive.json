@@ -1,0 +1,93 @@
+{
+  "name": "Sunset Drive",
+  "colors": [
+    {
+      "name": "Bright Black",
+      "hex": "#3e3e4b"
+    },
+    {
+      "name": "Bright Blue",
+      "hex": "#3ea0ff"
+    },
+    {
+      "name": "Bright Cyan",
+      "hex": "#38ffff"
+    },
+    {
+      "name": "Bright Green",
+      "hex": "#00fcb9"
+    },
+    {
+      "name": "Bright Magenta",
+      "hex": "#ff93ff"
+    },
+    {
+      "name": "Bright Red",
+      "hex": "#ff948b"
+    },
+    {
+      "name": "Bright White",
+      "hex": "#f8f8ff"
+    },
+    {
+      "name": "Bright Yellow",
+      "hex": "#ffff68"
+    },
+    {
+      "name": "Cursor Cursor",
+      "hex": "#ededfe"
+    },
+    {
+      "name": "Cursor Text",
+      "hex": "#0f0f1a"
+    },
+    {
+      "name": "Black",
+      "hex": "#0a0a13"
+    },
+    {
+      "name": "Blue",
+      "hex": "#00a4ff"
+    },
+    {
+      "name": "Cyan",
+      "hex": "#00ffed"
+    },
+    {
+      "name": "Green",
+      "hex": "#00f992"
+    },
+    {
+      "name": "Magenta",
+      "hex": "#ff57fd"
+    },
+    {
+      "name": "Red",
+      "hex": "#ff0063"
+    },
+    {
+      "name": "White",
+      "hex": "#ededff"
+    },
+    {
+      "name": "Yellow",
+      "hex": "#ffe900"
+    },
+    {
+      "name": "Background",
+      "hex": "#0f0f1a"
+    },
+    {
+      "name": "Foreground",
+      "hex": "#ededfe"
+    },
+    {
+      "name": "Selection Background",
+      "hex": "#202036"
+    },
+    {
+      "name": "Selection Text",
+      "hex": "#ededff"
+    }
+  ]
+}

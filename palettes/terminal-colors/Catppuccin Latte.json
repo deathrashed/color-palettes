@@ -1,0 +1,93 @@
+{
+  "name": "Catppuccin Latte",
+  "colors": [
+    {
+      "name": "Bright Black",
+      "hex": "#6c6f85"
+    },
+    {
+      "name": "Bright Blue",
+      "hex": "#456eff"
+    },
+    {
+      "name": "Bright Cyan",
+      "hex": "#2d9fa8"
+    },
+    {
+      "name": "Bright Green",
+      "hex": "#49af3d"
+    },
+    {
+      "name": "Bright Magenta",
+      "hex": "#fe85d8"
+    },
+    {
+      "name": "Bright Red",
+      "hex": "#de293e"
+    },
+    {
+      "name": "Bright White",
+      "hex": "#bcc0cc"
+    },
+    {
+      "name": "Bright Yellow",
+      "hex": "#eea02d"
+    },
+    {
+      "name": "Cursor Cursor",
+      "hex": "#dc8a78"
+    },
+    {
+      "name": "Cursor Text",
+      "hex": "#eff1f5"
+    },
+    {
+      "name": "Black",
+      "hex": "#5c5f77"
+    },
+    {
+      "name": "Blue",
+      "hex": "#1e66f5"
+    },
+    {
+      "name": "Cyan",
+      "hex": "#179299"
+    },
+    {
+      "name": "Green",
+      "hex": "#40a02b"
+    },
+    {
+      "name": "Magenta",
+      "hex": "#ea76cb"
+    },
+    {
+      "name": "Red",
+      "hex": "#d20f39"
+    },
+    {
+      "name": "White",
+      "hex": "#acb0be"
+    },
+    {
+      "name": "Yellow",
+      "hex": "#df8e1d"
+    },
+    {
+      "name": "Background",
+      "hex": "#eff1f5"
+    },
+    {
+      "name": "Foreground",
+      "hex": "#4c4f69"
+    },
+    {
+      "name": "Selection Background",
+      "hex": "#acb0be"
+    },
+    {
+      "name": "Selection Text",
+      "hex": "#4c4f69"
+    }
+  ]
+}

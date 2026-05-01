@@ -1,0 +1,93 @@
+{
+  "name": "Rose Pine",
+  "colors": [
+    {
+      "name": "Bright Black",
+      "hex": "#6e6a86"
+    },
+    {
+      "name": "Bright Blue",
+      "hex": "#9ccfd8"
+    },
+    {
+      "name": "Bright Cyan",
+      "hex": "#ebbcba"
+    },
+    {
+      "name": "Bright Green",
+      "hex": "#31748f"
+    },
+    {
+      "name": "Bright Magenta",
+      "hex": "#c4a7e7"
+    },
+    {
+      "name": "Bright Red",
+      "hex": "#eb6f92"
+    },
+    {
+      "name": "Bright White",
+      "hex": "#e0def4"
+    },
+    {
+      "name": "Bright Yellow",
+      "hex": "#f6c177"
+    },
+    {
+      "name": "Cursor Cursor",
+      "hex": "#e0def4"
+    },
+    {
+      "name": "Cursor Text",
+      "hex": "#191724"
+    },
+    {
+      "name": "Black",
+      "hex": "#26233a"
+    },
+    {
+      "name": "Blue",
+      "hex": "#9ccfd8"
+    },
+    {
+      "name": "Cyan",
+      "hex": "#ebbcba"
+    },
+    {
+      "name": "Green",
+      "hex": "#31748f"
+    },
+    {
+      "name": "Magenta",
+      "hex": "#c4a7e7"
+    },
+    {
+      "name": "Red",
+      "hex": "#eb6f92"
+    },
+    {
+      "name": "White",
+      "hex": "#e0def4"
+    },
+    {
+      "name": "Yellow",
+      "hex": "#f6c177"
+    },
+    {
+      "name": "Background",
+      "hex": "#191724"
+    },
+    {
+      "name": "Foreground",
+      "hex": "#e0def4"
+    },
+    {
+      "name": "Selection Background",
+      "hex": "#403d52"
+    },
+    {
+      "name": "Selection Text",
+      "hex": "#e0def4"
+    }
+  ]
+}

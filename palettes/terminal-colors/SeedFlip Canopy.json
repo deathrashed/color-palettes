@@ -1,0 +1,93 @@
+{
+  "name": "SeedFlip Canopy",
+  "colors": [
+    {
+      "name": "Bright Black",
+      "hex": "#2d453c"
+    },
+    {
+      "name": "Bright Blue",
+      "hex": "#99b9e6"
+    },
+    {
+      "name": "Bright Cyan",
+      "hex": "#99e6e6"
+    },
+    {
+      "name": "Bright Green",
+      "hex": "#99e6b2"
+    },
+    {
+      "name": "Bright Magenta",
+      "hex": "#e699e6"
+    },
+    {
+      "name": "Bright Red",
+      "hex": "#e69999"
+    },
+    {
+      "name": "Bright White",
+      "hex": "#ffffff"
+    },
+    {
+      "name": "Bright Yellow",
+      "hex": "#e6d999"
+    },
+    {
+      "name": "Cursor Cursor",
+      "hex": "#3ecf8e"
+    },
+    {
+      "name": "Cursor Text",
+      "hex": "#0f1714"
+    },
+    {
+      "name": "Black",
+      "hex": "#0b110f"
+    },
+    {
+      "name": "Blue",
+      "hex": "#5c8fd6"
+    },
+    {
+      "name": "Cyan",
+      "hex": "#5cd6d6"
+    },
+    {
+      "name": "Green",
+      "hex": "#5cd685"
+    },
+    {
+      "name": "Magenta",
+      "hex": "#d65cd6"
+    },
+    {
+      "name": "Red",
+      "hex": "#d65c5c"
+    },
+    {
+      "name": "White",
+      "hex": "#fafafa"
+    },
+    {
+      "name": "Yellow",
+      "hex": "#d6c25c"
+    },
+    {
+      "name": "Background",
+      "hex": "#0f1714"
+    },
+    {
+      "name": "Foreground",
+      "hex": "#ededed"
+    },
+    {
+      "name": "Selection Background",
+      "hex": "#171f1b"
+    },
+    {
+      "name": "Selection Text",
+      "hex": "#ededed"
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "name": "Nordfox",
+  "colors": [
+    {
+      "name": "Bright Black",
+      "hex": "#53648d"
+    },
+    {
+      "name": "Bright Blue",
+      "hex": "#8cafd2"
+    },
+    {
+      "name": "Bright Cyan",
+      "hex": "#93ccdc"
+    },
+    {
+      "name": "Bright Green",
+      "hex": "#b1d196"
+    },
+    {
+      "name": "Bright Magenta",
+      "hex": "#c895bf"
+    },
+    {
+      "name": "Bright Red",
+      "hex": "#d06f79"
+    },
+    {
+      "name": "Bright White",
+      "hex": "#e7ecf4"
+    },
+    {
+      "name": "Bright Yellow",
+      "hex": "#f0d399"
+    },
+    {
+      "name": "Cursor Cursor",
+      "hex": "#cdcecf"
+    },
+    {
+      "name": "Cursor Text",
+      "hex": "#2e3440"
+    },
+    {
+      "name": "Black",
+      "hex": "#3b4252"
+    },
+    {
+      "name": "Blue",
+      "hex": "#81a1c1"
+    },
+    {
+      "name": "Cyan",
+      "hex": "#88c0d0"
+    },
+    {
+      "name": "Green",
+      "hex": "#a3be8c"
+    },
+    {
+      "name": "Magenta",
+      "hex": "#b48ead"
+    },
+    {
+      "name": "Red",
+      "hex": "#bf616a"
+    },
+    {
+      "name": "White",
+      "hex": "#e5e9f0"
+    },
+    {
+      "name": "Yellow",
+      "hex": "#ebcb8b"
+    },
+    {
+      "name": "Background",
+      "hex": "#2e3440"
+    },
+    {
+      "name": "Foreground",
+      "hex": "#cdcecf"
+    },
+    {
+      "name": "Selection Background",
+      "hex": "#3e4a5b"
+    },
+    {
+      "name": "Selection Text",
+      "hex": "#cdcecf"
+    }
+  ]
+}

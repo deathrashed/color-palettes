@@ -1,0 +1,93 @@
+{
+  "name": "Tomorrow Night Burns",
+  "colors": [
+    {
+      "name": "Bright Black",
+      "hex": "#5d6f71"
+    },
+    {
+      "name": "Bright Blue",
+      "hex": "#fc595f"
+    },
+    {
+      "name": "Bright Cyan",
+      "hex": "#ba8586"
+    },
+    {
+      "name": "Bright Green",
+      "hex": "#a63c40"
+    },
+    {
+      "name": "Bright Magenta",
+      "hex": "#df9395"
+    },
+    {
+      "name": "Bright Red",
+      "hex": "#832e31"
+    },
+    {
+      "name": "Bright White",
+      "hex": "#f5f5f5"
+    },
+    {
+      "name": "Bright Yellow",
+      "hex": "#d2494e"
+    },
+    {
+      "name": "Cursor Cursor",
+      "hex": "#ff443e"
+    },
+    {
+      "name": "Cursor Text",
+      "hex": "#b0c2c4"
+    },
+    {
+      "name": "Black",
+      "hex": "#252525"
+    },
+    {
+      "name": "Blue",
+      "hex": "#fc595f"
+    },
+    {
+      "name": "Cyan",
+      "hex": "#ba8586"
+    },
+    {
+      "name": "Green",
+      "hex": "#a63c40"
+    },
+    {
+      "name": "Magenta",
+      "hex": "#df9395"
+    },
+    {
+      "name": "Red",
+      "hex": "#832e31"
+    },
+    {
+      "name": "White",
+      "hex": "#f5f5f5"
+    },
+    {
+      "name": "Yellow",
+      "hex": "#d3494e"
+    },
+    {
+      "name": "Background",
+      "hex": "#151515"
+    },
+    {
+      "name": "Foreground",
+      "hex": "#a1b0b8"
+    },
+    {
+      "name": "Selection Background",
+      "hex": "#b0bec5"
+    },
+    {
+      "name": "Selection Text",
+      "hex": "#2a2d32"
+    }
+  ]
+}

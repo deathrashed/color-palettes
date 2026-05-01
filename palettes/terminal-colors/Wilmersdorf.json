@@ -1,0 +1,93 @@
+{
+  "name": "Wilmersdorf",
+  "colors": [
+    {
+      "name": "Bright Black",
+      "hex": "#50545d"
+    },
+    {
+      "name": "Bright Blue",
+      "hex": "#b2cff0"
+    },
+    {
+      "name": "Bright Cyan",
+      "hex": "#69abc5"
+    },
+    {
+      "name": "Bright Green",
+      "hex": "#8fd7d6"
+    },
+    {
+      "name": "Bright Magenta",
+      "hex": "#efccfd"
+    },
+    {
+      "name": "Bright Red",
+      "hex": "#fa7193"
+    },
+    {
+      "name": "Bright White",
+      "hex": "#d3d3d3"
+    },
+    {
+      "name": "Bright Yellow",
+      "hex": "#d1dfff"
+    },
+    {
+      "name": "Cursor Cursor",
+      "hex": "#7ebebd"
+    },
+    {
+      "name": "Cursor Text",
+      "hex": "#1f2024"
+    },
+    {
+      "name": "Black",
+      "hex": "#34373e"
+    },
+    {
+      "name": "Blue",
+      "hex": "#a6c1e0"
+    },
+    {
+      "name": "Cyan",
+      "hex": "#5b94ab"
+    },
+    {
+      "name": "Green",
+      "hex": "#7ebebd"
+    },
+    {
+      "name": "Magenta",
+      "hex": "#e1c1ee"
+    },
+    {
+      "name": "Red",
+      "hex": "#e06383"
+    },
+    {
+      "name": "White",
+      "hex": "#ababab"
+    },
+    {
+      "name": "Yellow",
+      "hex": "#cccccc"
+    },
+    {
+      "name": "Background",
+      "hex": "#282b33"
+    },
+    {
+      "name": "Foreground",
+      "hex": "#c6c6c6"
+    },
+    {
+      "name": "Selection Background",
+      "hex": "#1f2024"
+    },
+    {
+      "name": "Selection Text",
+      "hex": "#c6c6c6"
+    }
+  ]
+}

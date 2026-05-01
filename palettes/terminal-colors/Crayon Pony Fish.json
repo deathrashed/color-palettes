@@ -1,0 +1,93 @@
+{
+  "name": "Crayon Pony Fish",
+  "colors": [
+    {
+      "name": "Bright Black",
+      "hex": "#4a383b"
+    },
+    {
+      "name": "Bright Blue",
+      "hex": "#cfc9ff"
+    },
+    {
+      "name": "Bright Cyan",
+      "hex": "#ffceaf"
+    },
+    {
+      "name": "Bright Green",
+      "hex": "#8dff57"
+    },
+    {
+      "name": "Bright Magenta",
+      "hex": "#fc6cba"
+    },
+    {
+      "name": "Bright Red",
+      "hex": "#c5255d"
+    },
+    {
+      "name": "Bright White",
+      "hex": "#b0949d"
+    },
+    {
+      "name": "Bright Yellow",
+      "hex": "#c8381d"
+    },
+    {
+      "name": "Cursor Cursor",
+      "hex": "#68525a"
+    },
+    {
+      "name": "Cursor Text",
+      "hex": "#140707"
+    },
+    {
+      "name": "Black",
+      "hex": "#2b1b1d"
+    },
+    {
+      "name": "Blue",
+      "hex": "#8c87b0"
+    },
+    {
+      "name": "Cyan",
+      "hex": "#e8a866"
+    },
+    {
+      "name": "Green",
+      "hex": "#579524"
+    },
+    {
+      "name": "Magenta",
+      "hex": "#692f50"
+    },
+    {
+      "name": "Red",
+      "hex": "#91002b"
+    },
+    {
+      "name": "White",
+      "hex": "#68525a"
+    },
+    {
+      "name": "Yellow",
+      "hex": "#ab311b"
+    },
+    {
+      "name": "Background",
+      "hex": "#150707"
+    },
+    {
+      "name": "Foreground",
+      "hex": "#68525a"
+    },
+    {
+      "name": "Selection Background",
+      "hex": "#2b1b1d"
+    },
+    {
+      "name": "Selection Text",
+      "hex": "#69525a"
+    }
+  ]
+}

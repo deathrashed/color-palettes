@@ -1,0 +1,93 @@
+{
+  "name": "Kanagawa Lotus",
+  "colors": [
+    {
+      "name": "Bright Black",
+      "hex": "#8a8980"
+    },
+    {
+      "name": "Bright Blue",
+      "hex": "#6693bf"
+    },
+    {
+      "name": "Bright Cyan",
+      "hex": "#5e857a"
+    },
+    {
+      "name": "Bright Green",
+      "hex": "#6e915f"
+    },
+    {
+      "name": "Bright Magenta",
+      "hex": "#624c83"
+    },
+    {
+      "name": "Bright Red",
+      "hex": "#d7474b"
+    },
+    {
+      "name": "Bright White",
+      "hex": "#43436c"
+    },
+    {
+      "name": "Bright Yellow",
+      "hex": "#836f4a"
+    },
+    {
+      "name": "Cursor Cursor",
+      "hex": "#43436c"
+    },
+    {
+      "name": "Cursor Text",
+      "hex": "#f2ecbc"
+    },
+    {
+      "name": "Black",
+      "hex": "#1f1f28"
+    },
+    {
+      "name": "Blue",
+      "hex": "#4d699b"
+    },
+    {
+      "name": "Cyan",
+      "hex": "#597b75"
+    },
+    {
+      "name": "Green",
+      "hex": "#6f894e"
+    },
+    {
+      "name": "Magenta",
+      "hex": "#b35b79"
+    },
+    {
+      "name": "Red",
+      "hex": "#c84053"
+    },
+    {
+      "name": "White",
+      "hex": "#545464"
+    },
+    {
+      "name": "Yellow",
+      "hex": "#77713f"
+    },
+    {
+      "name": "Background",
+      "hex": "#f2ecbc"
+    },
+    {
+      "name": "Foreground",
+      "hex": "#545464"
+    },
+    {
+      "name": "Selection Background",
+      "hex": "#545464"
+    },
+    {
+      "name": "Selection Text",
+      "hex": "#f2ecbc"
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "name": "Apple System Colors",
+  "colors": [
+    {
+      "name": "Bright Black",
+      "hex": "#464646"
+    },
+    {
+      "name": "Bright Blue",
+      "hex": "#0a84ff"
+    },
+    {
+      "name": "Bright Cyan",
+      "hex": "#76d6ff"
+    },
+    {
+      "name": "Bright Green",
+      "hex": "#32d74b"
+    },
+    {
+      "name": "Bright Magenta",
+      "hex": "#bf5af2"
+    },
+    {
+      "name": "Bright Red",
+      "hex": "#ff453a"
+    },
+    {
+      "name": "Bright White",
+      "hex": "#ffffff"
+    },
+    {
+      "name": "Bright Yellow",
+      "hex": "#ffd60a"
+    },
+    {
+      "name": "Cursor Cursor",
+      "hex": "#98989d"
+    },
+    {
+      "name": "Cursor Text",
+      "hex": "#ffffff"
+    },
+    {
+      "name": "Black",
+      "hex": "#1a1a1a"
+    },
+    {
+      "name": "Blue",
+      "hex": "#0869cb"
+    },
+    {
+      "name": "Cyan",
+      "hex": "#479ec2"
+    },
+    {
+      "name": "Green",
+      "hex": "#26a439"
+    },
+    {
+      "name": "Magenta",
+      "hex": "#9647bf"
+    },
+    {
+      "name": "Red",
+      "hex": "#cc372e"
+    },
+    {
+      "name": "White",
+      "hex": "#98989d"
+    },
+    {
+      "name": "Yellow",
+      "hex": "#cdac08"
+    },
+    {
+      "name": "Background",
+      "hex": "#1e1e1e"
+    },
+    {
+      "name": "Foreground",
+      "hex": "#ffffff"
+    },
+    {
+      "name": "Selection Background",
+      "hex": "#3f638b"
+    },
+    {
+      "name": "Selection Text",
+      "hex": "#ffffff"
+    }
+  ]
+}

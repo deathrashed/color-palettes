@@ -1,0 +1,93 @@
+{
+  "name": "IRIX Terminal",
+  "colors": [
+    {
+      "name": "Bright Black",
+      "hex": "#ffff44"
+    },
+    {
+      "name": "Bright Blue",
+      "hex": "#ffff44"
+    },
+    {
+      "name": "Bright Cyan",
+      "hex": "#ffff44"
+    },
+    {
+      "name": "Bright Green",
+      "hex": "#ffff44"
+    },
+    {
+      "name": "Bright Magenta",
+      "hex": "#ffff44"
+    },
+    {
+      "name": "Bright Red",
+      "hex": "#ffff44"
+    },
+    {
+      "name": "Bright White",
+      "hex": "#ffff44"
+    },
+    {
+      "name": "Bright Yellow",
+      "hex": "#fffc72"
+    },
+    {
+      "name": "Cursor Cursor",
+      "hex": "#c7c7c7"
+    },
+    {
+      "name": "Cursor Text",
+      "hex": "#8c8c8c"
+    },
+    {
+      "name": "Black",
+      "hex": "#1a1919"
+    },
+    {
+      "name": "Blue",
+      "hex": "#0004ff"
+    },
+    {
+      "name": "Cyan",
+      "hex": "#56ffff"
+    },
+    {
+      "name": "Green",
+      "hex": "#57ff3d"
+    },
+    {
+      "name": "Magenta",
+      "hex": "#ff2cff"
+    },
+    {
+      "name": "Red",
+      "hex": "#ff2b1e"
+    },
+    {
+      "name": "White",
+      "hex": "#ffffff"
+    },
+    {
+      "name": "Yellow",
+      "hex": "#ffff44"
+    },
+    {
+      "name": "Background",
+      "hex": "#000043"
+    },
+    {
+      "name": "Foreground",
+      "hex": "#f2f2f2"
+    },
+    {
+      "name": "Selection Background",
+      "hex": "#c2deff"
+    },
+    {
+      "name": "Selection Text",
+      "hex": "#000000"
+    }
+  ]
+}

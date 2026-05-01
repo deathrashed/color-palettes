@@ -1,0 +1,93 @@
+{
+  "name": "Alien Blood",
+  "colors": [
+    {
+      "name": "Bright Black",
+      "hex": "#3c4812"
+    },
+    {
+      "name": "Bright Blue",
+      "hex": "#00aae0"
+    },
+    {
+      "name": "Bright Cyan",
+      "hex": "#00e0c4"
+    },
+    {
+      "name": "Bright Green",
+      "hex": "#18e000"
+    },
+    {
+      "name": "Bright Magenta",
+      "hex": "#0058e0"
+    },
+    {
+      "name": "Bright Red",
+      "hex": "#e08009"
+    },
+    {
+      "name": "Bright White",
+      "hex": "#73fa91"
+    },
+    {
+      "name": "Bright Yellow",
+      "hex": "#bde000"
+    },
+    {
+      "name": "Cursor Cursor",
+      "hex": "#73fa91"
+    },
+    {
+      "name": "Cursor Text",
+      "hex": "#0f1610"
+    },
+    {
+      "name": "Black",
+      "hex": "#112616"
+    },
+    {
+      "name": "Blue",
+      "hex": "#2f6a7f"
+    },
+    {
+      "name": "Cyan",
+      "hex": "#327f77"
+    },
+    {
+      "name": "Green",
+      "hex": "#2f7e25"
+    },
+    {
+      "name": "Magenta",
+      "hex": "#47587f"
+    },
+    {
+      "name": "Red",
+      "hex": "#7f2b27"
+    },
+    {
+      "name": "White",
+      "hex": "#647d75"
+    },
+    {
+      "name": "Yellow",
+      "hex": "#717f24"
+    },
+    {
+      "name": "Background",
+      "hex": "#0f1610"
+    },
+    {
+      "name": "Foreground",
+      "hex": "#637d75"
+    },
+    {
+      "name": "Selection Background",
+      "hex": "#1d4125"
+    },
+    {
+      "name": "Selection Text",
+      "hex": "#73fa91"
+    }
+  ]
+}

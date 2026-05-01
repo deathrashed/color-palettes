@@ -1,0 +1,93 @@
+{
+  "name": "Apple Classic",
+  "colors": [
+    {
+      "name": "Bright Black",
+      "hex": "#686868"
+    },
+    {
+      "name": "Bright Blue",
+      "hex": "#6871ff"
+    },
+    {
+      "name": "Bright Cyan",
+      "hex": "#60fdff"
+    },
+    {
+      "name": "Bright Green",
+      "hex": "#5ffa68"
+    },
+    {
+      "name": "Bright Magenta",
+      "hex": "#ff77ff"
+    },
+    {
+      "name": "Bright Red",
+      "hex": "#ff6e67"
+    },
+    {
+      "name": "Bright White",
+      "hex": "#ffffff"
+    },
+    {
+      "name": "Bright Yellow",
+      "hex": "#fffc67"
+    },
+    {
+      "name": "Cursor Cursor",
+      "hex": "#c7c7c7"
+    },
+    {
+      "name": "Cursor Text",
+      "hex": "#8c8c8c"
+    },
+    {
+      "name": "Black",
+      "hex": "#000000"
+    },
+    {
+      "name": "Blue",
+      "hex": "#1c3fe1"
+    },
+    {
+      "name": "Cyan",
+      "hex": "#00c5c7"
+    },
+    {
+      "name": "Green",
+      "hex": "#00c200"
+    },
+    {
+      "name": "Magenta",
+      "hex": "#ca30c7"
+    },
+    {
+      "name": "Red",
+      "hex": "#c91b00"
+    },
+    {
+      "name": "White",
+      "hex": "#c7c7c7"
+    },
+    {
+      "name": "Yellow",
+      "hex": "#c7c400"
+    },
+    {
+      "name": "Background",
+      "hex": "#2c2b2b"
+    },
+    {
+      "name": "Foreground",
+      "hex": "#d5a200"
+    },
+    {
+      "name": "Selection Background",
+      "hex": "#6b5b02"
+    },
+    {
+      "name": "Selection Text",
+      "hex": "#67e000"
+    }
+  ]
+}

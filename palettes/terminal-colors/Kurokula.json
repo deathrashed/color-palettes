@@ -1,0 +1,93 @@
+{
+  "name": "Kurokula",
+  "colors": [
+    {
+      "name": "Bright Black",
+      "hex": "#515151"
+    },
+    {
+      "name": "Bright Blue",
+      "hex": "#90dbff"
+    },
+    {
+      "name": "Bright Cyan",
+      "hex": "#ffcdb6"
+    },
+    {
+      "name": "Bright Green",
+      "hex": "#afffa5"
+    },
+    {
+      "name": "Bright Magenta",
+      "hex": "#ad93ff"
+    },
+    {
+      "name": "Bright Red",
+      "hex": "#ffc34c"
+    },
+    {
+      "name": "Bright White",
+      "hex": "#ffffff"
+    },
+    {
+      "name": "Bright Yellow",
+      "hex": "#fff700"
+    },
+    {
+      "name": "Cursor Cursor",
+      "hex": "#7a1c1c"
+    },
+    {
+      "name": "Cursor Text",
+      "hex": "#fffbf2"
+    },
+    {
+      "name": "Black",
+      "hex": "#333333"
+    },
+    {
+      "name": "Blue",
+      "hex": "#5c91dd"
+    },
+    {
+      "name": "Cyan",
+      "hex": "#867268"
+    },
+    {
+      "name": "Green",
+      "hex": "#78b3a9"
+    },
+    {
+      "name": "Magenta",
+      "hex": "#8b79a6"
+    },
+    {
+      "name": "Red",
+      "hex": "#c35a52"
+    },
+    {
+      "name": "White",
+      "hex": "#e0cfc2"
+    },
+    {
+      "name": "Yellow",
+      "hex": "#e1b917"
+    },
+    {
+      "name": "Background",
+      "hex": "#141515"
+    },
+    {
+      "name": "Foreground",
+      "hex": "#e0cfc2"
+    },
+    {
+      "name": "Selection Background",
+      "hex": "#515151"
+    },
+    {
+      "name": "Selection Text",
+      "hex": "#ffc34c"
+    }
+  ]
+}

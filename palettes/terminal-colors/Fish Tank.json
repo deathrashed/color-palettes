@@ -1,0 +1,93 @@
+{
+  "name": "Fish Tank",
+  "colors": [
+    {
+      "name": "Bright Black",
+      "hex": "#6c5b30"
+    },
+    {
+      "name": "Bright Blue",
+      "hex": "#b2befa"
+    },
+    {
+      "name": "Bright Cyan",
+      "hex": "#a5bd86"
+    },
+    {
+      "name": "Bright Green",
+      "hex": "#dbffa9"
+    },
+    {
+      "name": "Bright Magenta",
+      "hex": "#fda5cd"
+    },
+    {
+      "name": "Bright Red",
+      "hex": "#da4b8a"
+    },
+    {
+      "name": "Bright White",
+      "hex": "#f6ffec"
+    },
+    {
+      "name": "Bright Yellow",
+      "hex": "#fee6a9"
+    },
+    {
+      "name": "Cursor Cursor",
+      "hex": "#fecd5e"
+    },
+    {
+      "name": "Cursor Text",
+      "hex": "#232537"
+    },
+    {
+      "name": "Black",
+      "hex": "#03073c"
+    },
+    {
+      "name": "Blue",
+      "hex": "#525fb8"
+    },
+    {
+      "name": "Cyan",
+      "hex": "#968763"
+    },
+    {
+      "name": "Green",
+      "hex": "#acf157"
+    },
+    {
+      "name": "Magenta",
+      "hex": "#986f82"
+    },
+    {
+      "name": "Red",
+      "hex": "#c6004a"
+    },
+    {
+      "name": "White",
+      "hex": "#ecf0fc"
+    },
+    {
+      "name": "Yellow",
+      "hex": "#fecd5e"
+    },
+    {
+      "name": "Background",
+      "hex": "#232537"
+    },
+    {
+      "name": "Foreground",
+      "hex": "#ecf0fe"
+    },
+    {
+      "name": "Selection Background",
+      "hex": "#fcf7e9"
+    },
+    {
+      "name": "Selection Text",
+      "hex": "#232537"
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "name": "Sonokai",
+  "colors": [
+    {
+      "name": "Bright Black",
+      "hex": "#7f8490"
+    },
+    {
+      "name": "Bright Blue",
+      "hex": "#76cce0"
+    },
+    {
+      "name": "Bright Cyan",
+      "hex": "#f39660"
+    },
+    {
+      "name": "Bright Green",
+      "hex": "#9ed072"
+    },
+    {
+      "name": "Bright Magenta",
+      "hex": "#b39df3"
+    },
+    {
+      "name": "Bright Red",
+      "hex": "#fc5d7c"
+    },
+    {
+      "name": "Bright White",
+      "hex": "#e2e2e3"
+    },
+    {
+      "name": "Bright Yellow",
+      "hex": "#e7c664"
+    },
+    {
+      "name": "Cursor Cursor",
+      "hex": "#e2e2e3"
+    },
+    {
+      "name": "Cursor Text",
+      "hex": "#2c2e34"
+    },
+    {
+      "name": "Black",
+      "hex": "#181819"
+    },
+    {
+      "name": "Blue",
+      "hex": "#76cce0"
+    },
+    {
+      "name": "Cyan",
+      "hex": "#f39660"
+    },
+    {
+      "name": "Green",
+      "hex": "#9ed072"
+    },
+    {
+      "name": "Magenta",
+      "hex": "#b39df3"
+    },
+    {
+      "name": "Red",
+      "hex": "#fc5d7c"
+    },
+    {
+      "name": "White",
+      "hex": "#e2e2e3"
+    },
+    {
+      "name": "Yellow",
+      "hex": "#e7c664"
+    },
+    {
+      "name": "Background",
+      "hex": "#2c2e34"
+    },
+    {
+      "name": "Foreground",
+      "hex": "#e2e2e3"
+    },
+    {
+      "name": "Selection Background",
+      "hex": "#414550"
+    },
+    {
+      "name": "Selection Text",
+      "hex": "#e2e2e3"
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "name": "Belafonte Day",
+  "colors": [
+    {
+      "name": "Bright Black",
+      "hex": "#5e5252"
+    },
+    {
+      "name": "Bright Blue",
+      "hex": "#426a79"
+    },
+    {
+      "name": "Bright Cyan",
+      "hex": "#989a9c"
+    },
+    {
+      "name": "Bright Green",
+      "hex": "#858162"
+    },
+    {
+      "name": "Bright Magenta",
+      "hex": "#97522c"
+    },
+    {
+      "name": "Bright Red",
+      "hex": "#be100e"
+    },
+    {
+      "name": "Bright White",
+      "hex": "#d5ccba"
+    },
+    {
+      "name": "Bright Yellow",
+      "hex": "#d08b30"
+    },
+    {
+      "name": "Cursor Cursor",
+      "hex": "#45373c"
+    },
+    {
+      "name": "Cursor Text",
+      "hex": "#d5ccba"
+    },
+    {
+      "name": "Black",
+      "hex": "#20111b"
+    },
+    {
+      "name": "Blue",
+      "hex": "#426a79"
+    },
+    {
+      "name": "Cyan",
+      "hex": "#989a9c"
+    },
+    {
+      "name": "Green",
+      "hex": "#858162"
+    },
+    {
+      "name": "Magenta",
+      "hex": "#97522c"
+    },
+    {
+      "name": "Red",
+      "hex": "#be100e"
+    },
+    {
+      "name": "White",
+      "hex": "#968c83"
+    },
+    {
+      "name": "Yellow",
+      "hex": "#d08b30"
+    },
+    {
+      "name": "Background",
+      "hex": "#d5ccba"
+    },
+    {
+      "name": "Foreground",
+      "hex": "#45373c"
+    },
+    {
+      "name": "Selection Background",
+      "hex": "#968c83"
+    },
+    {
+      "name": "Selection Text",
+      "hex": "#45373c"
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "name": "The Hulk",
+  "colors": [
+    {
+      "name": "Bright Black",
+      "hex": "#505354"
+    },
+    {
+      "name": "Bright Blue",
+      "hex": "#506b95"
+    },
+    {
+      "name": "Bright Cyan",
+      "hex": "#4085a6"
+    },
+    {
+      "name": "Bright Green",
+      "hex": "#48ff77"
+    },
+    {
+      "name": "Bright Magenta",
+      "hex": "#72589d"
+    },
+    {
+      "name": "Bright Red",
+      "hex": "#8dff2a"
+    },
+    {
+      "name": "Bright White",
+      "hex": "#e5e6e1"
+    },
+    {
+      "name": "Bright Yellow",
+      "hex": "#3afe16"
+    },
+    {
+      "name": "Cursor Cursor",
+      "hex": "#16b61b"
+    },
+    {
+      "name": "Cursor Text",
+      "hex": "#000000"
+    },
+    {
+      "name": "Black",
+      "hex": "#1b1d1e"
+    },
+    {
+      "name": "Blue",
+      "hex": "#2525f5"
+    },
+    {
+      "name": "Cyan",
+      "hex": "#378ca9"
+    },
+    {
+      "name": "Green",
+      "hex": "#13ce30"
+    },
+    {
+      "name": "Magenta",
+      "hex": "#712c81"
+    },
+    {
+      "name": "Red",
+      "hex": "#269d1b"
+    },
+    {
+      "name": "White",
+      "hex": "#d9d8d1"
+    },
+    {
+      "name": "Yellow",
+      "hex": "#63e457"
+    },
+    {
+      "name": "Background",
+      "hex": "#1b1d1e"
+    },
+    {
+      "name": "Foreground",
+      "hex": "#b5b5b5"
+    },
+    {
+      "name": "Selection Background",
+      "hex": "#4d504c"
+    },
+    {
+      "name": "Selection Text",
+      "hex": "#31892f"
+    }
+  ]
+}

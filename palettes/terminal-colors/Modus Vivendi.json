@@ -1,0 +1,93 @@
+{
+  "name": "Modus Vivendi",
+  "colors": [
+    {
+      "name": "Bright Black",
+      "hex": "#595959"
+    },
+    {
+      "name": "Bright Blue",
+      "hex": "#79a8ff"
+    },
+    {
+      "name": "Bright Cyan",
+      "hex": "#6ae4b9"
+    },
+    {
+      "name": "Bright Green",
+      "hex": "#00c06f"
+    },
+    {
+      "name": "Bright Magenta",
+      "hex": "#b6a0ff"
+    },
+    {
+      "name": "Bright Red",
+      "hex": "#ff7f9f"
+    },
+    {
+      "name": "Bright White",
+      "hex": "#ffffff"
+    },
+    {
+      "name": "Bright Yellow",
+      "hex": "#fec43f"
+    },
+    {
+      "name": "Cursor Cursor",
+      "hex": "#ffffff"
+    },
+    {
+      "name": "Cursor Text",
+      "hex": "#000000"
+    },
+    {
+      "name": "Black",
+      "hex": "#000000"
+    },
+    {
+      "name": "Blue",
+      "hex": "#2fafff"
+    },
+    {
+      "name": "Cyan",
+      "hex": "#00d3d0"
+    },
+    {
+      "name": "Green",
+      "hex": "#44bc44"
+    },
+    {
+      "name": "Magenta",
+      "hex": "#feacd0"
+    },
+    {
+      "name": "Red",
+      "hex": "#ff5f59"
+    },
+    {
+      "name": "White",
+      "hex": "#a6a6a6"
+    },
+    {
+      "name": "Yellow",
+      "hex": "#d0bc00"
+    },
+    {
+      "name": "Background",
+      "hex": "#000000"
+    },
+    {
+      "name": "Foreground",
+      "hex": "#ffffff"
+    },
+    {
+      "name": "Selection Background",
+      "hex": "#5a5a5a"
+    },
+    {
+      "name": "Selection Text",
+      "hex": "#ffffff"
+    }
+  ]
+}

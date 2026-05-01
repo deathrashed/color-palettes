@@ -1,0 +1,93 @@
+{
+  "name": "Electron Highlighter",
+  "colors": [
+    {
+      "name": "Bright Black",
+      "hex": "#4a6789"
+    },
+    {
+      "name": "Bright Blue",
+      "hex": "#77abff"
+    },
+    {
+      "name": "Bright Cyan",
+      "hex": "#00fdff"
+    },
+    {
+      "name": "Bright Green",
+      "hex": "#00ffc3"
+    },
+    {
+      "name": "Bright Magenta",
+      "hex": "#daa4f4"
+    },
+    {
+      "name": "Bright Red",
+      "hex": "#ff6c8d"
+    },
+    {
+      "name": "Bright White",
+      "hex": "#c3cee2"
+    },
+    {
+      "name": "Bright Yellow",
+      "hex": "#ffd7a9"
+    },
+    {
+      "name": "Cursor Cursor",
+      "hex": "#a5b6d4"
+    },
+    {
+      "name": "Cursor Text",
+      "hex": "#1a1b27"
+    },
+    {
+      "name": "Black",
+      "hex": "#15161f"
+    },
+    {
+      "name": "Blue",
+      "hex": "#77abff"
+    },
+    {
+      "name": "Cyan",
+      "hex": "#00fdff"
+    },
+    {
+      "name": "Green",
+      "hex": "#00ffc3"
+    },
+    {
+      "name": "Magenta",
+      "hex": "#daa4f4"
+    },
+    {
+      "name": "Red",
+      "hex": "#ff6c8d"
+    },
+    {
+      "name": "White",
+      "hex": "#778faf"
+    },
+    {
+      "name": "Yellow",
+      "hex": "#ffd7a9"
+    },
+    {
+      "name": "Background",
+      "hex": "#23283d"
+    },
+    {
+      "name": "Foreground",
+      "hex": "#a5b6d4"
+    },
+    {
+      "name": "Selection Background",
+      "hex": "#25345a"
+    },
+    {
+      "name": "Selection Text",
+      "hex": "#a5b6d4"
+    }
+  ]
+}

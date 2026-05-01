@@ -1,0 +1,93 @@
+{
+  "name": "Jackie Brown",
+  "colors": [
+    {
+      "name": "Bright Black",
+      "hex": "#666666"
+    },
+    {
+      "name": "Bright Blue",
+      "hex": "#0000ff"
+    },
+    {
+      "name": "Bright Cyan",
+      "hex": "#00e5e5"
+    },
+    {
+      "name": "Bright Green",
+      "hex": "#86a93e"
+    },
+    {
+      "name": "Bright Magenta",
+      "hex": "#e500e5"
+    },
+    {
+      "name": "Bright Red",
+      "hex": "#e50000"
+    },
+    {
+      "name": "Bright White",
+      "hex": "#e5e5e5"
+    },
+    {
+      "name": "Bright Yellow",
+      "hex": "#e5e500"
+    },
+    {
+      "name": "Cursor Cursor",
+      "hex": "#23ff18"
+    },
+    {
+      "name": "Cursor Text",
+      "hex": "#ff0018"
+    },
+    {
+      "name": "Black",
+      "hex": "#2c1d16"
+    },
+    {
+      "name": "Blue",
+      "hex": "#246eb2"
+    },
+    {
+      "name": "Cyan",
+      "hex": "#00acee"
+    },
+    {
+      "name": "Green",
+      "hex": "#2baf2b"
+    },
+    {
+      "name": "Magenta",
+      "hex": "#d05ec1"
+    },
+    {
+      "name": "Red",
+      "hex": "#ef5734"
+    },
+    {
+      "name": "White",
+      "hex": "#bfbfbf"
+    },
+    {
+      "name": "Yellow",
+      "hex": "#bebf00"
+    },
+    {
+      "name": "Background",
+      "hex": "#2c1d16"
+    },
+    {
+      "name": "Foreground",
+      "hex": "#ffcc2f"
+    },
+    {
+      "name": "Selection Background",
+      "hex": "#af8d21"
+    },
+    {
+      "name": "Selection Text",
+      "hex": "#ffffff"
+    }
+  ]
+}

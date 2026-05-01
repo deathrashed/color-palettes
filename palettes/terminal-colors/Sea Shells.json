@@ -1,0 +1,93 @@
+{
+  "name": "Sea Shells",
+  "colors": [
+    {
+      "name": "Bright Black",
+      "hex": "#434b53"
+    },
+    {
+      "name": "Bright Blue",
+      "hex": "#1bbcdd"
+    },
+    {
+      "name": "Bright Cyan",
+      "hex": "#87acb4"
+    },
+    {
+      "name": "Bright Green",
+      "hex": "#628d98"
+    },
+    {
+      "name": "Bright Magenta",
+      "hex": "#bbe3ee"
+    },
+    {
+      "name": "Bright Red",
+      "hex": "#d48678"
+    },
+    {
+      "name": "Bright White",
+      "hex": "#fee4ce"
+    },
+    {
+      "name": "Bright Yellow",
+      "hex": "#fdd39f"
+    },
+    {
+      "name": "Cursor Cursor",
+      "hex": "#fca02f"
+    },
+    {
+      "name": "Cursor Text",
+      "hex": "#08131a"
+    },
+    {
+      "name": "Black",
+      "hex": "#17384c"
+    },
+    {
+      "name": "Blue",
+      "hex": "#1e4950"
+    },
+    {
+      "name": "Cyan",
+      "hex": "#50a3b5"
+    },
+    {
+      "name": "Green",
+      "hex": "#027c9b"
+    },
+    {
+      "name": "Magenta",
+      "hex": "#68d4f1"
+    },
+    {
+      "name": "Red",
+      "hex": "#d15123"
+    },
+    {
+      "name": "White",
+      "hex": "#deb88d"
+    },
+    {
+      "name": "Yellow",
+      "hex": "#fca02f"
+    },
+    {
+      "name": "Background",
+      "hex": "#09141b"
+    },
+    {
+      "name": "Foreground",
+      "hex": "#deb88d"
+    },
+    {
+      "name": "Selection Background",
+      "hex": "#1e4962"
+    },
+    {
+      "name": "Selection Text",
+      "hex": "#fee4ce"
+    }
+  ]
+}

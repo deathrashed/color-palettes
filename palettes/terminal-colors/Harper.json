@@ -1,0 +1,93 @@
+{
+  "name": "Harper",
+  "colors": [
+    {
+      "name": "Bright Black",
+      "hex": "#726e6a"
+    },
+    {
+      "name": "Bright Blue",
+      "hex": "#489e48"
+    },
+    {
+      "name": "Bright Cyan",
+      "hex": "#f5bfd7"
+    },
+    {
+      "name": "Bright Green",
+      "hex": "#7fb5e1"
+    },
+    {
+      "name": "Bright Magenta",
+      "hex": "#b296c6"
+    },
+    {
+      "name": "Bright Red",
+      "hex": "#f8b63f"
+    },
+    {
+      "name": "Bright White",
+      "hex": "#fefbea"
+    },
+    {
+      "name": "Bright Yellow",
+      "hex": "#d6da25"
+    },
+    {
+      "name": "Cursor Cursor",
+      "hex": "#a8a49d"
+    },
+    {
+      "name": "Cursor Text",
+      "hex": "#010101"
+    },
+    {
+      "name": "Black",
+      "hex": "#010101"
+    },
+    {
+      "name": "Blue",
+      "hex": "#489e48"
+    },
+    {
+      "name": "Cyan",
+      "hex": "#f5bfd7"
+    },
+    {
+      "name": "Green",
+      "hex": "#7fb5e1"
+    },
+    {
+      "name": "Magenta",
+      "hex": "#b296c6"
+    },
+    {
+      "name": "Red",
+      "hex": "#f8b63f"
+    },
+    {
+      "name": "White",
+      "hex": "#a8a49d"
+    },
+    {
+      "name": "Yellow",
+      "hex": "#d6da25"
+    },
+    {
+      "name": "Background",
+      "hex": "#010101"
+    },
+    {
+      "name": "Foreground",
+      "hex": "#a8a49d"
+    },
+    {
+      "name": "Selection Background",
+      "hex": "#5a5753"
+    },
+    {
+      "name": "Selection Text",
+      "hex": "#a8a49d"
+    }
+  ]
+}

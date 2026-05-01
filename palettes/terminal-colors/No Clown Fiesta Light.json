@@ -1,0 +1,93 @@
+{
+  "name": "No Clown Fiesta Light",
+  "colors": [
+    {
+      "name": "Bright Black",
+      "hex": "#2b2b2b"
+    },
+    {
+      "name": "Bright Blue",
+      "hex": "#93a2ab"
+    },
+    {
+      "name": "Bright Cyan",
+      "hex": "#99ab93"
+    },
+    {
+      "name": "Bright Green",
+      "hex": "#677940"
+    },
+    {
+      "name": "Bright Magenta",
+      "hex": "#aa759f"
+    },
+    {
+      "name": "Bright Red",
+      "hex": "#637786"
+    },
+    {
+      "name": "Bright White",
+      "hex": "#373737"
+    },
+    {
+      "name": "Bright Yellow",
+      "hex": "#b89058"
+    },
+    {
+      "name": "Cursor Cursor",
+      "hex": "#151515"
+    },
+    {
+      "name": "Cursor Text",
+      "hex": "#d0d0d0"
+    },
+    {
+      "name": "Black",
+      "hex": "#d6d6d6"
+    },
+    {
+      "name": "Blue",
+      "hex": "#8ba1bf"
+    },
+    {
+      "name": "Cyan",
+      "hex": "#3e5f66"
+    },
+    {
+      "name": "Green",
+      "hex": "#677940"
+    },
+    {
+      "name": "Magenta",
+      "hex": "#aa759f"
+    },
+    {
+      "name": "Red",
+      "hex": "#874e42"
+    },
+    {
+      "name": "White",
+      "hex": "#151515"
+    },
+    {
+      "name": "Yellow",
+      "hex": "#b89058"
+    },
+    {
+      "name": "Background",
+      "hex": "#e1e1e1"
+    },
+    {
+      "name": "Foreground",
+      "hex": "#151515"
+    },
+    {
+      "name": "Selection Background",
+      "hex": "#c6d5de"
+    },
+    {
+      "name": "Selection Text",
+      "hex": "#151515"
+    }
+  ]
+}

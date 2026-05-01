@@ -1,0 +1,93 @@
+{
+  "name": "Django Reborn Again",
+  "colors": [
+    {
+      "name": "Bright Black",
+      "hex": "#4c4c4c"
+    },
+    {
+      "name": "Bright Blue",
+      "hex": "#568264"
+    },
+    {
+      "name": "Bright Cyan",
+      "hex": "#cfffd1"
+    },
+    {
+      "name": "Bright Green",
+      "hex": "#73da70"
+    },
+    {
+      "name": "Bright Magenta",
+      "hex": "#ffffff"
+    },
+    {
+      "name": "Bright Red",
+      "hex": "#ff943b"
+    },
+    {
+      "name": "Bright White",
+      "hex": "#ffffff"
+    },
+    {
+      "name": "Bright Yellow",
+      "hex": "#ffff94"
+    },
+    {
+      "name": "Cursor Cursor",
+      "hex": "#ffcc00"
+    },
+    {
+      "name": "Cursor Text",
+      "hex": "#9a9e9c"
+    },
+    {
+      "name": "Black",
+      "hex": "#000000"
+    },
+    {
+      "name": "Blue",
+      "hex": "#245032"
+    },
+    {
+      "name": "Cyan",
+      "hex": "#9df39f"
+    },
+    {
+      "name": "Green",
+      "hex": "#41a83e"
+    },
+    {
+      "name": "Magenta",
+      "hex": "#f8f8f8"
+    },
+    {
+      "name": "Red",
+      "hex": "#fd6209"
+    },
+    {
+      "name": "White",
+      "hex": "#ffffff"
+    },
+    {
+      "name": "Yellow",
+      "hex": "#ffe862"
+    },
+    {
+      "name": "Background",
+      "hex": "#051f14"
+    },
+    {
+      "name": "Foreground",
+      "hex": "#dadedc"
+    },
+    {
+      "name": "Selection Background",
+      "hex": "#203727"
+    },
+    {
+      "name": "Selection Text",
+      "hex": "#dadedc"
+    }
+  ]
+}

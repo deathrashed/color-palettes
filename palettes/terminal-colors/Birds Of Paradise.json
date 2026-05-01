@@ -1,0 +1,93 @@
+{
+  "name": "Birds Of Paradise",
+  "colors": [
+    {
+      "name": "Bright Black",
+      "hex": "#9b6c4a"
+    },
+    {
+      "name": "Bright Blue",
+      "hex": "#b8d3ed"
+    },
+    {
+      "name": "Bright Cyan",
+      "hex": "#93cfd7"
+    },
+    {
+      "name": "Bright Green",
+      "hex": "#95d8ba"
+    },
+    {
+      "name": "Bright Magenta",
+      "hex": "#d19ecb"
+    },
+    {
+      "name": "Bright Red",
+      "hex": "#e84627"
+    },
+    {
+      "name": "Bright White",
+      "hex": "#fff9d5"
+    },
+    {
+      "name": "Bright Yellow",
+      "hex": "#d0d150"
+    },
+    {
+      "name": "Cursor Cursor",
+      "hex": "#644a33"
+    },
+    {
+      "name": "Cursor Text",
+      "hex": "#8a7059"
+    },
+    {
+      "name": "Black",
+      "hex": "#573d26"
+    },
+    {
+      "name": "Blue",
+      "hex": "#5a86ad"
+    },
+    {
+      "name": "Cyan",
+      "hex": "#74a6ad"
+    },
+    {
+      "name": "Green",
+      "hex": "#6ba18a"
+    },
+    {
+      "name": "Magenta",
+      "hex": "#ac80a6"
+    },
+    {
+      "name": "Red",
+      "hex": "#be2d26"
+    },
+    {
+      "name": "White",
+      "hex": "#e0dbb7"
+    },
+    {
+      "name": "Yellow",
+      "hex": "#e99d2a"
+    },
+    {
+      "name": "Background",
+      "hex": "#2a1f1d"
+    },
+    {
+      "name": "Foreground",
+      "hex": "#e0dbb7"
+    },
+    {
+      "name": "Selection Background",
+      "hex": "#563c27"
+    },
+    {
+      "name": "Selection Text",
+      "hex": "#e0dbbb"
+    }
+  ]
+}

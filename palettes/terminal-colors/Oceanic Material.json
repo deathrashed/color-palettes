@@ -1,0 +1,93 @@
+{
+  "name": "Oceanic Material",
+  "colors": [
+    {
+      "name": "Bright Black",
+      "hex": "#777777"
+    },
+    {
+      "name": "Bright Blue",
+      "hex": "#54a4f3"
+    },
+    {
+      "name": "Bright Cyan",
+      "hex": "#42c7da"
+    },
+    {
+      "name": "Bright Green",
+      "hex": "#70be71"
+    },
+    {
+      "name": "Bright Magenta",
+      "hex": "#aa4dbc"
+    },
+    {
+      "name": "Bright Red",
+      "hex": "#dc5c60"
+    },
+    {
+      "name": "Bright White",
+      "hex": "#ffffff"
+    },
+    {
+      "name": "Bright Yellow",
+      "hex": "#fff163"
+    },
+    {
+      "name": "Cursor Cursor",
+      "hex": "#b3b8c3"
+    },
+    {
+      "name": "Cursor Text",
+      "hex": "#ffffff"
+    },
+    {
+      "name": "Black",
+      "hex": "#000000"
+    },
+    {
+      "name": "Blue",
+      "hex": "#1e80f0"
+    },
+    {
+      "name": "Cyan",
+      "hex": "#16afca"
+    },
+    {
+      "name": "Green",
+      "hex": "#40a33f"
+    },
+    {
+      "name": "Magenta",
+      "hex": "#8800a0"
+    },
+    {
+      "name": "Red",
+      "hex": "#ee2b2a"
+    },
+    {
+      "name": "White",
+      "hex": "#a4a4a4"
+    },
+    {
+      "name": "Yellow",
+      "hex": "#ffea2e"
+    },
+    {
+      "name": "Background",
+      "hex": "#1c262b"
+    },
+    {
+      "name": "Foreground",
+      "hex": "#c2c8d7"
+    },
+    {
+      "name": "Selection Background",
+      "hex": "#6dc2b8"
+    },
+    {
+      "name": "Selection Text",
+      "hex": "#e8eefd"
+    }
+  ]
+}

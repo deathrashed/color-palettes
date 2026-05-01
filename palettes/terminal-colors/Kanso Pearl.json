@@ -1,0 +1,93 @@
+{
+  "name": "Kanso Pearl",
+  "colors": [
+    {
+      "name": "Bright Black",
+      "hex": "#6d6f6e"
+    },
+    {
+      "name": "Bright Blue",
+      "hex": "#6693bf"
+    },
+    {
+      "name": "Bright Cyan",
+      "hex": "#5e857a"
+    },
+    {
+      "name": "Bright Green",
+      "hex": "#6e915f"
+    },
+    {
+      "name": "Bright Magenta",
+      "hex": "#624c83"
+    },
+    {
+      "name": "Bright Red",
+      "hex": "#d7474b"
+    },
+    {
+      "name": "Bright White",
+      "hex": "#43436c"
+    },
+    {
+      "name": "Bright Yellow",
+      "hex": "#836f4a"
+    },
+    {
+      "name": "Cursor Cursor",
+      "hex": "#22262d"
+    },
+    {
+      "name": "Cursor Text",
+      "hex": "#f2f1ef"
+    },
+    {
+      "name": "Black",
+      "hex": "#22262d"
+    },
+    {
+      "name": "Blue",
+      "hex": "#4d699b"
+    },
+    {
+      "name": "Cyan",
+      "hex": "#597b75"
+    },
+    {
+      "name": "Green",
+      "hex": "#6f894e"
+    },
+    {
+      "name": "Magenta",
+      "hex": "#b35b79"
+    },
+    {
+      "name": "Red",
+      "hex": "#c84053"
+    },
+    {
+      "name": "White",
+      "hex": "#545464"
+    },
+    {
+      "name": "Yellow",
+      "hex": "#77713f"
+    },
+    {
+      "name": "Background",
+      "hex": "#f2f1ef"
+    },
+    {
+      "name": "Foreground",
+      "hex": "#22262d"
+    },
+    {
+      "name": "Selection Background",
+      "hex": "#e2e1df"
+    },
+    {
+      "name": "Selection Text",
+      "hex": "#22262d"
+    }
+  ]
+}

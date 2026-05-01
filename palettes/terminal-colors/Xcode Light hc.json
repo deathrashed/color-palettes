@@ -1,0 +1,93 @@
+{
+  "name": "Xcode Light hc",
+  "colors": [
+    {
+      "name": "Bright Black",
+      "hex": "#8a99a6"
+    },
+    {
+      "name": "Bright Blue",
+      "hex": "#003f73"
+    },
+    {
+      "name": "Bright Cyan",
+      "hex": "#441ea1"
+    },
+    {
+      "name": "Bright Green",
+      "hex": "#174145"
+    },
+    {
+      "name": "Bright Magenta",
+      "hex": "#9c2191"
+    },
+    {
+      "name": "Bright Red",
+      "hex": "#ad1805"
+    },
+    {
+      "name": "Bright White",
+      "hex": "#000000"
+    },
+    {
+      "name": "Bright Yellow",
+      "hex": "#78492a"
+    },
+    {
+      "name": "Cursor Cursor",
+      "hex": "#000000"
+    },
+    {
+      "name": "Cursor Text",
+      "hex": "#ffffff"
+    },
+    {
+      "name": "Black",
+      "hex": "#b4d8fd"
+    },
+    {
+      "name": "Blue",
+      "hex": "#0058a1"
+    },
+    {
+      "name": "Cyan",
+      "hex": "#703daa"
+    },
+    {
+      "name": "Green",
+      "hex": "#355d61"
+    },
+    {
+      "name": "Magenta",
+      "hex": "#9c2191"
+    },
+    {
+      "name": "Red",
+      "hex": "#ad1805"
+    },
+    {
+      "name": "White",
+      "hex": "#000000"
+    },
+    {
+      "name": "Yellow",
+      "hex": "#78492a"
+    },
+    {
+      "name": "Background",
+      "hex": "#ffffff"
+    },
+    {
+      "name": "Foreground",
+      "hex": "#000000"
+    },
+    {
+      "name": "Selection Background",
+      "hex": "#b4d8fd"
+    },
+    {
+      "name": "Selection Text",
+      "hex": "#000000"
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "name": "Borland",
+  "colors": [
+    {
+      "name": "Bright Black",
+      "hex": "#7c7c7c"
+    },
+    {
+      "name": "Bright Blue",
+      "hex": "#b5dcff"
+    },
+    {
+      "name": "Bright Cyan",
+      "hex": "#dfdffe"
+    },
+    {
+      "name": "Bright Green",
+      "hex": "#ceffac"
+    },
+    {
+      "name": "Bright Magenta",
+      "hex": "#ff9cfe"
+    },
+    {
+      "name": "Bright Red",
+      "hex": "#ffb6b0"
+    },
+    {
+      "name": "Bright White",
+      "hex": "#ffffff"
+    },
+    {
+      "name": "Bright Yellow",
+      "hex": "#ffffcc"
+    },
+    {
+      "name": "Cursor Cursor",
+      "hex": "#ffa560"
+    },
+    {
+      "name": "Cursor Text",
+      "hex": "#ffffff"
+    },
+    {
+      "name": "Black",
+      "hex": "#4f4f4f"
+    },
+    {
+      "name": "Blue",
+      "hex": "#96cbfe"
+    },
+    {
+      "name": "Cyan",
+      "hex": "#c6c5fe"
+    },
+    {
+      "name": "Green",
+      "hex": "#a8ff60"
+    },
+    {
+      "name": "Magenta",
+      "hex": "#ff73fd"
+    },
+    {
+      "name": "Red",
+      "hex": "#ff6c60"
+    },
+    {
+      "name": "White",
+      "hex": "#eeeeee"
+    },
+    {
+      "name": "Yellow",
+      "hex": "#ffffb6"
+    },
+    {
+      "name": "Background",
+      "hex": "#0000a4"
+    },
+    {
+      "name": "Foreground",
+      "hex": "#ffff4e"
+    },
+    {
+      "name": "Selection Background",
+      "hex": "#a4a4a4"
+    },
+    {
+      "name": "Selection Text",
+      "hex": "#0000a4"
+    }
+  ]
+}

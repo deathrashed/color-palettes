@@ -1,0 +1,93 @@
+{
+  "name": "Dracula+",
+  "colors": [
+    {
+      "name": "Bright Black",
+      "hex": "#545454"
+    },
+    {
+      "name": "Bright Blue",
+      "hex": "#d6acff"
+    },
+    {
+      "name": "Bright Cyan",
+      "hex": "#a4ffff"
+    },
+    {
+      "name": "Bright Green",
+      "hex": "#69ff94"
+    },
+    {
+      "name": "Bright Magenta",
+      "hex": "#ff92df"
+    },
+    {
+      "name": "Bright Red",
+      "hex": "#ff6e6e"
+    },
+    {
+      "name": "Bright White",
+      "hex": "#f8f8f2"
+    },
+    {
+      "name": "Bright Yellow",
+      "hex": "#ffcb6b"
+    },
+    {
+      "name": "Cursor Cursor",
+      "hex": "#eceff4"
+    },
+    {
+      "name": "Cursor Text",
+      "hex": "#282828"
+    },
+    {
+      "name": "Black",
+      "hex": "#21222c"
+    },
+    {
+      "name": "Blue",
+      "hex": "#82aaff"
+    },
+    {
+      "name": "Cyan",
+      "hex": "#8be9fd"
+    },
+    {
+      "name": "Green",
+      "hex": "#50fa7b"
+    },
+    {
+      "name": "Magenta",
+      "hex": "#c792ea"
+    },
+    {
+      "name": "Red",
+      "hex": "#ff5555"
+    },
+    {
+      "name": "White",
+      "hex": "#f8f8f2"
+    },
+    {
+      "name": "Yellow",
+      "hex": "#ffcb6b"
+    },
+    {
+      "name": "Background",
+      "hex": "#212121"
+    },
+    {
+      "name": "Foreground",
+      "hex": "#f8f8f2"
+    },
+    {
+      "name": "Selection Background",
+      "hex": "#f8f8f2"
+    },
+    {
+      "name": "Selection Text",
+      "hex": "#545454"
+    }
+  ]
+}

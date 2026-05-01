@@ -1,0 +1,93 @@
+{
+  "name": "Homebrew",
+  "colors": [
+    {
+      "name": "Bright Black",
+      "hex": "#666666"
+    },
+    {
+      "name": "Bright Blue",
+      "hex": "#0000ff"
+    },
+    {
+      "name": "Bright Cyan",
+      "hex": "#00e5e5"
+    },
+    {
+      "name": "Bright Green",
+      "hex": "#00d900"
+    },
+    {
+      "name": "Bright Magenta",
+      "hex": "#e500e5"
+    },
+    {
+      "name": "Bright Red",
+      "hex": "#e50000"
+    },
+    {
+      "name": "Bright White",
+      "hex": "#e5e5e5"
+    },
+    {
+      "name": "Bright Yellow",
+      "hex": "#e5e500"
+    },
+    {
+      "name": "Cursor Cursor",
+      "hex": "#23ff18"
+    },
+    {
+      "name": "Cursor Text",
+      "hex": "#ff0018"
+    },
+    {
+      "name": "Black",
+      "hex": "#000000"
+    },
+    {
+      "name": "Blue",
+      "hex": "#0d0dbf"
+    },
+    {
+      "name": "Cyan",
+      "hex": "#00a6b2"
+    },
+    {
+      "name": "Green",
+      "hex": "#00a600"
+    },
+    {
+      "name": "Magenta",
+      "hex": "#b200b2"
+    },
+    {
+      "name": "Red",
+      "hex": "#990000"
+    },
+    {
+      "name": "White",
+      "hex": "#bfbfbf"
+    },
+    {
+      "name": "Yellow",
+      "hex": "#999900"
+    },
+    {
+      "name": "Background",
+      "hex": "#000000"
+    },
+    {
+      "name": "Foreground",
+      "hex": "#00ff00"
+    },
+    {
+      "name": "Selection Background",
+      "hex": "#083905"
+    },
+    {
+      "name": "Selection Text",
+      "hex": "#ffffff"
+    }
+  ]
+}

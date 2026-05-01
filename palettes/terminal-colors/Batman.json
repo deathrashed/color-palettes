@@ -1,0 +1,93 @@
+{
+  "name": "Batman",
+  "colors": [
+    {
+      "name": "Bright Black",
+      "hex": "#505354"
+    },
+    {
+      "name": "Bright Blue",
+      "hex": "#919495"
+    },
+    {
+      "name": "Bright Cyan",
+      "hex": "#a3a3a6"
+    },
+    {
+      "name": "Bright Green",
+      "hex": "#fff27d"
+    },
+    {
+      "name": "Bright Magenta",
+      "hex": "#9a9a9d"
+    },
+    {
+      "name": "Bright Red",
+      "hex": "#fff78e"
+    },
+    {
+      "name": "Bright White",
+      "hex": "#dadbd6"
+    },
+    {
+      "name": "Bright Yellow",
+      "hex": "#feed6c"
+    },
+    {
+      "name": "Cursor Cursor",
+      "hex": "#fcef0c"
+    },
+    {
+      "name": "Cursor Text",
+      "hex": "#000000"
+    },
+    {
+      "name": "Black",
+      "hex": "#1b1d1e"
+    },
+    {
+      "name": "Blue",
+      "hex": "#737174"
+    },
+    {
+      "name": "Cyan",
+      "hex": "#62605f"
+    },
+    {
+      "name": "Green",
+      "hex": "#c8be46"
+    },
+    {
+      "name": "Magenta",
+      "hex": "#747271"
+    },
+    {
+      "name": "Red",
+      "hex": "#e6dc44"
+    },
+    {
+      "name": "White",
+      "hex": "#c6c5bf"
+    },
+    {
+      "name": "Yellow",
+      "hex": "#f4fd22"
+    },
+    {
+      "name": "Background",
+      "hex": "#1b1d1e"
+    },
+    {
+      "name": "Foreground",
+      "hex": "#6f6f6f"
+    },
+    {
+      "name": "Selection Background",
+      "hex": "#4d504c"
+    },
+    {
+      "name": "Selection Text",
+      "hex": "#f0e04a"
+    }
+  ]
+}

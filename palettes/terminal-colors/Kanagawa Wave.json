@@ -1,0 +1,93 @@
+{
+  "name": "Kanagawa Wave",
+  "colors": [
+    {
+      "name": "Bright Black",
+      "hex": "#727169"
+    },
+    {
+      "name": "Bright Blue",
+      "hex": "#7fb4ca"
+    },
+    {
+      "name": "Bright Cyan",
+      "hex": "#7aa89f"
+    },
+    {
+      "name": "Bright Green",
+      "hex": "#98bb6c"
+    },
+    {
+      "name": "Bright Magenta",
+      "hex": "#938aa9"
+    },
+    {
+      "name": "Bright Red",
+      "hex": "#e82424"
+    },
+    {
+      "name": "Bright White",
+      "hex": "#dcd7ba"
+    },
+    {
+      "name": "Bright Yellow",
+      "hex": "#e6c384"
+    },
+    {
+      "name": "Cursor Cursor",
+      "hex": "#dcd7ba"
+    },
+    {
+      "name": "Cursor Text",
+      "hex": "#1f1f28"
+    },
+    {
+      "name": "Black",
+      "hex": "#090618"
+    },
+    {
+      "name": "Blue",
+      "hex": "#7e9cd8"
+    },
+    {
+      "name": "Cyan",
+      "hex": "#6a9589"
+    },
+    {
+      "name": "Green",
+      "hex": "#76946a"
+    },
+    {
+      "name": "Magenta",
+      "hex": "#957fb8"
+    },
+    {
+      "name": "Red",
+      "hex": "#c34043"
+    },
+    {
+      "name": "White",
+      "hex": "#c8c093"
+    },
+    {
+      "name": "Yellow",
+      "hex": "#c0a36e"
+    },
+    {
+      "name": "Background",
+      "hex": "#1f1f28"
+    },
+    {
+      "name": "Foreground",
+      "hex": "#dcd7ba"
+    },
+    {
+      "name": "Selection Background",
+      "hex": "#dcd7ba"
+    },
+    {
+      "name": "Selection Text",
+      "hex": "#1f1f28"
+    }
+  ]
+}

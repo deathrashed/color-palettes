@@ -1,0 +1,93 @@
+{
+  "name": "Havn Skumring",
+  "colors": [
+    {
+      "name": "Bright Black",
+      "hex": "#38425c"
+    },
+    {
+      "name": "Bright Blue",
+      "hex": "#5186cb"
+    },
+    {
+      "name": "Bright Cyan",
+      "hex": "#d17ab6"
+    },
+    {
+      "name": "Bright Green",
+      "hex": "#8c9e8f"
+    },
+    {
+      "name": "Bright Magenta",
+      "hex": "#9b7cee"
+    },
+    {
+      "name": "Bright Red",
+      "hex": "#d17264"
+    },
+    {
+      "name": "Bright White",
+      "hex": "#fff6e1"
+    },
+    {
+      "name": "Bright Yellow",
+      "hex": "#eac58c"
+    },
+    {
+      "name": "Cursor Cursor",
+      "hex": "#277a6f"
+    },
+    {
+      "name": "Cursor Text",
+      "hex": "#e0e4f3"
+    },
+    {
+      "name": "Black",
+      "hex": "#252c47"
+    },
+    {
+      "name": "Blue",
+      "hex": "#596cf7"
+    },
+    {
+      "name": "Cyan",
+      "hex": "#d588c1"
+    },
+    {
+      "name": "Green",
+      "hex": "#6ead7b"
+    },
+    {
+      "name": "Magenta",
+      "hex": "#7c719e"
+    },
+    {
+      "name": "Red",
+      "hex": "#ea563e"
+    },
+    {
+      "name": "White",
+      "hex": "#dce0ee"
+    },
+    {
+      "name": "Yellow",
+      "hex": "#f8b330"
+    },
+    {
+      "name": "Background",
+      "hex": "#111522"
+    },
+    {
+      "name": "Foreground",
+      "hex": "#d6dbeb"
+    },
+    {
+      "name": "Selection Background",
+      "hex": "#2b514b"
+    },
+    {
+      "name": "Selection Text",
+      "hex": "#dce0ef"
+    }
+  ]
+}

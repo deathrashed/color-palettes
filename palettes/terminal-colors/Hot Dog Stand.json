@@ -1,0 +1,93 @@
+{
+  "name": "Hot Dog Stand",
+  "colors": [
+    {
+      "name": "Bright Black",
+      "hex": "#000000"
+    },
+    {
+      "name": "Bright Blue",
+      "hex": "#000000"
+    },
+    {
+      "name": "Bright Cyan",
+      "hex": "#ffffff"
+    },
+    {
+      "name": "Bright Green",
+      "hex": "#ffff54"
+    },
+    {
+      "name": "Bright Magenta",
+      "hex": "#ffff54"
+    },
+    {
+      "name": "Bright Red",
+      "hex": "#ffff54"
+    },
+    {
+      "name": "Bright White",
+      "hex": "#c6c6c6"
+    },
+    {
+      "name": "Bright Yellow",
+      "hex": "#ffff54"
+    },
+    {
+      "name": "Cursor Cursor",
+      "hex": "#ffff54"
+    },
+    {
+      "name": "Cursor Text",
+      "hex": "#ea3323"
+    },
+    {
+      "name": "Black",
+      "hex": "#000000"
+    },
+    {
+      "name": "Blue",
+      "hex": "#000000"
+    },
+    {
+      "name": "Cyan",
+      "hex": "#ffffff"
+    },
+    {
+      "name": "Green",
+      "hex": "#ffff54"
+    },
+    {
+      "name": "Magenta",
+      "hex": "#ffff54"
+    },
+    {
+      "name": "Red",
+      "hex": "#ffff54"
+    },
+    {
+      "name": "White",
+      "hex": "#c6c6c6"
+    },
+    {
+      "name": "Yellow",
+      "hex": "#ffff54"
+    },
+    {
+      "name": "Background",
+      "hex": "#ea3323"
+    },
+    {
+      "name": "Foreground",
+      "hex": "#ffffff"
+    },
+    {
+      "name": "Selection Background",
+      "hex": "#ffff54"
+    },
+    {
+      "name": "Selection Text",
+      "hex": "#000000"
+    }
+  ]
+}

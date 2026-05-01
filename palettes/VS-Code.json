@@ -1,0 +1,82 @@
+{
+  "name": "Andromeda Colorizer",
+  "colors": [
+    { "name": "Editor Background", "hex": "#1e1e1e" },
+    { "name": "Editor Foreground", "hex": "#d4d4d4" },
+    { "name": "Editor Line Number Foreground", "hex": "#424242" },
+    { "name": "Editor Cursor", "hex": "#ffffff" },
+    { "name": "Editor Selection Background", "hex": "#3a3d41" },
+    { "name": "Editor Inactive Selection Background", "hex": "#38383844" },
+    { "name": "Editor Whitespace", "hex": "#2f2f2f" },
+
+    { "name": "Editor Gutter Background", "hex": "#1e1e1e" },
+    { "name": "Editor Gutter Modified", "hex": "#B96CDB44" },
+    { "name": "Editor Gutter Added", "hex": "#04E9C644" },
+    { "name": "Editor Gutter Deleted", "hex": "#ff555544" },
+
+    { "name": "Editor Bracket Highlight", "hex": "#d4d4d4" },
+    { "name": "Editor Bracket Match Background", "hex": "#2a2a2a" },
+    { "name": "Editor Bracket Match Border", "hex": "#2c2b2b" },
+
+    { "name": "Editor Indent Guide", "hex": "#2a2a2a" },
+
+    { "name": "Tab Active Background", "hex": "#1e1e1e" },
+    { "name": "Tab Active Foreground", "hex": "#ffffff" },
+    { "name": "Tab Inactive Background", "hex": "#1f1f1f" },
+    { "name": "Tab Inactive Foreground", "hex": "#aaaaaa" },
+    { "name": "Tab Border", "hex": "#2a2a2a" },
+    { "name": "Tab Active Border Top", "hex": "#B96CDB" },
+    { "name": "Tab Active Border", "hex": "#444444" },
+    { "name": "Tab Unfocused Active Border", "hex": "#3a3a3a" },
+
+    { "name": "Title Bar Active Background", "hex": "#1a1a1a" },
+    { "name": "Title Bar Active Foreground", "hex": "#ffffff" },
+    { "name": "Title Bar Inactive Background", "hex": "#1a1a1a" },
+    { "name": "Title Bar Inactive Foreground", "hex": "#aaaaaa" },
+
+    { "name": "Activity Bar Background", "hex": "#1a1a1a" },
+    { "name": "Activity Bar Foreground", "hex": "#ffffff" },
+    { "name": "Activity Bar Border", "hex": "#2a2a2a" },
+    { "name": "Activity Bar Badge Background", "hex": "#B96CDB" },
+    { "name": "Activity Bar Badge Foreground", "hex": "#ffffff" },
+
+    { "name": "Side Bar Background", "hex": "#222222" },
+    { "name": "Side Bar Foreground", "hex": "#cccccc" },
+    { "name": "Side Bar Border", "hex": "#2a2a2a" },
+
+    { "name": "Status Bar Background", "hex": "#232323" },
+    { "name": "Status Bar Foreground", "hex": "#ffffff" },
+    { "name": "Status Bar Border", "hex": "#2a2a2a" },
+    { "name": "Status Bar Debug Background", "hex": "#1e1e1e" },
+    { "name": "Status Bar Debug Foreground", "hex": "#ffffff" },
+    { "name": "Status Bar Debug Border", "hex": "#2a2a2a" },
+    { "name": "Status Bar No Folder Background", "hex": "#1e1e1e" },
+    { "name": "Status Bar No Folder Foreground", "hex": "#ffffff" },
+    { "name": "Status Bar No Folder Border", "hex": "#2a2a2a" },
+
+    { "name": "Panel Background", "hex": "#232323" },
+    { "name": "Panel Border", "hex": "#2a2a2a" },
+
+    { "name": "Input Background", "hex": "#1a1a1a" },
+    { "name": "Input Foreground", "hex": "#cccccc" },
+    { "name": "Input Border", "hex": "#2a2a2a" },
+
+    { "name": "Dropdown Background", "hex": "#1a1a1a" },
+    { "name": "Dropdown Foreground", "hex": "#cccccc" },
+    { "name": "Dropdown Border", "hex": "#2a2a2a" },
+
+    { "name": "List Hover Background", "hex": "#2a2a2a" },
+    { "name": "List Active Selection Background", "hex": "#343434" },
+    { "name": "List Active Selection Foreground", "hex": "#ffffff" },
+
+    { "name": "Editor Group Border", "hex": "#2a2a2a" },
+
+    { "name": "Scrollbar Background", "hex": "#2f2f2f88" },
+    { "name": "Scrollbar Hover Background", "hex": "#4a4a4aaa" },
+    { "name": "Scrollbar Active Background", "hex": "#6a6a6aaa" },
+
+    { "name": "Minimap Background", "hex": "#1a1a1a" },
+
+    { "name": "Focus Border", "hex": "#3a3a3a" }
+  ]
+}

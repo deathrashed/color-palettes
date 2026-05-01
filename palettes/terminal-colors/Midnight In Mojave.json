@@ -1,0 +1,93 @@
+{
+  "name": "Midnight In Mojave",
+  "colors": [
+    {
+      "name": "Bright Black",
+      "hex": "#515151"
+    },
+    {
+      "name": "Bright Blue",
+      "hex": "#0a84ff"
+    },
+    {
+      "name": "Bright Cyan",
+      "hex": "#5ac8fa"
+    },
+    {
+      "name": "Bright Green",
+      "hex": "#32d74b"
+    },
+    {
+      "name": "Bright Magenta",
+      "hex": "#bf5af2"
+    },
+    {
+      "name": "Bright Red",
+      "hex": "#ff453a"
+    },
+    {
+      "name": "Bright White",
+      "hex": "#ffffff"
+    },
+    {
+      "name": "Bright Yellow",
+      "hex": "#ffd60a"
+    },
+    {
+      "name": "Cursor Cursor",
+      "hex": "#32d74b"
+    },
+    {
+      "name": "Cursor Text",
+      "hex": "#1c1c1c"
+    },
+    {
+      "name": "Black",
+      "hex": "#1e1e1e"
+    },
+    {
+      "name": "Blue",
+      "hex": "#0a84ff"
+    },
+    {
+      "name": "Cyan",
+      "hex": "#5ac8fa"
+    },
+    {
+      "name": "Green",
+      "hex": "#32d74b"
+    },
+    {
+      "name": "Magenta",
+      "hex": "#bf5af2"
+    },
+    {
+      "name": "Red",
+      "hex": "#ff453a"
+    },
+    {
+      "name": "White",
+      "hex": "#ffffff"
+    },
+    {
+      "name": "Yellow",
+      "hex": "#ffd60a"
+    },
+    {
+      "name": "Background",
+      "hex": "#1e1e1e"
+    },
+    {
+      "name": "Foreground",
+      "hex": "#ffffff"
+    },
+    {
+      "name": "Selection Background",
+      "hex": "#4a504d"
+    },
+    {
+      "name": "Selection Text",
+      "hex": "#ffffff"
+    }
+  ]
+}

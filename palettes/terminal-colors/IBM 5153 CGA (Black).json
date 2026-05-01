@@ -1,0 +1,93 @@
+{
+  "name": "IBM 5153 CGA (Black)",
+  "colors": [
+    {
+      "name": "Bright Black",
+      "hex": "#4e4e4e"
+    },
+    {
+      "name": "Bright Blue",
+      "hex": "#4e4edc"
+    },
+    {
+      "name": "Bright Cyan",
+      "hex": "#4ef3f3"
+    },
+    {
+      "name": "Bright Green",
+      "hex": "#4edc4e"
+    },
+    {
+      "name": "Bright Magenta",
+      "hex": "#f34ef3"
+    },
+    {
+      "name": "Bright Red",
+      "hex": "#dc4e4e"
+    },
+    {
+      "name": "Bright White",
+      "hex": "#ffffff"
+    },
+    {
+      "name": "Bright Yellow",
+      "hex": "#f3f34e"
+    },
+    {
+      "name": "Cursor Cursor",
+      "hex": "#c4c4c4"
+    },
+    {
+      "name": "Cursor Text",
+      "hex": "#000000"
+    },
+    {
+      "name": "Black",
+      "hex": "#000000"
+    },
+    {
+      "name": "Blue",
+      "hex": "#0000c4"
+    },
+    {
+      "name": "Cyan",
+      "hex": "#00c4c4"
+    },
+    {
+      "name": "Green",
+      "hex": "#00c400"
+    },
+    {
+      "name": "Magenta",
+      "hex": "#c400c4"
+    },
+    {
+      "name": "Red",
+      "hex": "#c40000"
+    },
+    {
+      "name": "White",
+      "hex": "#c4c4c4"
+    },
+    {
+      "name": "Yellow",
+      "hex": "#c47e00"
+    },
+    {
+      "name": "Background",
+      "hex": "#000000"
+    },
+    {
+      "name": "Foreground",
+      "hex": "#c4c4c4"
+    },
+    {
+      "name": "Selection Background",
+      "hex": "#c4c4c4"
+    },
+    {
+      "name": "Selection Text",
+      "hex": "#000000"
+    }
+  ]
+}

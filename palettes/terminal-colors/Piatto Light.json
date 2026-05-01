@@ -1,0 +1,93 @@
+{
+  "name": "Piatto Light",
+  "colors": [
+    {
+      "name": "Bright Black",
+      "hex": "#3f3f3f"
+    },
+    {
+      "name": "Bright Blue",
+      "hex": "#3c5ea8"
+    },
+    {
+      "name": "Bright Cyan",
+      "hex": "#829429"
+    },
+    {
+      "name": "Bright Green",
+      "hex": "#829429"
+    },
+    {
+      "name": "Bright Magenta",
+      "hex": "#a454b2"
+    },
+    {
+      "name": "Bright Red",
+      "hex": "#db3365"
+    },
+    {
+      "name": "Bright White",
+      "hex": "#f2f2f2"
+    },
+    {
+      "name": "Bright Yellow",
+      "hex": "#cd6f34"
+    },
+    {
+      "name": "Cursor Cursor",
+      "hex": "#5e77c8"
+    },
+    {
+      "name": "Cursor Text",
+      "hex": "#abbee5"
+    },
+    {
+      "name": "Black",
+      "hex": "#414141"
+    },
+    {
+      "name": "Blue",
+      "hex": "#3c5ea8"
+    },
+    {
+      "name": "Cyan",
+      "hex": "#66781e"
+    },
+    {
+      "name": "Green",
+      "hex": "#66781e"
+    },
+    {
+      "name": "Magenta",
+      "hex": "#a454b2"
+    },
+    {
+      "name": "Red",
+      "hex": "#b23771"
+    },
+    {
+      "name": "White",
+      "hex": "#bfbfbf"
+    },
+    {
+      "name": "Yellow",
+      "hex": "#cd6f34"
+    },
+    {
+      "name": "Background",
+      "hex": "#ffffff"
+    },
+    {
+      "name": "Foreground",
+      "hex": "#414141"
+    },
+    {
+      "name": "Selection Background",
+      "hex": "#706b4e"
+    },
+    {
+      "name": "Selection Text",
+      "hex": "#acbcdc"
+    }
+  ]
+}

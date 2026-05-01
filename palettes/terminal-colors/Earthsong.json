@@ -1,0 +1,93 @@
+{
+  "name": "Earthsong",
+  "colors": [
+    {
+      "name": "Bright Black",
+      "hex": "#675f54"
+    },
+    {
+      "name": "Bright Blue",
+      "hex": "#5fdaff"
+    },
+    {
+      "name": "Bright Cyan",
+      "hex": "#84f088"
+    },
+    {
+      "name": "Bright Green",
+      "hex": "#98e036"
+    },
+    {
+      "name": "Bright Magenta",
+      "hex": "#ff9269"
+    },
+    {
+      "name": "Bright Red",
+      "hex": "#ff645a"
+    },
+    {
+      "name": "Bright White",
+      "hex": "#f6f7ec"
+    },
+    {
+      "name": "Bright Yellow",
+      "hex": "#e0d561"
+    },
+    {
+      "name": "Cursor Cursor",
+      "hex": "#f6f7ec"
+    },
+    {
+      "name": "Cursor Text",
+      "hex": "#292520"
+    },
+    {
+      "name": "Black",
+      "hex": "#121418"
+    },
+    {
+      "name": "Blue",
+      "hex": "#1398b9"
+    },
+    {
+      "name": "Cyan",
+      "hex": "#509552"
+    },
+    {
+      "name": "Green",
+      "hex": "#85c54c"
+    },
+    {
+      "name": "Magenta",
+      "hex": "#d0633d"
+    },
+    {
+      "name": "Red",
+      "hex": "#c94234"
+    },
+    {
+      "name": "White",
+      "hex": "#e5c6aa"
+    },
+    {
+      "name": "Yellow",
+      "hex": "#f5ae2e"
+    },
+    {
+      "name": "Background",
+      "hex": "#292520"
+    },
+    {
+      "name": "Foreground",
+      "hex": "#e5c7a9"
+    },
+    {
+      "name": "Selection Background",
+      "hex": "#121418"
+    },
+    {
+      "name": "Selection Text",
+      "hex": "#e5c7a9"
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "name": "Havn Daggry",
+  "colors": [
+    {
+      "name": "Bright Black",
+      "hex": "#1f2842"
+    },
+    {
+      "name": "Bright Blue",
+      "hex": "#6089c0"
+    },
+    {
+      "name": "Bright Cyan",
+      "hex": "#aa869d"
+    },
+    {
+      "name": "Bright Green",
+      "hex": "#719679"
+    },
+    {
+      "name": "Bright Magenta",
+      "hex": "#7d7396"
+    },
+    {
+      "name": "Bright Red",
+      "hex": "#cc4a35"
+    },
+    {
+      "name": "Bright White",
+      "hex": "#d6dbeb"
+    },
+    {
+      "name": "Bright Yellow",
+      "hex": "#f1a527"
+    },
+    {
+      "name": "Cursor Cursor",
+      "hex": "#226c4f"
+    },
+    {
+      "name": "Cursor Text",
+      "hex": "#d6dbeb"
+    },
+    {
+      "name": "Black",
+      "hex": "#1f2842"
+    },
+    {
+      "name": "Blue",
+      "hex": "#3a577d"
+    },
+    {
+      "name": "Cyan",
+      "hex": "#925780"
+    },
+    {
+      "name": "Green",
+      "hex": "#577159"
+    },
+    {
+      "name": "Magenta",
+      "hex": "#7c5c97"
+    },
+    {
+      "name": "Red",
+      "hex": "#985248"
+    },
+    {
+      "name": "White",
+      "hex": "#b0b5c5"
+    },
+    {
+      "name": "Yellow",
+      "hex": "#be6b00"
+    },
+    {
+      "name": "Background",
+      "hex": "#f8f9fb"
+    },
+    {
+      "name": "Foreground",
+      "hex": "#3b4a7a"
+    },
+    {
+      "name": "Selection Background",
+      "hex": "#cfe9dd"
+    },
+    {
+      "name": "Selection Text",
+      "hex": "#313c64"
+    }
+  ]
+}

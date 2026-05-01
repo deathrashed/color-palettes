@@ -1,0 +1,93 @@
+{
+  "name": "Adventure Time",
+  "colors": [
+    {
+      "name": "Bright Black",
+      "hex": "#4e7cbf"
+    },
+    {
+      "name": "Bright Blue",
+      "hex": "#1997c6"
+    },
+    {
+      "name": "Bright Cyan",
+      "hex": "#c8faf4"
+    },
+    {
+      "name": "Bright Green",
+      "hex": "#9eff6e"
+    },
+    {
+      "name": "Bright Magenta",
+      "hex": "#9b5953"
+    },
+    {
+      "name": "Bright Red",
+      "hex": "#fc5f5a"
+    },
+    {
+      "name": "Bright White",
+      "hex": "#f6f5fb"
+    },
+    {
+      "name": "Bright Yellow",
+      "hex": "#efc11a"
+    },
+    {
+      "name": "Cursor Cursor",
+      "hex": "#efbf38"
+    },
+    {
+      "name": "Cursor Text",
+      "hex": "#08080a"
+    },
+    {
+      "name": "Black",
+      "hex": "#050404"
+    },
+    {
+      "name": "Blue",
+      "hex": "#0f4ac6"
+    },
+    {
+      "name": "Cyan",
+      "hex": "#70a598"
+    },
+    {
+      "name": "Green",
+      "hex": "#4ab118"
+    },
+    {
+      "name": "Magenta",
+      "hex": "#665993"
+    },
+    {
+      "name": "Red",
+      "hex": "#bd0013"
+    },
+    {
+      "name": "White",
+      "hex": "#f8dcc0"
+    },
+    {
+      "name": "Yellow",
+      "hex": "#e7741e"
+    },
+    {
+      "name": "Background",
+      "hex": "#1f1d45"
+    },
+    {
+      "name": "Foreground",
+      "hex": "#f8dcc0"
+    },
+    {
+      "name": "Selection Background",
+      "hex": "#706b4e"
+    },
+    {
+      "name": "Selection Text",
+      "hex": "#f3d9c4"
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "name": "Paul Millr",
+  "colors": [
+    {
+      "name": "Bright Black",
+      "hex": "#666666"
+    },
+    {
+      "name": "Bright Blue",
+      "hex": "#709aed"
+    },
+    {
+      "name": "Bright Cyan",
+      "hex": "#7adff2"
+    },
+    {
+      "name": "Bright Green",
+      "hex": "#66ff66"
+    },
+    {
+      "name": "Bright Magenta",
+      "hex": "#db67e6"
+    },
+    {
+      "name": "Bright Red",
+      "hex": "#ff0080"
+    },
+    {
+      "name": "Bright White",
+      "hex": "#ffffff"
+    },
+    {
+      "name": "Bright Yellow",
+      "hex": "#f3d64e"
+    },
+    {
+      "name": "Cursor Cursor",
+      "hex": "#4d4d4d"
+    },
+    {
+      "name": "Cursor Text",
+      "hex": "#ffffff"
+    },
+    {
+      "name": "Black",
+      "hex": "#2a2a2a"
+    },
+    {
+      "name": "Blue",
+      "hex": "#396bd7"
+    },
+    {
+      "name": "Cyan",
+      "hex": "#66ccff"
+    },
+    {
+      "name": "Green",
+      "hex": "#79ff0f"
+    },
+    {
+      "name": "Magenta",
+      "hex": "#b449be"
+    },
+    {
+      "name": "Red",
+      "hex": "#ff0000"
+    },
+    {
+      "name": "White",
+      "hex": "#bbbbbb"
+    },
+    {
+      "name": "Yellow",
+      "hex": "#e7bf00"
+    },
+    {
+      "name": "Background",
+      "hex": "#000000"
+    },
+    {
+      "name": "Foreground",
+      "hex": "#f2f2f2"
+    },
+    {
+      "name": "Selection Background",
+      "hex": "#414141"
+    },
+    {
+      "name": "Selection Text",
+      "hex": "#ffffff"
+    }
+  ]
+}

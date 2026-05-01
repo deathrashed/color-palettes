@@ -1,0 +1,93 @@
+{
+  "name": "Night Lion V2",
+  "colors": [
+    {
+      "name": "Bright Black",
+      "hex": "#555555"
+    },
+    {
+      "name": "Bright Blue",
+      "hex": "#62cbe8"
+    },
+    {
+      "name": "Bright Cyan",
+      "hex": "#00ccd8"
+    },
+    {
+      "name": "Bright Green",
+      "hex": "#7df71d"
+    },
+    {
+      "name": "Bright Magenta",
+      "hex": "#ff9bf5"
+    },
+    {
+      "name": "Bright Red",
+      "hex": "#ff5555"
+    },
+    {
+      "name": "Bright White",
+      "hex": "#ffffff"
+    },
+    {
+      "name": "Bright Yellow",
+      "hex": "#ffff55"
+    },
+    {
+      "name": "Cursor Cursor",
+      "hex": "#bbbbbb"
+    },
+    {
+      "name": "Cursor Text",
+      "hex": "#ffffff"
+    },
+    {
+      "name": "Black",
+      "hex": "#4c4c4c"
+    },
+    {
+      "name": "Blue",
+      "hex": "#64d0f0"
+    },
+    {
+      "name": "Cyan",
+      "hex": "#00dadf"
+    },
+    {
+      "name": "Green",
+      "hex": "#04f623"
+    },
+    {
+      "name": "Magenta",
+      "hex": "#ce6fdb"
+    },
+    {
+      "name": "Red",
+      "hex": "#bb0000"
+    },
+    {
+      "name": "White",
+      "hex": "#bbbbbb"
+    },
+    {
+      "name": "Yellow",
+      "hex": "#f3f167"
+    },
+    {
+      "name": "Background",
+      "hex": "#171717"
+    },
+    {
+      "name": "Foreground",
+      "hex": "#bbbbbb"
+    },
+    {
+      "name": "Selection Background",
+      "hex": "#b5d5ff"
+    },
+    {
+      "name": "Selection Text",
+      "hex": "#000000"
+    }
+  ]
+}

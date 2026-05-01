@@ -1,0 +1,93 @@
+{
+  "name": "Mariana",
+  "colors": [
+    {
+      "name": "Bright Black",
+      "hex": "#666666"
+    },
+    {
+      "name": "Bright Blue",
+      "hex": "#85add6"
+    },
+    {
+      "name": "Bright Cyan",
+      "hex": "#82c4c4"
+    },
+    {
+      "name": "Bright Green",
+      "hex": "#acd1a8"
+    },
+    {
+      "name": "Bright Magenta",
+      "hex": "#d8b6d8"
+    },
+    {
+      "name": "Bright Red",
+      "hex": "#f97b58"
+    },
+    {
+      "name": "Bright White",
+      "hex": "#ffffff"
+    },
+    {
+      "name": "Bright Yellow",
+      "hex": "#fac761"
+    },
+    {
+      "name": "Cursor Cursor",
+      "hex": "#fcbb6a"
+    },
+    {
+      "name": "Cursor Text",
+      "hex": "#8c8c8c"
+    },
+    {
+      "name": "Black",
+      "hex": "#000000"
+    },
+    {
+      "name": "Blue",
+      "hex": "#6699cc"
+    },
+    {
+      "name": "Cyan",
+      "hex": "#5fb4b4"
+    },
+    {
+      "name": "Green",
+      "hex": "#99c794"
+    },
+    {
+      "name": "Magenta",
+      "hex": "#c695c6"
+    },
+    {
+      "name": "Red",
+      "hex": "#ec5f66"
+    },
+    {
+      "name": "White",
+      "hex": "#f7f7f7"
+    },
+    {
+      "name": "Yellow",
+      "hex": "#f9ae58"
+    },
+    {
+      "name": "Background",
+      "hex": "#343d46"
+    },
+    {
+      "name": "Foreground",
+      "hex": "#d8dee9"
+    },
+    {
+      "name": "Selection Background",
+      "hex": "#4e5a65"
+    },
+    {
+      "name": "Selection Text",
+      "hex": "#d8dee9"
+    }
+  ]
+}

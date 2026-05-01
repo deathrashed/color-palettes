@@ -1,0 +1,93 @@
+{
+  "name": "Catppuccin Mocha",
+  "colors": [
+    {
+      "name": "Bright Black",
+      "hex": "#585b70"
+    },
+    {
+      "name": "Bright Blue",
+      "hex": "#74a8fc"
+    },
+    {
+      "name": "Bright Cyan",
+      "hex": "#6bd7ca"
+    },
+    {
+      "name": "Bright Green",
+      "hex": "#89d88b"
+    },
+    {
+      "name": "Bright Magenta",
+      "hex": "#f2aede"
+    },
+    {
+      "name": "Bright Red",
+      "hex": "#f37799"
+    },
+    {
+      "name": "Bright White",
+      "hex": "#bac2de"
+    },
+    {
+      "name": "Bright Yellow",
+      "hex": "#ebd391"
+    },
+    {
+      "name": "Cursor Cursor",
+      "hex": "#f5e0dc"
+    },
+    {
+      "name": "Cursor Text",
+      "hex": "#1e1e2e"
+    },
+    {
+      "name": "Black",
+      "hex": "#45475a"
+    },
+    {
+      "name": "Blue",
+      "hex": "#89b4fa"
+    },
+    {
+      "name": "Cyan",
+      "hex": "#94e2d5"
+    },
+    {
+      "name": "Green",
+      "hex": "#a6e3a1"
+    },
+    {
+      "name": "Magenta",
+      "hex": "#f5c2e7"
+    },
+    {
+      "name": "Red",
+      "hex": "#f38ba8"
+    },
+    {
+      "name": "White",
+      "hex": "#a6adc8"
+    },
+    {
+      "name": "Yellow",
+      "hex": "#f9e2af"
+    },
+    {
+      "name": "Background",
+      "hex": "#1e1e2e"
+    },
+    {
+      "name": "Foreground",
+      "hex": "#cdd6f4"
+    },
+    {
+      "name": "Selection Background",
+      "hex": "#585b70"
+    },
+    {
+      "name": "Selection Text",
+      "hex": "#cdd6f4"
+    }
+  ]
+}

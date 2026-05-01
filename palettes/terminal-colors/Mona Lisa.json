@@ -1,0 +1,93 @@
+{
+  "name": "Mona Lisa",
+  "colors": [
+    {
+      "name": "Bright Black",
+      "hex": "#874228"
+    },
+    {
+      "name": "Bright Blue",
+      "hex": "#9eb2b4"
+    },
+    {
+      "name": "Bright Cyan",
+      "hex": "#8acd8f"
+    },
+    {
+      "name": "Bright Green",
+      "hex": "#b4b264"
+    },
+    {
+      "name": "Bright Magenta",
+      "hex": "#ff5b6a"
+    },
+    {
+      "name": "Bright Red",
+      "hex": "#ff4331"
+    },
+    {
+      "name": "Bright White",
+      "hex": "#ffe598"
+    },
+    {
+      "name": "Bright Yellow",
+      "hex": "#ff9566"
+    },
+    {
+      "name": "Cursor Cursor",
+      "hex": "#c46c32"
+    },
+    {
+      "name": "Cursor Text",
+      "hex": "#120b0d"
+    },
+    {
+      "name": "Black",
+      "hex": "#351b0e"
+    },
+    {
+      "name": "Blue",
+      "hex": "#515c5d"
+    },
+    {
+      "name": "Cyan",
+      "hex": "#588056"
+    },
+    {
+      "name": "Green",
+      "hex": "#636232"
+    },
+    {
+      "name": "Magenta",
+      "hex": "#9b1d29"
+    },
+    {
+      "name": "Red",
+      "hex": "#9b291c"
+    },
+    {
+      "name": "White",
+      "hex": "#f7d75c"
+    },
+    {
+      "name": "Yellow",
+      "hex": "#c36e28"
+    },
+    {
+      "name": "Background",
+      "hex": "#120b0d"
+    },
+    {
+      "name": "Foreground",
+      "hex": "#f7d66a"
+    },
+    {
+      "name": "Selection Background",
+      "hex": "#f7d66a"
+    },
+    {
+      "name": "Selection Text",
+      "hex": "#120b0d"
+    }
+  ]
+}

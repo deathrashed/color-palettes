@@ -1,0 +1,93 @@
+{
+  "name": "Monokai Remastered",
+  "colors": [
+    {
+      "name": "Bright Black",
+      "hex": "#625e4c"
+    },
+    {
+      "name": "Bright Blue",
+      "hex": "#9d65ff"
+    },
+    {
+      "name": "Bright Cyan",
+      "hex": "#58d1eb"
+    },
+    {
+      "name": "Bright Green",
+      "hex": "#98e024"
+    },
+    {
+      "name": "Bright Magenta",
+      "hex": "#f4005f"
+    },
+    {
+      "name": "Bright Red",
+      "hex": "#f4005f"
+    },
+    {
+      "name": "Bright White",
+      "hex": "#f6f6ef"
+    },
+    {
+      "name": "Bright Yellow",
+      "hex": "#e0d561"
+    },
+    {
+      "name": "Cursor Cursor",
+      "hex": "#fc971f"
+    },
+    {
+      "name": "Cursor Text",
+      "hex": "#000000"
+    },
+    {
+      "name": "Black",
+      "hex": "#1a1a1a"
+    },
+    {
+      "name": "Blue",
+      "hex": "#9d65ff"
+    },
+    {
+      "name": "Cyan",
+      "hex": "#58d1eb"
+    },
+    {
+      "name": "Green",
+      "hex": "#98e024"
+    },
+    {
+      "name": "Magenta",
+      "hex": "#f4005f"
+    },
+    {
+      "name": "Red",
+      "hex": "#f4005f"
+    },
+    {
+      "name": "White",
+      "hex": "#c4c5b5"
+    },
+    {
+      "name": "Yellow",
+      "hex": "#fd971f"
+    },
+    {
+      "name": "Background",
+      "hex": "#0c0c0c"
+    },
+    {
+      "name": "Foreground",
+      "hex": "#d9d9d9"
+    },
+    {
+      "name": "Selection Background",
+      "hex": "#343434"
+    },
+    {
+      "name": "Selection Text",
+      "hex": "#ffffff"
+    }
+  ]
+}

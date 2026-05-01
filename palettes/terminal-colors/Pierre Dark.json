@@ -1,0 +1,93 @@
+{
+  "name": "Pierre Dark",
+  "colors": [
+    {
+      "name": "Bright Black",
+      "hex": "#6c6c71"
+    },
+    {
+      "name": "Bright Blue",
+      "hex": "#69b1ff"
+    },
+    {
+      "name": "Bright Cyan",
+      "hex": "#68cdf2"
+    },
+    {
+      "name": "Bright Green",
+      "hex": "#5ecc71"
+    },
+    {
+      "name": "Bright Magenta",
+      "hex": "#d568ea"
+    },
+    {
+      "name": "Bright Red",
+      "hex": "#ff6762"
+    },
+    {
+      "name": "Bright White",
+      "hex": "#fbfbfb"
+    },
+    {
+      "name": "Bright Yellow",
+      "hex": "#ffd452"
+    },
+    {
+      "name": "Cursor Cursor",
+      "hex": "#009fff"
+    },
+    {
+      "name": "Cursor Text",
+      "hex": "#070707"
+    },
+    {
+      "name": "Black",
+      "hex": "#141415"
+    },
+    {
+      "name": "Blue",
+      "hex": "#009fff"
+    },
+    {
+      "name": "Cyan",
+      "hex": "#08c0ef"
+    },
+    {
+      "name": "Green",
+      "hex": "#0dbe4e"
+    },
+    {
+      "name": "Magenta",
+      "hex": "#c635e4"
+    },
+    {
+      "name": "Red",
+      "hex": "#ff2e3f"
+    },
+    {
+      "name": "White",
+      "hex": "#c6c6c8"
+    },
+    {
+      "name": "Yellow",
+      "hex": "#ffca00"
+    },
+    {
+      "name": "Background",
+      "hex": "#070707"
+    },
+    {
+      "name": "Foreground",
+      "hex": "#fbfbfb"
+    },
+    {
+      "name": "Selection Background",
+      "hex": "#19283c"
+    },
+    {
+      "name": "Selection Text",
+      "hex": "#fbfbfb"
+    }
+  ]
+}

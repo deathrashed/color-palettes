@@ -1,0 +1,93 @@
+{
+  "name": "Toy Chest",
+  "colors": [
+    {
+      "name": "Bright Black",
+      "hex": "#336889"
+    },
+    {
+      "name": "Bright Blue",
+      "hex": "#34a6da"
+    },
+    {
+      "name": "Bright Cyan",
+      "hex": "#42c3ae"
+    },
+    {
+      "name": "Bright Green",
+      "hex": "#31d07b"
+    },
+    {
+      "name": "Bright Magenta",
+      "hex": "#ae6bdc"
+    },
+    {
+      "name": "Bright Red",
+      "hex": "#dd5944"
+    },
+    {
+      "name": "Bright White",
+      "hex": "#d5d5d5"
+    },
+    {
+      "name": "Bright Yellow",
+      "hex": "#e7d84b"
+    },
+    {
+      "name": "Cursor Cursor",
+      "hex": "#d5d5d5"
+    },
+    {
+      "name": "Cursor Text",
+      "hex": "#141c25"
+    },
+    {
+      "name": "Black",
+      "hex": "#2c3f58"
+    },
+    {
+      "name": "Blue",
+      "hex": "#325d96"
+    },
+    {
+      "name": "Cyan",
+      "hex": "#35a08f"
+    },
+    {
+      "name": "Green",
+      "hex": "#1a9172"
+    },
+    {
+      "name": "Magenta",
+      "hex": "#8a5edc"
+    },
+    {
+      "name": "Red",
+      "hex": "#be2d26"
+    },
+    {
+      "name": "White",
+      "hex": "#23d183"
+    },
+    {
+      "name": "Yellow",
+      "hex": "#db8e27"
+    },
+    {
+      "name": "Background",
+      "hex": "#24364b"
+    },
+    {
+      "name": "Foreground",
+      "hex": "#31d07b"
+    },
+    {
+      "name": "Selection Background",
+      "hex": "#5f217a"
+    },
+    {
+      "name": "Selection Text",
+      "hex": "#d5d5d5"
+    }
+  ]
+}

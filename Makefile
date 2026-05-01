@@ -6,7 +6,7 @@ OUT ?= bin/formats/generated
 BASENAME ?=
 FORMATS ?=
 
-.PHONY: install test generate-formats list clean
+.PHONY: install test check-manifest refresh-clr generate-formats list clean
 
 install:
 	mkdir -p "$(BINDIR)"
@@ -16,6 +16,13 @@ install:
 
 test:
 	./scripts/check-colorgen-formats.sh
+	./scripts/check-palette-manifest.py
+
+check-manifest:
+	./scripts/check-palette-manifest.py
+
+refresh-clr:
+	./scripts/refresh-clr.py
 
 generate-formats:
 	./scripts/generate-colorgen-formats.py "$(SOURCE)" -o "$(OUT)" $(if $(BASENAME),--basename "$(BASENAME)",) $(if $(FORMATS),--formats "$(FORMATS)",)

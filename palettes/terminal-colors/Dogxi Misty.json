@@ -1,0 +1,93 @@
+{
+  "name": "Dogxi Misty",
+  "colors": [
+    {
+      "name": "Bright Black",
+      "hex": "#686868"
+    },
+    {
+      "name": "Bright Blue",
+      "hex": "#99ecfe"
+    },
+    {
+      "name": "Bright Cyan",
+      "hex": "#87e0f0"
+    },
+    {
+      "name": "Bright Green",
+      "hex": "#94e362"
+    },
+    {
+      "name": "Bright Magenta",
+      "hex": "#ff6ac1"
+    },
+    {
+      "name": "Bright Red",
+      "hex": "#ff5c57"
+    },
+    {
+      "name": "Bright White",
+      "hex": "#f1f1f0"
+    },
+    {
+      "name": "Bright Yellow",
+      "hex": "#efc781"
+    },
+    {
+      "name": "Cursor Cursor",
+      "hex": "#eaeaea"
+    },
+    {
+      "name": "Cursor Text",
+      "hex": "#282a36"
+    },
+    {
+      "name": "Black",
+      "hex": "#000000"
+    },
+    {
+      "name": "Blue",
+      "hex": "#99ecfe"
+    },
+    {
+      "name": "Cyan",
+      "hex": "#5fdeed"
+    },
+    {
+      "name": "Green",
+      "hex": "#94e362"
+    },
+    {
+      "name": "Magenta",
+      "hex": "#ff6ac1"
+    },
+    {
+      "name": "Red",
+      "hex": "#ff5c57"
+    },
+    {
+      "name": "White",
+      "hex": "#f1f1f0"
+    },
+    {
+      "name": "Yellow",
+      "hex": "#eebd70"
+    },
+    {
+      "name": "Background",
+      "hex": "#282a36"
+    },
+    {
+      "name": "Foreground",
+      "hex": "#eff0eb"
+    },
+    {
+      "name": "Selection Background",
+      "hex": "#92bcd0"
+    },
+    {
+      "name": "Selection Text",
+      "hex": "#000000"
+    }
+  ]
+}

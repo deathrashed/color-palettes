@@ -1,0 +1,93 @@
+{
+  "name": "Everforest Light Med",
+  "colors": [
+    {
+      "name": "Bright Black",
+      "hex": "#a6b0a0"
+    },
+    {
+      "name": "Bright Blue",
+      "hex": "#3a94c5"
+    },
+    {
+      "name": "Bright Cyan",
+      "hex": "#35a77c"
+    },
+    {
+      "name": "Bright Green",
+      "hex": "#8da101"
+    },
+    {
+      "name": "Bright Magenta",
+      "hex": "#df69ba"
+    },
+    {
+      "name": "Bright Red",
+      "hex": "#f85552"
+    },
+    {
+      "name": "Bright White",
+      "hex": "#fffbef"
+    },
+    {
+      "name": "Bright Yellow",
+      "hex": "#dfa000"
+    },
+    {
+      "name": "Cursor Cursor",
+      "hex": "#f57d26"
+    },
+    {
+      "name": "Cursor Text",
+      "hex": "#eaedc8"
+    },
+    {
+      "name": "Black",
+      "hex": "#7a8478"
+    },
+    {
+      "name": "Blue",
+      "hex": "#7fbbb3"
+    },
+    {
+      "name": "Cyan",
+      "hex": "#83c092"
+    },
+    {
+      "name": "Green",
+      "hex": "#9ab373"
+    },
+    {
+      "name": "Magenta",
+      "hex": "#d699b6"
+    },
+    {
+      "name": "Red",
+      "hex": "#e67e80"
+    },
+    {
+      "name": "White",
+      "hex": "#b2af9f"
+    },
+    {
+      "name": "Yellow",
+      "hex": "#c1a266"
+    },
+    {
+      "name": "Background",
+      "hex": "#efebd4"
+    },
+    {
+      "name": "Foreground",
+      "hex": "#5c6a72"
+    },
+    {
+      "name": "Selection Background",
+      "hex": "#eaedc8"
+    },
+    {
+      "name": "Selection Text",
+      "hex": "#5c6a72"
+    }
+  ]
+}

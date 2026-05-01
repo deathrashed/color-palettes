@@ -1,0 +1,93 @@
+{
+  "name": "iTerm2 Tango Light",
+  "colors": [
+    {
+      "name": "Bright Black",
+      "hex": "#686a66"
+    },
+    {
+      "name": "Bright Blue",
+      "hex": "#84b0d8"
+    },
+    {
+      "name": "Bright Cyan",
+      "hex": "#1eccce"
+    },
+    {
+      "name": "Bright Green",
+      "hex": "#8cd636"
+    },
+    {
+      "name": "Bright Magenta",
+      "hex": "#bc94b7"
+    },
+    {
+      "name": "Bright Red",
+      "hex": "#f54235"
+    },
+    {
+      "name": "Bright White",
+      "hex": "#f1f1f0"
+    },
+    {
+      "name": "Bright Yellow",
+      "hex": "#d7c53b"
+    },
+    {
+      "name": "Cursor Cursor",
+      "hex": "#000000"
+    },
+    {
+      "name": "Cursor Text",
+      "hex": "#ffffff"
+    },
+    {
+      "name": "Black",
+      "hex": "#000000"
+    },
+    {
+      "name": "Blue",
+      "hex": "#427ab3"
+    },
+    {
+      "name": "Cyan",
+      "hex": "#00a7aa"
+    },
+    {
+      "name": "Green",
+      "hex": "#5ea702"
+    },
+    {
+      "name": "Magenta",
+      "hex": "#89658e"
+    },
+    {
+      "name": "Red",
+      "hex": "#d81e00"
+    },
+    {
+      "name": "White",
+      "hex": "#c1c4be"
+    },
+    {
+      "name": "Yellow",
+      "hex": "#cfae00"
+    },
+    {
+      "name": "Background",
+      "hex": "#ffffff"
+    },
+    {
+      "name": "Foreground",
+      "hex": "#000000"
+    },
+    {
+      "name": "Selection Background",
+      "hex": "#c1deff"
+    },
+    {
+      "name": "Selection Text",
+      "hex": "#000000"
+    }
+  ]
+}

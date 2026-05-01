@@ -1,0 +1,266 @@
+{
+  "schema_version": 1,
+  "description": "Inventory of palette artifacts, canonical sources, and source status for this repository.",
+  "palettes": [
+    {
+      "id": "apple",
+      "name": "Apple",
+      "clr": "clr/Apple.clr",
+      "source": "palettes/Apple.json",
+      "source_status": "canonical",
+      "color_count": 11,
+      "category": "system-colors",
+      "notes": "Canonical source added from palettes/Apple.json."
+    },
+    {
+      "id": "ant-design",
+      "name": "Ant.Design",
+      "clr": "clr/Ant.Design.clr",
+      "source": null,
+      "source_status": "binary-only",
+      "color_count": null,
+      "category": "design-system",
+      "notes": "Add an editable source JSON before regenerating."
+    },
+    {
+      "id": "bootstrap",
+      "name": "Bootstrap",
+      "clr": "clr/Bootstrap.clr",
+      "source": null,
+      "source_status": "binary-only",
+      "color_count": null,
+      "category": "design-system",
+      "notes": "Add an editable source JSON before regenerating."
+    },
+    {
+      "id": "chakra-ui",
+      "name": "Chakra UI",
+      "clr": "clr/Chakra UI.clr",
+      "source": null,
+      "source_status": "binary-only",
+      "color_count": null,
+      "category": "design-system",
+      "notes": "Likely overlaps with Chakraui.clr; verify before keeping both."
+    },
+    {
+      "id": "chakraui",
+      "name": "Chakraui",
+      "clr": "clr/Chakraui.clr",
+      "source": null,
+      "source_status": "binary-only",
+      "color_count": null,
+      "category": "design-system",
+      "notes": "Likely overlaps with Chakra UI.clr; verify spelling and contents."
+    },
+    {
+      "id": "copic",
+      "name": "Copic",
+      "clr": "clr/Copic.clr",
+      "source": null,
+      "source_status": "binary-only",
+      "color_count": null,
+      "category": "artist-materials",
+      "notes": "Check redistribution and trademark attribution before publishing widely."
+    },
+    {
+      "id": "crayola",
+      "name": "Crayola",
+      "clr": "clr/Crayola.clr",
+      "source": null,
+      "source_status": "binary-only",
+      "color_count": null,
+      "category": "artist-materials",
+      "notes": "Check redistribution and trademark attribution before publishing widely."
+    },
+    {
+      "id": "css",
+      "name": "CSS",
+      "clr": "clr/CSS.clr",
+      "source": null,
+      "source_status": "binary-only",
+      "color_count": null,
+      "category": "web-standard",
+      "notes": "Consider merging or documenting differences from HTML Colors."
+    },
+    {
+      "id": "flat-ui-colors",
+      "name": "Flat UI Colors",
+      "clr": "clr/Flat UI Colors.clr",
+      "source": null,
+      "source_status": "binary-only",
+      "color_count": null,
+      "category": "design-system",
+      "notes": "Add an editable source JSON before regenerating."
+    },
+    {
+      "id": "html-colors",
+      "name": "HTML Colors",
+      "clr": "clr/HTML Colors.clr",
+      "source": "palettes/HTML.json",
+      "source_status": "canonical",
+      "color_count": 141,
+      "category": "web-standard",
+      "notes": "Canonical source copied from bin/formats/HTML.json."
+    },
+    {
+      "id": "material",
+      "name": "Material",
+      "clr": "clr/Material.clr",
+      "source": "palettes/Material.json",
+      "source_status": "canonical",
+      "color_count": 254,
+      "category": "design-system",
+      "notes": "Canonical source added from palettes/Material.json; likely overlaps with Material Design Colors.clr and Matreial.clr."
+    },
+    {
+      "id": "material-design-colors",
+      "name": "Material Design Colors",
+      "clr": "clr/Material Design Colors.clr",
+      "source": null,
+      "source_status": "binary-only",
+      "color_count": null,
+      "category": "design-system",
+      "notes": "Likely overlaps with Material.clr and Matreial.clr."
+    },
+    {
+      "id": "matreial",
+      "name": "Matreial",
+      "clr": "clr/Matreial.clr",
+      "source": null,
+      "source_status": "binary-only",
+      "color_count": null,
+      "category": "design-system",
+      "notes": "Name appears misspelled; verify contents before renaming or removing."
+    },
+    {
+      "id": "metro-colors",
+      "name": "Metro Colors",
+      "clr": "clr/Metro Colors.clr",
+      "source": null,
+      "source_status": "binary-only",
+      "color_count": null,
+      "category": "design-system",
+      "notes": "Add an editable source JSON before regenerating."
+    },
+    {
+      "id": "pantone-coated",
+      "name": "Pantone Coated",
+      "clr": "clr/Pantone Coated.clr",
+      "source": "palettes/Pantone.json",
+      "source_status": "canonical",
+      "color_count": 1341,
+      "category": "commercial-reference",
+      "notes": "Canonical source added from palettes/Pantone.json; treat as reference material and check licensing before publishing widely."
+    },
+    {
+      "id": "pantone-fashion-interior",
+      "name": "Pantone Fashion Interior",
+      "clr": "clr/Pantone Fashion Interior.clr",
+      "source": null,
+      "source_status": "binary-only",
+      "color_count": null,
+      "category": "commercial-reference",
+      "notes": "Treat as reference material; check licensing before publishing widely."
+    },
+    {
+      "id": "pantone-metalic",
+      "name": "Pantone Metalic",
+      "clr": "clr/Pantone Metalic.clr",
+      "source": null,
+      "source_status": "binary-only",
+      "color_count": null,
+      "category": "commercial-reference",
+      "notes": "Name appears misspelled; verify whether this should be Metallic."
+    },
+    {
+      "id": "pantone-pastel-neon",
+      "name": "Pantone Pastel Neon",
+      "clr": "clr/Pantone Pastel Neon.clr",
+      "source": null,
+      "source_status": "binary-only",
+      "color_count": null,
+      "category": "commercial-reference",
+      "notes": "Treat as reference material; check licensing before publishing widely."
+    },
+    {
+      "id": "pantone-skin",
+      "name": "Pantone Skin",
+      "clr": "clr/Pantone Skin.clr",
+      "source": null,
+      "source_status": "binary-only",
+      "color_count": null,
+      "category": "commercial-reference",
+      "notes": "Treat as reference material; check licensing before publishing widely."
+    },
+    {
+      "id": "pantone-uncoated",
+      "name": "Pantone Uncoated",
+      "clr": "clr/Pantone Uncoated.clr",
+      "source": null,
+      "source_status": "binary-only",
+      "color_count": null,
+      "category": "commercial-reference",
+      "notes": "Treat as reference material; check licensing before publishing widely."
+    },
+    {
+      "id": "primer",
+      "name": "Primer",
+      "clr": "clr/Primer.clr",
+      "source": null,
+      "source_status": "binary-only",
+      "color_count": null,
+      "category": "design-system",
+      "notes": "Add an editable source JSON before regenerating."
+    },
+    {
+      "id": "real-brush",
+      "name": "Real Brush",
+      "clr": "clr/Real Brush.clr",
+      "source": null,
+      "source_status": "binary-only",
+      "color_count": null,
+      "category": "artist-materials",
+      "notes": "Add an editable source JSON before regenerating."
+    },
+    {
+      "id": "social-colors",
+      "name": "Social Colors",
+      "clr": "clr/Social Colors.clr",
+      "source": "palettes/Social Colors.json",
+      "source_status": "canonical",
+      "color_count": 36,
+      "category": "brand-colors",
+      "notes": "Canonical source added from palettes/Social Colors.json; brand color values drift, so source metadata should include retrieval date."
+    },
+    {
+      "id": "system",
+      "name": "System",
+      "clr": "clr/System.clr",
+      "source": "palettes/System.json",
+      "source_status": "canonical",
+      "color_count": 51,
+      "category": "system-colors",
+      "notes": "Canonical source added from palettes/System.json."
+    },
+    {
+      "id": "tachyons",
+      "name": "Tachyons",
+      "clr": "clr/Tachyons.clr",
+      "source": null,
+      "source_status": "binary-only",
+      "color_count": null,
+      "category": "design-system",
+      "notes": "Add an editable source JSON before regenerating."
+    },
+    {
+      "id": "tailwind",
+      "name": "Tailwind",
+      "clr": "clr/Tailwind.clr",
+      "source": null,
+      "source_status": "binary-only",
+      "color_count": null,
+      "category": "design-system",
+      "notes": "Tailwind colors change by major version; source metadata should include version."
+    }
+  ]
+}

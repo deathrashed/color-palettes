@@ -1,0 +1,93 @@
+{
+  "name": "TokyoNight Moon",
+  "colors": [
+    {
+      "name": "Bright Black",
+      "hex": "#444a73"
+    },
+    {
+      "name": "Bright Blue",
+      "hex": "#82aaff"
+    },
+    {
+      "name": "Bright Cyan",
+      "hex": "#86e1fc"
+    },
+    {
+      "name": "Bright Green",
+      "hex": "#c3e88d"
+    },
+    {
+      "name": "Bright Magenta",
+      "hex": "#c099ff"
+    },
+    {
+      "name": "Bright Red",
+      "hex": "#ff757f"
+    },
+    {
+      "name": "Bright White",
+      "hex": "#c8d3f5"
+    },
+    {
+      "name": "Bright Yellow",
+      "hex": "#ffc777"
+    },
+    {
+      "name": "Cursor Cursor",
+      "hex": "#c8d3f5"
+    },
+    {
+      "name": "Cursor Text",
+      "hex": "#222436"
+    },
+    {
+      "name": "Black",
+      "hex": "#1b1d2b"
+    },
+    {
+      "name": "Blue",
+      "hex": "#82aaff"
+    },
+    {
+      "name": "Cyan",
+      "hex": "#86e1fc"
+    },
+    {
+      "name": "Green",
+      "hex": "#c3e88d"
+    },
+    {
+      "name": "Magenta",
+      "hex": "#c099ff"
+    },
+    {
+      "name": "Red",
+      "hex": "#ff757f"
+    },
+    {
+      "name": "White",
+      "hex": "#828bb8"
+    },
+    {
+      "name": "Yellow",
+      "hex": "#ffc777"
+    },
+    {
+      "name": "Background",
+      "hex": "#222436"
+    },
+    {
+      "name": "Foreground",
+      "hex": "#c8d3f5"
+    },
+    {
+      "name": "Selection Background",
+      "hex": "#2d3f76"
+    },
+    {
+      "name": "Selection Text",
+      "hex": "#c8d3f5"
+    }
+  ]
+}

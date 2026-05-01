@@ -1,0 +1,93 @@
+{
+  "name": "Blue Berry Pie",
+  "colors": [
+    {
+      "name": "Bright Black",
+      "hex": "#463c5d"
+    },
+    {
+      "name": "Bright Blue",
+      "hex": "#5f3d63"
+    },
+    {
+      "name": "Bright Cyan",
+      "hex": "#5e6071"
+    },
+    {
+      "name": "Bright Green",
+      "hex": "#0a6c7e"
+    },
+    {
+      "name": "Bright Magenta",
+      "hex": "#bc94b7"
+    },
+    {
+      "name": "Bright Red",
+      "hex": "#c87272"
+    },
+    {
+      "name": "Bright White",
+      "hex": "#0a6c7e"
+    },
+    {
+      "name": "Bright Yellow",
+      "hex": "#7a3188"
+    },
+    {
+      "name": "Cursor Cursor",
+      "hex": "#fcfad6"
+    },
+    {
+      "name": "Cursor Text",
+      "hex": "#000000"
+    },
+    {
+      "name": "Black",
+      "hex": "#0a4c62"
+    },
+    {
+      "name": "Blue",
+      "hex": "#90a5bd"
+    },
+    {
+      "name": "Cyan",
+      "hex": "#7e83cc"
+    },
+    {
+      "name": "Green",
+      "hex": "#5cb1b3"
+    },
+    {
+      "name": "Magenta",
+      "hex": "#9d54a7"
+    },
+    {
+      "name": "Red",
+      "hex": "#99246e"
+    },
+    {
+      "name": "White",
+      "hex": "#f0e8d6"
+    },
+    {
+      "name": "Yellow",
+      "hex": "#eab9a8"
+    },
+    {
+      "name": "Background",
+      "hex": "#1c0c28"
+    },
+    {
+      "name": "Foreground",
+      "hex": "#babab9"
+    },
+    {
+      "name": "Selection Background",
+      "hex": "#606060"
+    },
+    {
+      "name": "Selection Text",
+      "hex": "#ffffff"
+    }
+  ]
+}

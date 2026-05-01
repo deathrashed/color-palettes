@@ -1,0 +1,93 @@
+{
+  "name": "Claude Dark",
+  "colors": [
+    {
+      "name": "Bright Black",
+      "hex": "#a6a59b"
+    },
+    {
+      "name": "Bright Blue",
+      "hex": "#9fc5f4"
+    },
+    {
+      "name": "Bright Cyan",
+      "hex": "#79d7b3"
+    },
+    {
+      "name": "Bright Green",
+      "hex": "#a8d166"
+    },
+    {
+      "name": "Bright Magenta",
+      "hex": "#f3aac5"
+    },
+    {
+      "name": "Bright Red",
+      "hex": "#f4a9a9"
+    },
+    {
+      "name": "Bright White",
+      "hex": "#efeeeb"
+    },
+    {
+      "name": "Bright Yellow",
+      "hex": "#fab319"
+    },
+    {
+      "name": "Cursor Cursor",
+      "hex": "#d97757"
+    },
+    {
+      "name": "Cursor Text",
+      "hex": "#262624"
+    },
+    {
+      "name": "Black",
+      "hex": "#888681"
+    },
+    {
+      "name": "Blue",
+      "hex": "#6a9bcc"
+    },
+    {
+      "name": "Cyan",
+      "hex": "#3cbe8c"
+    },
+    {
+      "name": "Green",
+      "hex": "#9aca86"
+    },
+    {
+      "name": "Magenta",
+      "hex": "#9b87f5"
+    },
+    {
+      "name": "Red",
+      "hex": "#d47563"
+    },
+    {
+      "name": "White",
+      "hex": "#e2e1da"
+    },
+    {
+      "name": "Yellow",
+      "hex": "#e8c96b"
+    },
+    {
+      "name": "Background",
+      "hex": "#262624"
+    },
+    {
+      "name": "Foreground",
+      "hex": "#e5e4e1"
+    },
+    {
+      "name": "Selection Background",
+      "hex": "#363634"
+    },
+    {
+      "name": "Selection Text",
+      "hex": "#e5e4e1"
+    }
+  ]
+}

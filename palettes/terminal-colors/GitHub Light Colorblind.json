@@ -1,0 +1,93 @@
+{
+  "name": "GitHub Light Colorblind",
+  "colors": [
+    {
+      "name": "Bright Black",
+      "hex": "#57606a"
+    },
+    {
+      "name": "Bright Blue",
+      "hex": "#218bff"
+    },
+    {
+      "name": "Bright Cyan",
+      "hex": "#3192aa"
+    },
+    {
+      "name": "Bright Green",
+      "hex": "#0969da"
+    },
+    {
+      "name": "Bright Magenta",
+      "hex": "#a475f9"
+    },
+    {
+      "name": "Bright Red",
+      "hex": "#8a4600"
+    },
+    {
+      "name": "Bright White",
+      "hex": "#8c959f"
+    },
+    {
+      "name": "Bright Yellow",
+      "hex": "#633c01"
+    },
+    {
+      "name": "Cursor Cursor",
+      "hex": "#0969da"
+    },
+    {
+      "name": "Cursor Text",
+      "hex": "#3c9cff"
+    },
+    {
+      "name": "Black",
+      "hex": "#24292f"
+    },
+    {
+      "name": "Blue",
+      "hex": "#0969da"
+    },
+    {
+      "name": "Cyan",
+      "hex": "#1b7c83"
+    },
+    {
+      "name": "Green",
+      "hex": "#0550ae"
+    },
+    {
+      "name": "Magenta",
+      "hex": "#8250df"
+    },
+    {
+      "name": "Red",
+      "hex": "#b35900"
+    },
+    {
+      "name": "White",
+      "hex": "#6e7781"
+    },
+    {
+      "name": "Yellow",
+      "hex": "#4d2d00"
+    },
+    {
+      "name": "Background",
+      "hex": "#ffffff"
+    },
+    {
+      "name": "Foreground",
+      "hex": "#24292f"
+    },
+    {
+      "name": "Selection Background",
+      "hex": "#24292f"
+    },
+    {
+      "name": "Selection Text",
+      "hex": "#ffffff"
+    }
+  ]
+}

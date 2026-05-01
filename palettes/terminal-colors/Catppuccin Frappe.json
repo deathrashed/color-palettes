@@ -1,0 +1,93 @@
+{
+  "name": "Catppuccin Frappe",
+  "colors": [
+    {
+      "name": "Bright Black",
+      "hex": "#626880"
+    },
+    {
+      "name": "Bright Blue",
+      "hex": "#7b9ef0"
+    },
+    {
+      "name": "Bright Cyan",
+      "hex": "#5abfb5"
+    },
+    {
+      "name": "Bright Green",
+      "hex": "#8ec772"
+    },
+    {
+      "name": "Bright Magenta",
+      "hex": "#f2a4db"
+    },
+    {
+      "name": "Bright Red",
+      "hex": "#e67172"
+    },
+    {
+      "name": "Bright White",
+      "hex": "#b5bfe2"
+    },
+    {
+      "name": "Bright Yellow",
+      "hex": "#d9ba73"
+    },
+    {
+      "name": "Cursor Cursor",
+      "hex": "#f2d5cf"
+    },
+    {
+      "name": "Cursor Text",
+      "hex": "#303446"
+    },
+    {
+      "name": "Black",
+      "hex": "#51576d"
+    },
+    {
+      "name": "Blue",
+      "hex": "#8caaee"
+    },
+    {
+      "name": "Cyan",
+      "hex": "#81c8be"
+    },
+    {
+      "name": "Green",
+      "hex": "#a6d189"
+    },
+    {
+      "name": "Magenta",
+      "hex": "#f4b8e4"
+    },
+    {
+      "name": "Red",
+      "hex": "#e78284"
+    },
+    {
+      "name": "White",
+      "hex": "#a5adce"
+    },
+    {
+      "name": "Yellow",
+      "hex": "#e5c890"
+    },
+    {
+      "name": "Background",
+      "hex": "#303446"
+    },
+    {
+      "name": "Foreground",
+      "hex": "#c6d0f5"
+    },
+    {
+      "name": "Selection Background",
+      "hex": "#626880"
+    },
+    {
+      "name": "Selection Text",
+      "hex": "#c6d0f5"
+    }
+  ]
+}

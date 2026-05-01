@@ -1,0 +1,93 @@
+{
+  "name": "Cyberpunk Scarlet Protocol",
+  "colors": [
+    {
+      "name": "Bright Black",
+      "hex": "#686868"
+    },
+    {
+      "name": "Bright Blue",
+      "hex": "#6871ff"
+    },
+    {
+      "name": "Bright Cyan",
+      "hex": "#60fdff"
+    },
+    {
+      "name": "Bright Green",
+      "hex": "#60fa68"
+    },
+    {
+      "name": "Bright Magenta",
+      "hex": "#bd35ec"
+    },
+    {
+      "name": "Bright Red",
+      "hex": "#ff6e67"
+    },
+    {
+      "name": "Bright White",
+      "hex": "#ffffff"
+    },
+    {
+      "name": "Bright Yellow",
+      "hex": "#fffc67"
+    },
+    {
+      "name": "Cursor Cursor",
+      "hex": "#76ff9f"
+    },
+    {
+      "name": "Cursor Text",
+      "hex": "#a6a6a6"
+    },
+    {
+      "name": "Black",
+      "hex": "#101116"
+    },
+    {
+      "name": "Blue",
+      "hex": "#0271b6"
+    },
+    {
+      "name": "Cyan",
+      "hex": "#00c5c7"
+    },
+    {
+      "name": "Green",
+      "hex": "#01dc84"
+    },
+    {
+      "name": "Magenta",
+      "hex": "#c930c7"
+    },
+    {
+      "name": "Red",
+      "hex": "#ff0051"
+    },
+    {
+      "name": "White",
+      "hex": "#c7c7c7"
+    },
+    {
+      "name": "Yellow",
+      "hex": "#faf945"
+    },
+    {
+      "name": "Background",
+      "hex": "#101116"
+    },
+    {
+      "name": "Foreground",
+      "hex": "#e41951"
+    },
+    {
+      "name": "Selection Background",
+      "hex": "#c1deff"
+    },
+    {
+      "name": "Selection Text",
+      "hex": "#000000"
+    }
+  ]
+}

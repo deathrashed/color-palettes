@@ -7,8 +7,10 @@ The repo keeps the working pieces separate:
 ```text
 bin/             macOS arm64 colorgen binary
 bin/formats/     example palette exports in common text/code formats
+palettes/        canonical editable palette sources
 clr/             generated Apple .clr palette files
 scripts/         repo helpers for validation and local install
+palettes.json    manifest of palettes, sources, and source status
 ```
 
 ## Why
@@ -22,6 +24,15 @@ Run the bundled binary directly:
 ```sh
 ./bin/colorgen -i 'bin/formats/HTML.json' -o 'clr/HTML Colors'
 ```
+
+Or run it without arguments for an interactive prompt:
+
+```sh
+./bin/colorgen
+```
+
+The prompt asks for an input palette file, whether to save into this repo's
+`clr/` folder or a custom folder, and the output palette name.
 
 The output is always forced to `.clr`, so these all write a `.clr` file:
 
@@ -95,6 +106,20 @@ make test
 
 The check script converts the known-good examples into a temporary directory and verifies each conversion writes 141 colors.
 
+## Refresh `.clr` Palettes
+
+Regenerate every palette marked `canonical` in `palettes.json`:
+
+```sh
+make refresh-clr
+```
+
+To preview what would be regenerated:
+
+```sh
+./scripts/refresh-clr.py --dry-run
+```
+
 ## Generate Source Formats
 
 Use the generator when you have one canonical JSON palette and want matching files for `colorgen` to consume:
@@ -122,6 +147,19 @@ The source JSON should use this shape:
 ```
 
 By default it writes `json`, `csv`, `txt`, `conf`, `env`, `yaml`, `toml`, `xml`, `css`, `html`, `swift`, `kt`, and an extensionless file.
+
+## Palette Inventory
+
+`palettes.json` is the repository index. It records each `.clr` file, whether an
+editable source exists, the source path when available, and any notes about
+duplicates, spelling drift, upstream versions, or attribution concerns.
+
+Canonical editable sources live in `palettes/`. Several palettes now have
+recovered canonical JSON sources; the remaining `.clr` files are marked
+`binary-only` until editable sources are added or rebuilt.
+
+Useful workflow ideas for keeping, generating, referencing, and working with
+palettes are tracked in `docs/WORKFLOWS.md`.
 
 ## Notes
 

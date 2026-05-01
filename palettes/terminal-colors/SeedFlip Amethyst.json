@@ -1,0 +1,93 @@
+{
+  "name": "SeedFlip Amethyst",
+  "colors": [
+    {
+      "name": "Bright Black",
+      "hex": "#b5aba0"
+    },
+    {
+      "name": "Bright Blue",
+      "hex": "#2b7cee"
+    },
+    {
+      "name": "Bright Cyan",
+      "hex": "#05c8c8"
+    },
+    {
+      "name": "Bright Green",
+      "hex": "#12d452"
+    },
+    {
+      "name": "Bright Magenta",
+      "hex": "#ee2bee"
+    },
+    {
+      "name": "Bright Red",
+      "hex": "#ee2b2b"
+    },
+    {
+      "name": "Bright White",
+      "hex": "#1a0a2e"
+    },
+    {
+      "name": "Bright Yellow",
+      "hex": "#d4b312"
+    },
+    {
+      "name": "Cursor Cursor",
+      "hex": "#635bff"
+    },
+    {
+      "name": "Cursor Text",
+      "hex": "#1a0a2e"
+    },
+    {
+      "name": "Black",
+      "hex": "#d7d1cb"
+    },
+    {
+      "name": "Blue",
+      "hex": "#0f58bd"
+    },
+    {
+      "name": "Cyan",
+      "hex": "#0fbdbd"
+    },
+    {
+      "name": "Green",
+      "hex": "#0fbd49"
+    },
+    {
+      "name": "Magenta",
+      "hex": "#bd0fbd"
+    },
+    {
+      "name": "Red",
+      "hex": "#bd0f0f"
+    },
+    {
+      "name": "White",
+      "hex": "#0e0519"
+    },
+    {
+      "name": "Yellow",
+      "hex": "#bda00f"
+    },
+    {
+      "name": "Background",
+      "hex": "#f8f7f6"
+    },
+    {
+      "name": "Foreground",
+      "hex": "#1a0a2e"
+    },
+    {
+      "name": "Selection Background",
+      "hex": "#ffffff"
+    },
+    {
+      "name": "Selection Text",
+      "hex": "#1a0a2e"
+    }
+  ]
+}

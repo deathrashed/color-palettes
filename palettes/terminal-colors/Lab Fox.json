@@ -1,0 +1,93 @@
+{
+  "name": "Lab Fox",
+  "colors": [
+    {
+      "name": "Bright Black",
+      "hex": "#535353"
+    },
+    {
+      "name": "Bright Blue",
+      "hex": "#db501f"
+    },
+    {
+      "name": "Bright Cyan",
+      "hex": "#7d53e7"
+    },
+    {
+      "name": "Bright Green",
+      "hex": "#53eaa8"
+    },
+    {
+      "name": "Bright Magenta",
+      "hex": "#6a36b6"
+    },
+    {
+      "name": "Bright Red",
+      "hex": "#ff6517"
+    },
+    {
+      "name": "Bright White",
+      "hex": "#ffffff"
+    },
+    {
+      "name": "Bright Yellow",
+      "hex": "#fca013"
+    },
+    {
+      "name": "Cursor Cursor",
+      "hex": "#7f7f7f"
+    },
+    {
+      "name": "Cursor Text",
+      "hex": "#b2b2b2"
+    },
+    {
+      "name": "Black",
+      "hex": "#2e2e2e"
+    },
+    {
+      "name": "Blue",
+      "hex": "#db3b21"
+    },
+    {
+      "name": "Cyan",
+      "hex": "#6e49cb"
+    },
+    {
+      "name": "Green",
+      "hex": "#3eb383"
+    },
+    {
+      "name": "Magenta",
+      "hex": "#6b40a8"
+    },
+    {
+      "name": "Red",
+      "hex": "#fc6d26"
+    },
+    {
+      "name": "White",
+      "hex": "#ffffff"
+    },
+    {
+      "name": "Yellow",
+      "hex": "#fca121"
+    },
+    {
+      "name": "Background",
+      "hex": "#2e2e2e"
+    },
+    {
+      "name": "Foreground",
+      "hex": "#ffffff"
+    },
+    {
+      "name": "Selection Background",
+      "hex": "#cb392e"
+    },
+    {
+      "name": "Selection Text",
+      "hex": "#ffffff"
+    }
+  ]
+}

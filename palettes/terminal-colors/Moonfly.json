@@ -1,0 +1,93 @@
+{
+  "name": "Moonfly",
+  "colors": [
+    {
+      "name": "Bright Black",
+      "hex": "#949494"
+    },
+    {
+      "name": "Bright Blue",
+      "hex": "#74b2ff"
+    },
+    {
+      "name": "Bright Cyan",
+      "hex": "#85dc85"
+    },
+    {
+      "name": "Bright Green",
+      "hex": "#36c692"
+    },
+    {
+      "name": "Bright Magenta",
+      "hex": "#ae81ff"
+    },
+    {
+      "name": "Bright Red",
+      "hex": "#ff5189"
+    },
+    {
+      "name": "Bright White",
+      "hex": "#e4e4e4"
+    },
+    {
+      "name": "Bright Yellow",
+      "hex": "#c6c684"
+    },
+    {
+      "name": "Cursor Cursor",
+      "hex": "#9e9e9e"
+    },
+    {
+      "name": "Cursor Text",
+      "hex": "#080808"
+    },
+    {
+      "name": "Black",
+      "hex": "#323437"
+    },
+    {
+      "name": "Blue",
+      "hex": "#80a0ff"
+    },
+    {
+      "name": "Cyan",
+      "hex": "#79dac8"
+    },
+    {
+      "name": "Green",
+      "hex": "#8cc85f"
+    },
+    {
+      "name": "Magenta",
+      "hex": "#cf87e8"
+    },
+    {
+      "name": "Red",
+      "hex": "#ff5454"
+    },
+    {
+      "name": "White",
+      "hex": "#c6c6c6"
+    },
+    {
+      "name": "Yellow",
+      "hex": "#e3c78a"
+    },
+    {
+      "name": "Background",
+      "hex": "#080808"
+    },
+    {
+      "name": "Foreground",
+      "hex": "#bdbdbd"
+    },
+    {
+      "name": "Selection Background",
+      "hex": "#b2ceee"
+    },
+    {
+      "name": "Selection Text",
+      "hex": "#080808"
+    }
+  ]
+}

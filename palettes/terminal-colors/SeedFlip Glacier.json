@@ -1,0 +1,93 @@
+{
+  "name": "SeedFlip Glacier",
+  "colors": [
+    {
+      "name": "Bright Black",
+      "hex": "#8dadce"
+    },
+    {
+      "name": "Bright Blue",
+      "hex": "#2b7cee"
+    },
+    {
+      "name": "Bright Cyan",
+      "hex": "#12d4d4"
+    },
+    {
+      "name": "Bright Green",
+      "hex": "#12d452"
+    },
+    {
+      "name": "Bright Magenta",
+      "hex": "#ee2bee"
+    },
+    {
+      "name": "Bright Red",
+      "hex": "#ee2b2b"
+    },
+    {
+      "name": "Bright White",
+      "hex": "#0f172a"
+    },
+    {
+      "name": "Bright Yellow",
+      "hex": "#d4b312"
+    },
+    {
+      "name": "Cursor Cursor",
+      "hex": "#0ea5e9"
+    },
+    {
+      "name": "Cursor Text",
+      "hex": "#0f172a"
+    },
+    {
+      "name": "Black",
+      "hex": "#c2d4e5"
+    },
+    {
+      "name": "Blue",
+      "hex": "#0f58bd"
+    },
+    {
+      "name": "Cyan",
+      "hex": "#0fbdbd"
+    },
+    {
+      "name": "Green",
+      "hex": "#0fbd49"
+    },
+    {
+      "name": "Magenta",
+      "hex": "#bd0fbd"
+    },
+    {
+      "name": "Red",
+      "hex": "#bd0f0f"
+    },
+    {
+      "name": "White",
+      "hex": "#080d17"
+    },
+    {
+      "name": "Yellow",
+      "hex": "#bda00f"
+    },
+    {
+      "name": "Background",
+      "hex": "#f8fafc"
+    },
+    {
+      "name": "Foreground",
+      "hex": "#0f172a"
+    },
+    {
+      "name": "Selection Background",
+      "hex": "#ffffff"
+    },
+    {
+      "name": "Selection Text",
+      "hex": "#0f172a"
+    }
+  ]
+}

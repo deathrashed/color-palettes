@@ -1,0 +1,93 @@
+{
+  "name": "SeedFlip Nightfall",
+  "colors": [
+    {
+      "name": "Bright Black",
+      "hex": "#424256"
+    },
+    {
+      "name": "Bright Blue",
+      "hex": "#89b6f5"
+    },
+    {
+      "name": "Bright Cyan",
+      "hex": "#89f5f5"
+    },
+    {
+      "name": "Bright Green",
+      "hex": "#89f5ad"
+    },
+    {
+      "name": "Bright Magenta",
+      "hex": "#f589f5"
+    },
+    {
+      "name": "Bright Red",
+      "hex": "#f58989"
+    },
+    {
+      "name": "Bright White",
+      "hex": "#ffffff"
+    },
+    {
+      "name": "Bright Yellow",
+      "hex": "#f5e389"
+    },
+    {
+      "name": "Cursor Cursor",
+      "hex": "#818cf8"
+    },
+    {
+      "name": "Cursor Text",
+      "hex": "#0a0a0f"
+    },
+    {
+      "name": "Black",
+      "hex": "#060609"
+    },
+    {
+      "name": "Blue",
+      "hex": "#428bf0"
+    },
+    {
+      "name": "Cyan",
+      "hex": "#42f0f0"
+    },
+    {
+      "name": "Green",
+      "hex": "#42f07c"
+    },
+    {
+      "name": "Magenta",
+      "hex": "#f042f0"
+    },
+    {
+      "name": "Red",
+      "hex": "#f04242"
+    },
+    {
+      "name": "White",
+      "hex": "#f2f2f3"
+    },
+    {
+      "name": "Yellow",
+      "hex": "#f0d342"
+    },
+    {
+      "name": "Background",
+      "hex": "#0a0a0f"
+    },
+    {
+      "name": "Foreground",
+      "hex": "#e4e4e7"
+    },
+    {
+      "name": "Selection Background",
+      "hex": "#12121a"
+    },
+    {
+      "name": "Selection Text",
+      "hex": "#e4e4e7"
+    }
+  ]
+}

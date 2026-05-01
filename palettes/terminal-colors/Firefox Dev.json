@@ -1,0 +1,93 @@
+{
+  "name": "Firefox Dev",
+  "colors": [
+    {
+      "name": "Bright Black",
+      "hex": "#26444d"
+    },
+    {
+      "name": "Bright Blue",
+      "hex": "#006fc0"
+    },
+    {
+      "name": "Bright Cyan",
+      "hex": "#005794"
+    },
+    {
+      "name": "Bright Green",
+      "hex": "#1d9000"
+    },
+    {
+      "name": "Bright Magenta",
+      "hex": "#a200da"
+    },
+    {
+      "name": "Bright Red",
+      "hex": "#e1003f"
+    },
+    {
+      "name": "Bright White",
+      "hex": "#e2e2e2"
+    },
+    {
+      "name": "Bright Yellow",
+      "hex": "#cd9409"
+    },
+    {
+      "name": "Cursor Cursor",
+      "hex": "#708284"
+    },
+    {
+      "name": "Cursor Text",
+      "hex": "#002831"
+    },
+    {
+      "name": "Black",
+      "hex": "#002831"
+    },
+    {
+      "name": "Blue",
+      "hex": "#359ddf"
+    },
+    {
+      "name": "Cyan",
+      "hex": "#4b73a2"
+    },
+    {
+      "name": "Green",
+      "hex": "#5eb83c"
+    },
+    {
+      "name": "Magenta",
+      "hex": "#d75cff"
+    },
+    {
+      "name": "Red",
+      "hex": "#e63853"
+    },
+    {
+      "name": "White",
+      "hex": "#dcdcdc"
+    },
+    {
+      "name": "Yellow",
+      "hex": "#a57706"
+    },
+    {
+      "name": "Background",
+      "hex": "#0e1011"
+    },
+    {
+      "name": "Foreground",
+      "hex": "#7c8fa4"
+    },
+    {
+      "name": "Selection Background",
+      "hex": "#163c61"
+    },
+    {
+      "name": "Selection Text",
+      "hex": "#f2f5f9"
+    }
+  ]
+}

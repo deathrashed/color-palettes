@@ -1,0 +1,93 @@
+{
+  "name": "Karasu Night",
+  "colors": [
+    {
+      "name": "Bright Black",
+      "hex": "#44403c"
+    },
+    {
+      "name": "Bright Blue",
+      "hex": "#8cb4e2"
+    },
+    {
+      "name": "Bright Cyan",
+      "hex": "#8ad4ce"
+    },
+    {
+      "name": "Bright Green",
+      "hex": "#a6d189"
+    },
+    {
+      "name": "Bright Magenta",
+      "hex": "#c7b3ee"
+    },
+    {
+      "name": "Bright Red",
+      "hex": "#ff5c5c"
+    },
+    {
+      "name": "Bright White",
+      "hex": "#e7e5e4"
+    },
+    {
+      "name": "Bright Yellow",
+      "hex": "#e8d07d"
+    },
+    {
+      "name": "Cursor Cursor",
+      "hex": "#f5f5f5"
+    },
+    {
+      "name": "Cursor Text",
+      "hex": "#0a0a0a"
+    },
+    {
+      "name": "Black",
+      "hex": "#0a0a0a"
+    },
+    {
+      "name": "Blue",
+      "hex": "#7aa2c8"
+    },
+    {
+      "name": "Cyan",
+      "hex": "#76b7b2"
+    },
+    {
+      "name": "Green",
+      "hex": "#8fbf7a"
+    },
+    {
+      "name": "Magenta",
+      "hex": "#b4a1d8"
+    },
+    {
+      "name": "Red",
+      "hex": "#e06c75"
+    },
+    {
+      "name": "White",
+      "hex": "#f5f5f5"
+    },
+    {
+      "name": "Yellow",
+      "hex": "#d4b86a"
+    },
+    {
+      "name": "Background",
+      "hex": "#0a0a0a"
+    },
+    {
+      "name": "Foreground",
+      "hex": "#e7e5e4"
+    },
+    {
+      "name": "Selection Background",
+      "hex": "#262626"
+    },
+    {
+      "name": "Selection Text",
+      "hex": "#e7e5e4"
+    }
+  ]
+}

@@ -10,6 +10,12 @@ This directory contains the runnable `colorgen` binary and the example input for
 
 The binary always writes a `.clr` file. If the output path has another extension, it is replaced with `.clr`.
 
+When run without arguments in a terminal, `colorgen` prompts for:
+
+- input palette file path
+- repo `clr/` output folder or a custom folder
+- output palette name
+
 Examples:
 
 ```sh
@@ -26,4 +32,3 @@ make install
 ```
 
 This copies `bin/colorgen` to `~/.local/bin/colorgen`.
-

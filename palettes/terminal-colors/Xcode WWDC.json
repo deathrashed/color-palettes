@@ -1,0 +1,93 @@
+{
+  "name": "Xcode WWDC",
+  "colors": [
+    {
+      "name": "Bright Black",
+      "hex": "#7f869e"
+    },
+    {
+      "name": "Bright Blue",
+      "hex": "#8884c5"
+    },
+    {
+      "name": "Bright Cyan",
+      "hex": "#00aba4"
+    },
+    {
+      "name": "Bright Green",
+      "hex": "#94c66e"
+    },
+    {
+      "name": "Bright Magenta",
+      "hex": "#b73999"
+    },
+    {
+      "name": "Bright Red",
+      "hex": "#bb383a"
+    },
+    {
+      "name": "Bright White",
+      "hex": "#e7e8eb"
+    },
+    {
+      "name": "Bright Yellow",
+      "hex": "#d28e5d"
+    },
+    {
+      "name": "Cursor Cursor",
+      "hex": "#e7e8eb"
+    },
+    {
+      "name": "Cursor Text",
+      "hex": "#292c36"
+    },
+    {
+      "name": "Black",
+      "hex": "#494d5c"
+    },
+    {
+      "name": "Blue",
+      "hex": "#8884c5"
+    },
+    {
+      "name": "Cyan",
+      "hex": "#00aba4"
+    },
+    {
+      "name": "Green",
+      "hex": "#94c66e"
+    },
+    {
+      "name": "Magenta",
+      "hex": "#b73999"
+    },
+    {
+      "name": "Red",
+      "hex": "#bb383a"
+    },
+    {
+      "name": "White",
+      "hex": "#e7e8eb"
+    },
+    {
+      "name": "Yellow",
+      "hex": "#d28e5d"
+    },
+    {
+      "name": "Background",
+      "hex": "#292c36"
+    },
+    {
+      "name": "Foreground",
+      "hex": "#e7e8eb"
+    },
+    {
+      "name": "Selection Background",
+      "hex": "#494d5c"
+    },
+    {
+      "name": "Selection Text",
+      "hex": "#e7e8eb"
+    }
+  ]
+}

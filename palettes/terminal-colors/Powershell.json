@@ -1,0 +1,93 @@
+{
+  "name": "Powershell",
+  "colors": [
+    {
+      "name": "Bright Black",
+      "hex": "#808080"
+    },
+    {
+      "name": "Bright Blue",
+      "hex": "#268ad2"
+    },
+    {
+      "name": "Bright Cyan",
+      "hex": "#29fffe"
+    },
+    {
+      "name": "Bright Green",
+      "hex": "#1cfe3c"
+    },
+    {
+      "name": "Bright Magenta",
+      "hex": "#fe13fa"
+    },
+    {
+      "name": "Bright Red",
+      "hex": "#ef2929"
+    },
+    {
+      "name": "Bright White",
+      "hex": "#c2c1c3"
+    },
+    {
+      "name": "Bright Yellow",
+      "hex": "#fefe45"
+    },
+    {
+      "name": "Cursor Cursor",
+      "hex": "#f6f6f7"
+    },
+    {
+      "name": "Cursor Text",
+      "hex": "#052454"
+    },
+    {
+      "name": "Black",
+      "hex": "#000000"
+    },
+    {
+      "name": "Blue",
+      "hex": "#4140c3"
+    },
+    {
+      "name": "Cyan",
+      "hex": "#0e807f"
+    },
+    {
+      "name": "Green",
+      "hex": "#098003"
+    },
+    {
+      "name": "Magenta",
+      "hex": "#d33682"
+    },
+    {
+      "name": "Red",
+      "hex": "#981a22"
+    },
+    {
+      "name": "White",
+      "hex": "#7f7c7f"
+    },
+    {
+      "name": "Yellow",
+      "hex": "#c4a000"
+    },
+    {
+      "name": "Background",
+      "hex": "#052454"
+    },
+    {
+      "name": "Foreground",
+      "hex": "#f6f6f7"
+    },
+    {
+      "name": "Selection Background",
+      "hex": "#f6f6f7"
+    },
+    {
+      "name": "Selection Text",
+      "hex": "#052454"
+    }
+  ]
+}

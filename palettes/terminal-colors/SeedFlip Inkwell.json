@@ -1,0 +1,93 @@
+{
+  "name": "SeedFlip Inkwell",
+  "colors": [
+    {
+      "name": "Bright Black",
+      "hex": "#3d3d3d"
+    },
+    {
+      "name": "Bright Blue",
+      "hex": "#9fbadf"
+    },
+    {
+      "name": "Bright Cyan",
+      "hex": "#9fdfdf"
+    },
+    {
+      "name": "Bright Green",
+      "hex": "#9fdfb5"
+    },
+    {
+      "name": "Bright Magenta",
+      "hex": "#df9fdf"
+    },
+    {
+      "name": "Bright Red",
+      "hex": "#df9f9f"
+    },
+    {
+      "name": "Bright White",
+      "hex": "#ffffff"
+    },
+    {
+      "name": "Bright Yellow",
+      "hex": "#dfd49f"
+    },
+    {
+      "name": "Cursor Cursor",
+      "hex": "#c8b8a0"
+    },
+    {
+      "name": "Cursor Text",
+      "hex": "#0a0a0a"
+    },
+    {
+      "name": "Black",
+      "hex": "#050505"
+    },
+    {
+      "name": "Blue",
+      "hex": "#6690cc"
+    },
+    {
+      "name": "Cyan",
+      "hex": "#66cccc"
+    },
+    {
+      "name": "Green",
+      "hex": "#66cc88"
+    },
+    {
+      "name": "Magenta",
+      "hex": "#cc66cc"
+    },
+    {
+      "name": "Red",
+      "hex": "#cc6666"
+    },
+    {
+      "name": "White",
+      "hex": "#f3f1ee"
+    },
+    {
+      "name": "Yellow",
+      "hex": "#ccbb66"
+    },
+    {
+      "name": "Background",
+      "hex": "#0a0a0a"
+    },
+    {
+      "name": "Foreground",
+      "hex": "#e8e4df"
+    },
+    {
+      "name": "Selection Background",
+      "hex": "#141414"
+    },
+    {
+      "name": "Selection Text",
+      "hex": "#e8e4df"
+    }
+  ]
+}

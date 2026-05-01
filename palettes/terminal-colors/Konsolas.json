@@ -1,0 +1,93 @@
+{
+  "name": "Konsolas",
+  "colors": [
+    {
+      "name": "Bright Black",
+      "hex": "#7b716e"
+    },
+    {
+      "name": "Bright Blue",
+      "hex": "#4b4bff"
+    },
+    {
+      "name": "Bright Cyan",
+      "hex": "#69ffff"
+    },
+    {
+      "name": "Bright Green",
+      "hex": "#5fff5f"
+    },
+    {
+      "name": "Bright Magenta",
+      "hex": "#ff54ff"
+    },
+    {
+      "name": "Bright Red",
+      "hex": "#ff4141"
+    },
+    {
+      "name": "Bright White",
+      "hex": "#ffffff"
+    },
+    {
+      "name": "Bright Yellow",
+      "hex": "#ffff55"
+    },
+    {
+      "name": "Cursor Cursor",
+      "hex": "#c8c1c1"
+    },
+    {
+      "name": "Cursor Text",
+      "hex": "#060606"
+    },
+    {
+      "name": "Black",
+      "hex": "#000000"
+    },
+    {
+      "name": "Blue",
+      "hex": "#2323a5"
+    },
+    {
+      "name": "Cyan",
+      "hex": "#42b0c8"
+    },
+    {
+      "name": "Green",
+      "hex": "#18b218"
+    },
+    {
+      "name": "Magenta",
+      "hex": "#ad1edc"
+    },
+    {
+      "name": "Red",
+      "hex": "#aa1717"
+    },
+    {
+      "name": "White",
+      "hex": "#c8c1c1"
+    },
+    {
+      "name": "Yellow",
+      "hex": "#ebae1f"
+    },
+    {
+      "name": "Background",
+      "hex": "#060606"
+    },
+    {
+      "name": "Foreground",
+      "hex": "#c8c1c1"
+    },
+    {
+      "name": "Selection Background",
+      "hex": "#060606"
+    },
+    {
+      "name": "Selection Text",
+      "hex": "#c8c1c1"
+    }
+  ]
+}

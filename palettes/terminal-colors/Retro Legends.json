@@ -1,0 +1,93 @@
+{
+  "name": "Retro Legends",
+  "colors": [
+    {
+      "name": "Bright Black",
+      "hex": "#4c594c"
+    },
+    {
+      "name": "Bright Blue",
+      "hex": "#4c80ff"
+    },
+    {
+      "name": "Bright Cyan",
+      "hex": "#59e6ff"
+    },
+    {
+      "name": "Bright Green",
+      "hex": "#59ff59"
+    },
+    {
+      "name": "Bright Magenta",
+      "hex": "#e666ff"
+    },
+    {
+      "name": "Bright Red",
+      "hex": "#ff6666"
+    },
+    {
+      "name": "Bright White",
+      "hex": "#f2fff2"
+    },
+    {
+      "name": "Bright Yellow",
+      "hex": "#ffd933"
+    },
+    {
+      "name": "Cursor Cursor",
+      "hex": "#45eb45"
+    },
+    {
+      "name": "Cursor Text",
+      "hex": "#0d0d0d"
+    },
+    {
+      "name": "Black",
+      "hex": "#262626"
+    },
+    {
+      "name": "Blue",
+      "hex": "#4066f2"
+    },
+    {
+      "name": "Cyan",
+      "hex": "#40d9e6"
+    },
+    {
+      "name": "Green",
+      "hex": "#45eb45"
+    },
+    {
+      "name": "Magenta",
+      "hex": "#bf4cf2"
+    },
+    {
+      "name": "Red",
+      "hex": "#de5454"
+    },
+    {
+      "name": "White",
+      "hex": "#bfe6bf"
+    },
+    {
+      "name": "Yellow",
+      "hex": "#f7bf2b"
+    },
+    {
+      "name": "Background",
+      "hex": "#0d0d0d"
+    },
+    {
+      "name": "Foreground",
+      "hex": "#45eb45"
+    },
+    {
+      "name": "Selection Background",
+      "hex": "#336633"
+    },
+    {
+      "name": "Selection Text",
+      "hex": "#f2fff2"
+    }
+  ]
+}

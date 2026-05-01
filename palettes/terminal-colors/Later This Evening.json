@@ -1,0 +1,93 @@
+{
+  "name": "Later This Evening",
+  "colors": [
+    {
+      "name": "Bright Black",
+      "hex": "#525454"
+    },
+    {
+      "name": "Bright Blue",
+      "hex": "#6699d6"
+    },
+    {
+      "name": "Bright Cyan",
+      "hex": "#5fc0ae"
+    },
+    {
+      "name": "Bright Green",
+      "hex": "#aabb39"
+    },
+    {
+      "name": "Bright Magenta",
+      "hex": "#ab53d6"
+    },
+    {
+      "name": "Bright Red",
+      "hex": "#d3232f"
+    },
+    {
+      "name": "Bright White",
+      "hex": "#c1c2c2"
+    },
+    {
+      "name": "Bright Yellow",
+      "hex": "#e5be39"
+    },
+    {
+      "name": "Cursor Cursor",
+      "hex": "#4f4f4f"
+    },
+    {
+      "name": "Cursor Text",
+      "hex": "#959595"
+    },
+    {
+      "name": "Black",
+      "hex": "#2b2b2b"
+    },
+    {
+      "name": "Blue",
+      "hex": "#a0bad6"
+    },
+    {
+      "name": "Cyan",
+      "hex": "#91bfb7"
+    },
+    {
+      "name": "Green",
+      "hex": "#afba67"
+    },
+    {
+      "name": "Magenta",
+      "hex": "#c092d6"
+    },
+    {
+      "name": "Red",
+      "hex": "#d45a60"
+    },
+    {
+      "name": "White",
+      "hex": "#494a4a"
+    },
+    {
+      "name": "Yellow",
+      "hex": "#e5d289"
+    },
+    {
+      "name": "Background",
+      "hex": "#222222"
+    },
+    {
+      "name": "Foreground",
+      "hex": "#959595"
+    },
+    {
+      "name": "Selection Background",
+      "hex": "#424242"
+    },
+    {
+      "name": "Selection Text",
+      "hex": "#959595"
+    }
+  ]
+}

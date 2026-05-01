@@ -1,0 +1,93 @@
+{
+  "name": "Doom Peacock",
+  "colors": [
+    {
+      "name": "Bright Black",
+      "hex": "#51504d"
+    },
+    {
+      "name": "Bright Blue",
+      "hex": "#51afef"
+    },
+    {
+      "name": "Bright Cyan",
+      "hex": "#46d9ff"
+    },
+    {
+      "name": "Bright Green",
+      "hex": "#98be65"
+    },
+    {
+      "name": "Bright Magenta",
+      "hex": "#c678dd"
+    },
+    {
+      "name": "Bright Red",
+      "hex": "#ff5d38"
+    },
+    {
+      "name": "Bright White",
+      "hex": "#dfdfdf"
+    },
+    {
+      "name": "Bright Yellow",
+      "hex": "#e6f972"
+    },
+    {
+      "name": "Cursor Cursor",
+      "hex": "#9c9c9d"
+    },
+    {
+      "name": "Cursor Text",
+      "hex": "#36312b"
+    },
+    {
+      "name": "Black",
+      "hex": "#1c1f24"
+    },
+    {
+      "name": "Blue",
+      "hex": "#2a6cc6"
+    },
+    {
+      "name": "Cyan",
+      "hex": "#5699af"
+    },
+    {
+      "name": "Green",
+      "hex": "#26a6a6"
+    },
+    {
+      "name": "Magenta",
+      "hex": "#a9a1e1"
+    },
+    {
+      "name": "Red",
+      "hex": "#cb4b16"
+    },
+    {
+      "name": "White",
+      "hex": "#ede0ce"
+    },
+    {
+      "name": "Yellow",
+      "hex": "#bcd42a"
+    },
+    {
+      "name": "Background",
+      "hex": "#2b2a27"
+    },
+    {
+      "name": "Foreground",
+      "hex": "#ede0ce"
+    },
+    {
+      "name": "Selection Background",
+      "hex": "#a60033"
+    },
+    {
+      "name": "Selection Text",
+      "hex": "#ffffff"
+    }
+  ]
+}
