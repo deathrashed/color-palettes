@@ -1,0 +1,37 @@
+{
+  "name": "Viridis",
+  "colors": [
+    {
+      "name": "Ripe Plum",
+      "hex": "#440154"
+    },
+    {
+      "name": "Galactic Compass",
+      "hex": "#46327E"
+    },
+    {
+      "name": "Moroccan Resort",
+      "hex": "#365C8D"
+    },
+    {
+      "name": "Pagoda Blue",
+      "hex": "#277F8E"
+    },
+    {
+      "name": "Stamp Pad Green",
+      "hex": "#1FA187"
+    },
+    {
+      "name": "Emerald Cory",
+      "hex": "#4AC16D"
+    },
+    {
+      "name": "Poisonous Potion",
+      "hex": "#A0DA39"
+    },
+    {
+      "name": "Blazing Yellow",
+      "hex": "#FDE725"
+    }
+  ]
+}

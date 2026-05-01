@@ -1,0 +1,65 @@
+{
+  "name": "Turbo",
+  "colors": [
+    {
+      "name": "Blackcurrant",
+      "hex": "#30123B"
+    },
+    {
+      "name": "Megadrive Screen",
+      "hex": "#4145AB"
+    },
+    {
+      "name": "Blue Öyster Cult",
+      "hex": "#4675ED"
+    },
+    {
+      "name": "Rockman Blue",
+      "hex": "#39A2FC"
+    },
+    {
+      "name": "Jade Glass",
+      "hex": "#1BCFD4"
+    },
+    {
+      "name": "Weird Green",
+      "hex": "#24E68A"
+    },
+    {
+      "name": "Screamin’ Green",
+      "hex": "#61FC6C"
+    },
+    {
+      "name": "Lime",
+      "hex": "#A4FC3C"
+    },
+    {
+      "name": "Lime Fizz",
+      "hex": "#D1E834"
+    },
+    {
+      "name": "Buzz",
+      "hex": "#F3C63A"
+    },
+    {
+      "name": "Dragon Ball",
+      "hex": "#FE9B2D"
+    },
+    {
+      "name": "Scarlet Ibis",
+      "hex": "#F36315"
+    },
+    {
+      "name": "Flame of Prometheus",
+      "hex": "#D93806"
+    },
+    {
+      "name": "Kid Icarus",
+      "hex": "#A81201"
+    },
+    {
+      "name": "Demon",
+      "hex": "#7A0403"
+    }
+  ]
+}

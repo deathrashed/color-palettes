@@ -221,6 +221,9 @@ through lots of palettes:
 make tui
 ```
 
+It opens on a menu first, then drops into the palette browser when you need to
+work on a specific file or folder.
+
 Useful keys:
 
 | Key | Action |

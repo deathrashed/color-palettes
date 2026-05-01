@@ -43,9 +43,21 @@ class PaletteEntry:
     kind: str
 
 
+@dataclass(frozen=True)
+class MenuItem:
+    label: str
+    kind: str
+    detail: str
+    action: str
+
+
 class PaletteTUI:
     def __init__(self, screen: curses.window) -> None:
         self.screen = screen
+        self.mode = "home"
+        self.home_items: list[MenuItem] = self.build_home_items()
+        self.home_selected = 0
+        self.home_offset = 0
         self.entries: list[PaletteEntry] = []
         self.filtered: list[PaletteEntry] = []
         self.selected = 0
@@ -63,47 +75,162 @@ class PaletteTUI:
         curses.init_pair(3, curses.COLOR_YELLOW, -1)
         curses.init_pair(4, curses.COLOR_GREEN, -1)
         curses.init_pair(5, curses.COLOR_RED, -1)
+        curses.init_pair(6, curses.COLOR_WHITE, -1)
         self.reload()
 
         while True:
             self.draw()
             key = self.screen.getch()
-            if key in (ord("q"), 27):
-                return
-            if key in (curses.KEY_DOWN, ord("j")):
-                self.move(1)
-            elif key in (curses.KEY_UP, ord("k")):
-                self.move(-1)
-            elif key in (curses.KEY_NPAGE, ord(" ")):
-                self.move(10)
-            elif key == curses.KEY_PPAGE:
-                self.move(-10)
-            elif key in (ord("/"),):
-                self.search()
-            elif key in (ord("r"),):
-                self.reload()
-            elif key in (ord("g"),):
-                self.generate_selected()
-            elif key in (ord("b"),):
-                self.batch_selected()
-            elif key in (ord("n"),):
-                self.name_selected()
-            elif key in (ord("N"),):
-                self.name_selected(rename_all=True)
-            elif key in (ord("s"),):
-                self.colorslurp_picker_selected(print_only=False)
-            elif key in (ord("S"),):
-                self.colorslurp_picker_selected(print_only=True)
-            elif key in (ord("c"),):
-                self.colorslurp_contrast_selected(print_only=False)
-            elif key in (ord("C"),):
-                self.colorslurp_contrast_selected(print_only=True)
-            elif key in (ord("p"),):
-                self.run_command([str(REPO_ROOT / "scripts" / "colorslurp.py"), "palettes"])
-            elif key in (ord("o"), curses.KEY_ENTER, 10, 13):
-                self.inspect_selected()
-            elif key == curses.KEY_RESIZE:
-                pass
+            if self.mode == "home":
+                if self.handle_home_key(key):
+                    return
+            else:
+                if self.handle_browser_key(key):
+                    return
+
+    def handle_home_key(self, key: int) -> bool:
+        if key in (ord("q"), 27):
+            return True
+        if key in (curses.KEY_DOWN, ord("j")):
+            self.home_move(1)
+        elif key in (curses.KEY_UP, ord("k")):
+            self.home_move(-1)
+        elif key in (curses.KEY_NPAGE, ord(" ")):
+            self.home_move(5)
+        elif key == curses.KEY_PPAGE:
+            self.home_move(-5)
+        elif key in (curses.KEY_ENTER, 10, 13):
+            self.activate_home_item()
+        elif key in (ord("b"),):
+            self.enter_browser("Browse palettes and folders. Select a palette file, then press g/n/s/c.")
+        elif key in (ord("/"),):
+            self.enter_browser("Search palettes with /, then use g/b/n/s/c on the selected item.")
+            self.search()
+        elif key in (ord("r"),):
+            self.reload()
+        elif key in (ord("?"),):
+            self.show_help()
+        elif key == curses.KEY_RESIZE:
+            pass
+        return False
+
+    def handle_browser_key(self, key: int) -> bool:
+        if key in (ord("q"), 27):
+            return True
+        if key in (curses.KEY_DOWN, ord("j")):
+            self.move(1)
+        elif key in (curses.KEY_UP, ord("k")):
+            self.move(-1)
+        elif key in (curses.KEY_NPAGE, ord(" ")):
+            self.move(10)
+        elif key == curses.KEY_PPAGE:
+            self.move(-10)
+        elif key in (ord("/"),):
+            self.search()
+        elif key in (ord("r"),):
+            self.reload()
+        elif key in (ord("h"), ord("H"), ord("m")):
+            self.mode = "home"
+            self.status = "Back at the main menu"
+        elif key in (ord("g"),):
+            self.generate_selected()
+        elif key in (ord("b"),):
+            self.batch_selected()
+        elif key in (ord("n"),):
+            self.name_selected()
+        elif key in (ord("N"),):
+            self.name_selected(rename_all=True)
+        elif key in (ord("s"),):
+            self.colorslurp_picker_selected(print_only=False)
+        elif key in (ord("S"),):
+            self.colorslurp_picker_selected(print_only=True)
+        elif key in (ord("c"),):
+            self.colorslurp_contrast_selected(print_only=False)
+        elif key in (ord("C"),):
+            self.colorslurp_contrast_selected(print_only=True)
+        elif key in (ord("p"),):
+            self.run_command([str(REPO_ROOT / "scripts" / "colorslurp.py"), "palettes"])
+        elif key in (ord("o"), curses.KEY_ENTER, 10, 13):
+            self.inspect_selected()
+        elif key == curses.KEY_RESIZE:
+            pass
+        return False
+
+    def build_home_items(self) -> list[MenuItem]:
+        return [
+            MenuItem("Browse palettes", "navigation", "Open the palette browser and work on a selected palette or folder.", "browse"),
+            MenuItem("Generate .clr", "colorgen", "Choose a palette file, then press g to write a .clr file.", "browse-generate"),
+            MenuItem("Batch convert folders", "colorgen", "Choose a directory, or a palette inside one, then press b.", "browse-batch"),
+            MenuItem("Name colors", "naming", "Choose a JSON palette, then press n for suggestions or N to write names.", "browse-name"),
+            MenuItem("ColorSlurp picker", "colorslurp", "Choose a palette and press s or S to open or print a picker URL.", "browse-picker"),
+            MenuItem("ColorSlurp contrast", "colorslurp", "Choose a palette and press c or C to compare two colors.", "browse-contrast"),
+            MenuItem("ColorSlurp palettes", "colorslurp", "Open ColorSlurp directly on the palettes view.", "colorslurp-palettes"),
+            MenuItem("ColorSlurp magnifier", "colorslurp", "Open the magnifier in ColorSlurp.", "colorslurp-magnifier"),
+            MenuItem("ColorSlurp settings", "colorslurp", "Open ColorSlurp settings at the formats tab.", "colorslurp-settings"),
+            MenuItem("Refresh .clr files", "maintenance", "Regenerate canonical .clr outputs from palettes.json.", "refresh"),
+            MenuItem("Check colorgen formats", "maintenance", "Run the sample format validation script.", "check-formats"),
+            MenuItem("Check palette manifest", "maintenance", "Run the inventory and source coverage validator.", "check-manifest"),
+            MenuItem("Workflow guide", "docs", "Open the repo workflow notes inside the TUI.", "docs"),
+        ]
+
+    def home_move(self, delta: int) -> None:
+        if not self.home_items:
+            return
+        self.home_selected = max(0, min(len(self.home_items) - 1, self.home_selected + delta))
+        height = max(1, self.screen.getmaxyx()[0] - 7)
+        if self.home_selected < self.home_offset:
+            self.home_offset = self.home_selected
+        elif self.home_selected >= self.home_offset + height:
+            self.home_offset = self.home_selected - height + 1
+
+    def activate_home_item(self) -> None:
+        item = self.home_items[self.home_selected]
+        if item.action == "browse":
+            self.enter_browser("Browse palettes and folders. Select a palette file, then press g/n/s/c.")
+        elif item.action == "browse-generate":
+            self.enter_browser("Select a palette file, then press g to generate a .clr.")
+        elif item.action == "browse-batch":
+            self.enter_browser("Select a folder or a palette inside a folder, then press b to batch convert.")
+        elif item.action == "browse-name":
+            self.enter_browser("Select a JSON palette, then press n or N to name colors.")
+        elif item.action == "browse-picker":
+            self.enter_browser("Select a palette, then press s or S for ColorSlurp picker URLs.")
+        elif item.action == "browse-contrast":
+            self.enter_browser("Select a palette, then press c or C for ColorSlurp contrast URLs.")
+        elif item.action == "colorslurp-palettes":
+            self.run_command([str(REPO_ROOT / "scripts" / "colorslurp.py"), "palettes"])
+        elif item.action == "colorslurp-magnifier":
+            self.run_command([str(REPO_ROOT / "scripts" / "colorslurp.py"), "magnifier"])
+        elif item.action == "colorslurp-settings":
+            self.run_command([str(REPO_ROOT / "scripts" / "colorslurp.py"), "settings", "--tab", "formats"])
+        elif item.action == "colorslurp":
+            self.show_text(
+                "ColorSlurp",
+                [
+                    "ColorSlurp app views",
+                    "",
+                    "p  palettes",
+                    "m  magnifier",
+                    "t  settings",
+                    "",
+                    "These open ColorSlurp directly without needing a selected palette.",
+                ],
+            )
+        elif item.action == "refresh":
+            self.run_command([str(REPO_ROOT / "scripts" / "refresh-clr.py")])
+        elif item.action == "check-formats":
+            self.run_command([str(REPO_ROOT / "scripts" / "check-colorgen-formats.sh")])
+        elif item.action == "check-manifest":
+            self.run_command([str(REPO_ROOT / "scripts" / "check-palette-manifest.py")])
+        elif item.action == "docs":
+            self.show_help()
+
+    def enter_browser(self, status: str | None = None) -> None:
+        self.mode = "browser"
+        if status:
+            self.status = status
+        if not self.filtered:
+            self.apply_filter()
 
     def reload(self) -> None:
         self.entries = discover_entries()
@@ -139,30 +266,63 @@ class PaletteTUI:
         self.screen.erase()
         height, width = self.screen.getmaxyx()
         left_width = max(32, min(56, width // 2))
-        self.draw_header(width)
-        self.draw_list(2, 0, height - 5, left_width)
-        self.draw_detail(2, left_width + 1, height - 5, width - left_width - 1)
+        if self.mode == "home":
+            self.draw_home(width, left_width, height)
+        else:
+            self.draw_browser(width, left_width, height)
         self.draw_footer(height - 3, width)
         self.screen.refresh()
+
+    def draw_home(self, width: int, left_width: int, height: int) -> None:
+        self.addstr(0, 0, " Color Palettes TUI ", curses.A_BOLD | curses.color_pair(2))
+        self.addstr(1, 0, " Home | choose a workflow with arrows and Enter ", curses.color_pair(3))
+        self.draw_item_list(self.home_items, self.home_offset, self.home_selected, 2, 0, height - 5, left_width)
+        self.draw_home_detail(2, left_width + 1, height - 5, width - left_width - 1)
+
+    def draw_browser(self, width: int, left_width: int, height: int) -> None:
+        self.draw_header(width)
+        self.draw_item_list(self.filtered, self.offset, self.selected, 2, 0, height - 5, left_width)
+        self.draw_detail(2, left_width + 1, height - 5, width - left_width - 1)
 
     def draw_header(self, width: int) -> None:
         title = " Color Palettes TUI "
         self.addstr(0, 0, title[:width], curses.A_BOLD | curses.color_pair(2))
-        meta = f" {len(self.filtered)}/{len(self.entries)} | search: {self.query or '-'} "
+        meta = f" Browser | {len(self.filtered)}/{len(self.entries)} | search: {self.query or '-'} | h home "
         self.addstr(1, 0, meta[:width], curses.color_pair(3))
 
-    def draw_list(self, y: int, x: int, height: int, width: int) -> None:
-        visible = self.filtered[self.offset : self.offset + height]
+    def draw_item_list(self, items: list[Any], offset: int, selected: int, y: int, x: int, height: int, width: int) -> None:
+        visible = items[offset : offset + height]
         for row in range(height):
             line_y = y + row
             if row >= len(visible):
                 self.addstr(line_y, x, " " * max(0, width - 1))
                 continue
             entry = visible[row]
-            marker = ">" if self.offset + row == self.selected else " "
-            label = f"{marker} {entry.kind:<4} {entry.label}"
-            attr = curses.color_pair(1) if self.offset + row == self.selected else 0
+            kind = getattr(entry, "kind", "")
+            label = getattr(entry, "label", "")
+            marker = ">" if offset + row == selected else " "
+            label = f"{marker} {kind:<10} {label}"
+            attr = curses.color_pair(1) if offset + row == selected else 0
             self.addstr(line_y, x, label[: width - 1].ljust(width - 1), attr)
+
+    def draw_home_detail(self, y: int, x: int, height: int, width: int) -> None:
+        item = self.home_items[self.home_selected] if self.home_items else None
+        if not item:
+            self.addstr(y, x, "No menu items", curses.color_pair(5))
+            return
+
+        lines = [item.label, "", *self.wrap_text(item.detail, max(20, width - 2))]
+        lines.extend(
+            [
+                "",
+                "Enter opens this workflow.",
+                "b jumps into the browser from anywhere.",
+                "q quits, h returns home from the browser.",
+            ]
+        )
+        for row, line in enumerate(lines[:height]):
+            attr = curses.A_BOLD if row == 0 else 0
+            self.addstr(y + row, x, line[: max(0, width - 1)], attr)
 
     def draw_detail(self, y: int, x: int, height: int, width: int) -> None:
         entry = self.current()
@@ -204,7 +364,7 @@ class PaletteTUI:
                 "Actions:",
                 "o inspect   g generate clr   n name missing   N rename all",
                 "s open picker   S print picker URL   c contrast   C print contrast URL",
-                "p ColorSlurp palettes   / search   r reload   q quit",
+                "p ColorSlurp palettes   / search   r reload   h home   q quit",
             ]
         )
 
@@ -363,6 +523,47 @@ class PaletteTUI:
                 top = min(max(0, len(lines) - body_height), top + body_height)
             elif key == curses.KEY_PPAGE:
                 top = max(0, top - body_height)
+
+    def show_help(self) -> None:
+        self.show_text(
+            "Workflow Guide",
+            [
+                "Main menu",
+                "  Browse palettes: open the palette browser.",
+                "  Generate .clr: jump to browser, select a palette, press g.",
+                "  Batch convert folders: jump to browser, select a directory, press b.",
+                "  Name colors: jump to browser, select a JSON palette, press n or N.",
+                "  ColorSlurp picker/contrast: select a palette, then press s/c or S/C.",
+                "  ColorSlurp palettes/magnifier/settings: open the app directly.",
+                "  Refresh .clr files: regenerate canonical outputs from palettes.json.",
+                "  Check colorgen formats: validate the sample inputs.",
+                "  Check palette manifest: validate inventory coverage.",
+                "",
+                "Browser mode",
+                "  arrows or j/k move",
+                "  / search",
+                "  o inspect",
+                "  g generate",
+                "  b batch convert",
+                "  n name missing colors",
+                "  N rename every color",
+                "  s/S picker",
+                "  c/C contrast",
+                "  p ColorSlurp palettes",
+                "  h return home",
+                "",
+                "The browser works on the current selection; the home screen is the menu.",
+            ],
+        )
+
+    def wrap_text(self, text: str, width: int) -> list[str]:
+        if width <= 0:
+            return [text]
+        lines: list[str] = []
+        for paragraph in text.splitlines() or [""]:
+            wrapped = textwrap.wrap(paragraph, width=width) or [""]
+            lines.extend(wrapped)
+        return lines
 
     def prompt(self, label: str, default: str = "") -> str | None:
         curses.curs_set(1)

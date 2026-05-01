@@ -43,7 +43,7 @@ Examples:
 ./bin/palette-tui
 ```
 
-This starts the repo TUI from `scripts/palette-tui.py`. It is safe to symlink:
+This starts the menu-driven repo TUI from `scripts/palette-tui.py`. It is safe to symlink:
 
 ```sh
 ln -sf '/Users/rd/Documents/Color Palettes/bin/palette-tui' ~/.local/bin/palette-tui
