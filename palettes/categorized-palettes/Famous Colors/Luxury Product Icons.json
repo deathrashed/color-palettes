@@ -1,0 +1,25 @@
+{
+  "name": "Luxury Product Icons",
+  "colors": [
+    { "name": "Tiffany Blue", "hex": "#81D8D0" },
+    { "name": "Hermes Orange", "hex": "#F37021" },
+    { "name": "Barbie Pink", "hex": "#E0218A" },
+    { "name": "Cadbury Purple", "hex": "#472683" },
+    { "name": "Coca-Cola Red", "hex": "#F40009" },
+    { "name": "UPS Brown", "hex": "#351C15" },
+    { "name": "John Deere Green", "hex": "#367C2B" },
+    { "name": "John Deere Yellow", "hex": "#FFDE00" },
+    { "name": "Caterpillar Yellow", "hex": "#FFCD11" },
+    { "name": "LEGO Red", "hex": "#D01012" },
+    { "name": "LEGO Yellow", "hex": "#F6EC35" },
+    { "name": "LEGO Blue", "hex": "#0055BF" },
+    { "name": "LEGO Green", "hex": "#237841" },
+    { "name": "Rolex Green", "hex": "#006039" },
+    { "name": "Rolex Gold", "hex": "#A37E2C" },
+    { "name": "Gucci Green", "hex": "#0A6A56" },
+    { "name": "Gucci Red", "hex": "#A82B11" },
+    { "name": "Chanel Black", "hex": "#000000" },
+    { "name": "Burberry Beige", "hex": "#B69B7D" },
+    { "name": "Louis Vuitton Brown", "hex": "#4D2B1A" }
+  ]
+}

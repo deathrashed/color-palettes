@@ -1,0 +1,24 @@
+{
+  "name": "HTML Named Essentials",
+  "colors": [
+    { "name": "Black", "hex": "#000000" },
+    { "name": "Silver", "hex": "#C0C0C0" },
+    { "name": "Gray", "hex": "#808080" },
+    { "name": "White", "hex": "#FFFFFF" },
+    { "name": "Maroon", "hex": "#800000" },
+    { "name": "Red", "hex": "#FF0000" },
+    { "name": "Purple", "hex": "#800080" },
+    { "name": "Fuchsia", "hex": "#FF00FF" },
+    { "name": "Green", "hex": "#008000" },
+    { "name": "Lime", "hex": "#00FF00" },
+    { "name": "Olive", "hex": "#808000" },
+    { "name": "Yellow", "hex": "#FFFF00" },
+    { "name": "Navy", "hex": "#000080" },
+    { "name": "Blue", "hex": "#0000FF" },
+    { "name": "Teal", "hex": "#008080" },
+    { "name": "Aqua", "hex": "#00FFFF" },
+    { "name": "Orange", "hex": "#FFA500" },
+    { "name": "Rebecca Purple", "hex": "#663399" },
+    { "name": "Transparent Black", "hex": "#000000" }
+  ]
+}

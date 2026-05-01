@@ -19,6 +19,16 @@ Apple `.clr` files are useful in macOS color pickers, design tools, and apps tha
 
 ## Quick Start
 
+Open the interactive TUI:
+
+```sh
+make tui
+```
+
+Use it to browse palettes, search, generate `.clr` files, batch-convert
+directories, preview color names, and jump into ColorSlurp picker/contrast
+views.
+
 Run the bundled binary directly:
 
 ```sh
@@ -33,6 +43,16 @@ Or run it without arguments for an interactive prompt:
 
 The prompt asks for an input palette file, whether to save into this repo's
 `clr/` folder or a custom folder, and the output palette name.
+
+Batch-convert a directory of palette source files:
+
+```sh
+./bin/colorgen -d 'palettes/terminal-colors'
+```
+
+By default, directory mode writes into `clr/<input-directory-name>/`. For
+example, `palettes/terminal-colors` writes `.clr` files into
+`clr/terminal-colors/`, using each input file's name as the output filename.
 
 The output is always forced to `.clr`, so these all write a `.clr` file:
 
@@ -147,6 +167,75 @@ The source JSON should use this shape:
 ```
 
 By default it writes `json`, `csv`, `txt`, `conf`, `env`, `yaml`, `toml`, `xml`, `css`, `html`, `swift`, `kt`, and an extensionless file.
+
+## Name Colors
+
+Use the bundled color-name reference list to fill missing or generic color names:
+
+```sh
+./scripts/name-colors.py 'palettes/My Palette.json' --dry-run
+./scripts/name-colors.py 'palettes/My Palette.json' --output 'palettes/My Palette.named.json'
+```
+
+By default it only writes names for missing/generic entries such as `Color 1`.
+To rename every entry to the nearest reference color name:
+
+```sh
+./scripts/name-colors.py 'palettes/My Palette.json' --all --output 'palettes/My Palette.named.json'
+```
+
+To keep existing names and add suggestions in a separate field:
+
+```sh
+./scripts/name-colors.py 'palettes/My Palette.json' --field nearest_name --output 'palettes/My Palette.with-nearest.json'
+```
+
+The reference list is vendored in `data/color-names.csv` from the MIT-licensed
+`meodai/color-names` project.
+
+## ColorSlurp Helpers
+
+Open ColorSlurp from palette data using its URL scheme:
+
+```sh
+./scripts/colorslurp.py picker '#FC8392'
+./scripts/colorslurp.py picker 'Bright Blue' --palette 'palettes/terminal-colors/Breeze.json'
+./scripts/colorslurp.py picker 4 --palette 'palettes/terminal-colors/Breeze.json'
+./scripts/colorslurp.py contrast --foreground 'Bright Blue' --background Black --palette 'palettes/terminal-colors/Breeze.json'
+./scripts/colorslurp.py palettes
+./scripts/colorslurp.py settings --tab formats
+```
+
+Use `--print` to preview the `colorslurp://` URL without opening the app:
+
+```sh
+./scripts/colorslurp.py --print picker 'Bright Blue' --palette 'palettes/terminal-colors/Breeze.json'
+```
+
+## Terminal UI
+
+The TUI is the easiest way to interact with the repo when you are working
+through lots of palettes:
+
+```sh
+make tui
+```
+
+Useful keys:
+
+| Key | Action |
+| --- | --- |
+| `/` | Search palettes |
+| `o` / Enter | Inspect selected palette or directory |
+| `g` | Generate one `.clr` file |
+| `b` | Batch-convert the selected directory, or the selected file's folder |
+| `n` | Preview missing/generic color-name fixes |
+| `N` | Write a renamed JSON copy using nearest color names |
+| `s` / `S` | Open or print a ColorSlurp picker URL |
+| `c` / `C` | Open or print a ColorSlurp contrast URL |
+| `p` | Open ColorSlurp palettes |
+| `r` | Reload repo state |
+| `q` | Quit |
 
 ## Palette Inventory
 

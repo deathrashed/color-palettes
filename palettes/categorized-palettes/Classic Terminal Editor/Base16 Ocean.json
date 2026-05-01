@@ -1,0 +1,69 @@
+{
+  "name": "Base16 Ocean",
+  "colors": [
+    {
+      "name": "Base00",
+      "hex": "#2b303b"
+    },
+    {
+      "name": "Base01",
+      "hex": "#343d46"
+    },
+    {
+      "name": "Base02",
+      "hex": "#4f5b66"
+    },
+    {
+      "name": "Base03",
+      "hex": "#65737e"
+    },
+    {
+      "name": "Base04",
+      "hex": "#a7adba"
+    },
+    {
+      "name": "Base05",
+      "hex": "#c0c5ce"
+    },
+    {
+      "name": "Base06",
+      "hex": "#dfe1e8"
+    },
+    {
+      "name": "Base07",
+      "hex": "#eff1f5"
+    },
+    {
+      "name": "Red",
+      "hex": "#bf616a"
+    },
+    {
+      "name": "Orange",
+      "hex": "#d08770"
+    },
+    {
+      "name": "Yellow",
+      "hex": "#ebcb8b"
+    },
+    {
+      "name": "Green",
+      "hex": "#a3be8c"
+    },
+    {
+      "name": "Cyan",
+      "hex": "#96b5b4"
+    },
+    {
+      "name": "Blue",
+      "hex": "#8fa1b3"
+    },
+    {
+      "name": "Purple",
+      "hex": "#b48ead"
+    },
+    {
+      "name": "Brown",
+      "hex": "#ab7967"
+    }
+  ]
+}

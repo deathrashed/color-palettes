@@ -1,0 +1,27 @@
+{
+  "name": "Automotive Racing Brands",
+  "colors": [
+    { "name": "Ferrari Rosso Corsa", "hex": "#FF2800" },
+    { "name": "Ferrari Modena Yellow", "hex": "#FFEB00" },
+    { "name": "Ferrari Logo Red", "hex": "#CD212A" },
+    { "name": "Lamborghini Marzipan", "hex": "#F7DE9F" },
+    { "name": "Lamborghini Egyptian Gold", "hex": "#D8A016" },
+    { "name": "Lamborghini Black", "hex": "#040404" },
+    { "name": "Porsche Red", "hex": "#D5001C" },
+    { "name": "Porsche Gold", "hex": "#B12B28" },
+    { "name": "BMW Blue", "hex": "#0066B1" },
+    { "name": "BMW Light Blue", "hex": "#81C4FF" },
+    { "name": "Mercedes Silver", "hex": "#BBBBBB" },
+    { "name": "Mercedes Black", "hex": "#000000" },
+    { "name": "Tesla Red", "hex": "#E82127" },
+    { "name": "McLaren Papaya", "hex": "#FF8700" },
+    { "name": "Ford Blue", "hex": "#003478" },
+    { "name": "Toyota Red", "hex": "#EB0A1E" },
+    { "name": "Volkswagen Blue", "hex": "#001E50" },
+    { "name": "Audi Red", "hex": "#BB0A30" },
+    { "name": "Aston Martin Racing Green", "hex": "#00352F" },
+    { "name": "Lotus Yellow", "hex": "#FFCD00" },
+    { "name": "Alpine Blue", "hex": "#0078C9" },
+    { "name": "Red Bull Racing Navy", "hex": "#0600EF" }
+  ]
+}

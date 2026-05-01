@@ -1,0 +1,37 @@
+{
+  "name": "Topographic Map",
+  "colors": [
+    {
+      "name": "Deep Water",
+      "hex": "#1d4ed8"
+    },
+    {
+      "name": "Shallow Water",
+      "hex": "#60a5fa"
+    },
+    {
+      "name": "Lowland",
+      "hex": "#86efac"
+    },
+    {
+      "name": "Grassland",
+      "hex": "#65a30d"
+    },
+    {
+      "name": "Hill",
+      "hex": "#ca8a04"
+    },
+    {
+      "name": "Mountain",
+      "hex": "#92400e"
+    },
+    {
+      "name": "Snowcap",
+      "hex": "#f8fafc"
+    },
+    {
+      "name": "Contour",
+      "hex": "#292524"
+    }
+  ]
+}

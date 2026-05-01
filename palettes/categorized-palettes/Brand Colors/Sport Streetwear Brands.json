@@ -1,0 +1,21 @@
+{
+  "name": "Sport Streetwear Brands",
+  "colors": [
+    { "name": "Nike Black", "hex": "#111111" },
+    { "name": "Adidas Black", "hex": "#000000" },
+    { "name": "Puma Black", "hex": "#000000" },
+    { "name": "New Balance Red", "hex": "#E21836" },
+    { "name": "Converse Black", "hex": "#000000" },
+    { "name": "Vans Red", "hex": "#C9192E" },
+    { "name": "Supreme Red", "hex": "#FF0000" },
+    { "name": "Patagonia Navy", "hex": "#003B5C" },
+    { "name": "The North Face Red", "hex": "#E31B23" },
+    { "name": "Under Armour Red", "hex": "#E31B23" },
+    { "name": "Lacoste Green", "hex": "#004C3F" },
+    { "name": "Fila Navy", "hex": "#03234C" },
+    { "name": "Fila Red", "hex": "#E2231A" },
+    { "name": "Champion Blue", "hex": "#002F6C" },
+    { "name": "Champion Red", "hex": "#ED1C24" },
+    { "name": "Carhartt Brown", "hex": "#B36B00" }
+  ]
+}

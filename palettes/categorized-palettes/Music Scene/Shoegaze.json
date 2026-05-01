@@ -1,0 +1,37 @@
+{
+  "name": "Shoegaze",
+  "colors": [
+    {
+      "name": "Haze",
+      "hex": "#d8e2dc"
+    },
+    {
+      "name": "Blush",
+      "hex": "#ffcad4"
+    },
+    {
+      "name": "Lavender",
+      "hex": "#cdb4db"
+    },
+    {
+      "name": "Washed Blue",
+      "hex": "#a2d2ff"
+    },
+    {
+      "name": "Fuzz",
+      "hex": "#6d6875"
+    },
+    {
+      "name": "Dream",
+      "hex": "#bde0fe"
+    },
+    {
+      "name": "Tape",
+      "hex": "#ffc8dd"
+    },
+    {
+      "name": "Feedback",
+      "hex": "#8e9aaf"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "name": "Doom",
+  "colors": [
+    {
+      "name": "Doom Black",
+      "hex": "#0b0b0b"
+    },
+    {
+      "name": "Doom Gray",
+      "hex": "#555555"
+    },
+    {
+      "name": "Doom Red",
+      "hex": "#b00000"
+    },
+    {
+      "name": "Blood",
+      "hex": "#7f0000"
+    },
+    {
+      "name": "Armor Green",
+      "hex": "#2f7f2f"
+    },
+    {
+      "name": "Toxic",
+      "hex": "#7fbf00"
+    },
+    {
+      "name": "Cacodemon Blue",
+      "hex": "#3366aa"
+    },
+    {
+      "name": "Fire Orange",
+      "hex": "#ff7f00"
+    },
+    {
+      "name": "Skull Bone",
+      "hex": "#d7c9a5"
+    },
+    {
+      "name": "Hell Brown",
+      "hex": "#6b3e26"
+    }
+  ]
+}

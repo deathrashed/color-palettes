@@ -1,0 +1,69 @@
+{
+  "name": "Radix Colors",
+  "colors": [
+    {
+      "name": "Tomato",
+      "hex": "#e54d2e"
+    },
+    {
+      "name": "Red",
+      "hex": "#e5484d"
+    },
+    {
+      "name": "Ruby",
+      "hex": "#e54666"
+    },
+    {
+      "name": "Crimson",
+      "hex": "#e93d82"
+    },
+    {
+      "name": "Pink",
+      "hex": "#d6409f"
+    },
+    {
+      "name": "Plum",
+      "hex": "#ab4aba"
+    },
+    {
+      "name": "Purple",
+      "hex": "#8e4ec6"
+    },
+    {
+      "name": "Violet",
+      "hex": "#6e56cf"
+    },
+    {
+      "name": "Iris",
+      "hex": "#5b5bd6"
+    },
+    {
+      "name": "Indigo",
+      "hex": "#3e63dd"
+    },
+    {
+      "name": "Blue",
+      "hex": "#0090ff"
+    },
+    {
+      "name": "Cyan",
+      "hex": "#00a2c7"
+    },
+    {
+      "name": "Teal",
+      "hex": "#12a594"
+    },
+    {
+      "name": "Green",
+      "hex": "#30a46c"
+    },
+    {
+      "name": "Grass",
+      "hex": "#46a758"
+    },
+    {
+      "name": "Orange",
+      "hex": "#f76b15"
+    }
+  ]
+}

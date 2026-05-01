@@ -1,0 +1,37 @@
+{
+  "name": "Post Punk",
+  "colors": [
+    {
+      "name": "Black",
+      "hex": "#080808"
+    },
+    {
+      "name": "White",
+      "hex": "#f5f5f5"
+    },
+    {
+      "name": "Concrete",
+      "hex": "#737373"
+    },
+    {
+      "name": "Lipstick",
+      "hex": "#b91c1c"
+    },
+    {
+      "name": "Cold Blue",
+      "hex": "#1e3a8a"
+    },
+    {
+      "name": "Club Purple",
+      "hex": "#581c87"
+    },
+    {
+      "name": "Neon Green",
+      "hex": "#84cc16"
+    },
+    {
+      "name": "Amber",
+      "hex": "#d97706"
+    }
+  ]
+}

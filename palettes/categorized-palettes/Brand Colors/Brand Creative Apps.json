@@ -1,0 +1,21 @@
+{
+  "name": "Brand Creative Apps",
+  "colors": [
+    { "name": "Adobe", "hex": "#ff0000" },
+    { "name": "Photoshop", "hex": "#31a8ff" },
+    { "name": "Illustrator", "hex": "#ff9a00" },
+    { "name": "Premiere Pro", "hex": "#9999ff" },
+    { "name": "After Effects", "hex": "#9999ff" },
+    { "name": "Lightroom", "hex": "#31a8ff" },
+    { "name": "Figma", "hex": "#f24e1e" },
+    { "name": "Sketch", "hex": "#f7b500" },
+    { "name": "Canva", "hex": "#00c4cc" },
+    { "name": "Dribbble", "hex": "#ea4c89" },
+    { "name": "Behance", "hex": "#1769ff" },
+    { "name": "Blender", "hex": "#e87d0d" },
+    { "name": "Unity", "hex": "#000000" },
+    { "name": "Unreal Engine", "hex": "#313131" },
+    { "name": "DaVinci Resolve", "hex": "#233a51" },
+    { "name": "Ableton Live", "hex": "#000000" }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "name": "Bootstrap",
+  "colors": [
+    {
+      "name": "Primary",
+      "hex": "#0d6efd"
+    },
+    {
+      "name": "Secondary",
+      "hex": "#6c757d"
+    },
+    {
+      "name": "Success",
+      "hex": "#198754"
+    },
+    {
+      "name": "Info",
+      "hex": "#0dcaf0"
+    },
+    {
+      "name": "Warning",
+      "hex": "#ffc107"
+    },
+    {
+      "name": "Danger",
+      "hex": "#dc3545"
+    },
+    {
+      "name": "Light",
+      "hex": "#f8f9fa"
+    },
+    {
+      "name": "Dark",
+      "hex": "#212529"
+    },
+    {
+      "name": "Blue",
+      "hex": "#0d6efd"
+    },
+    {
+      "name": "Indigo",
+      "hex": "#6610f2"
+    },
+    {
+      "name": "Purple",
+      "hex": "#6f42c1"
+    },
+    {
+      "name": "Pink",
+      "hex": "#d63384"
+    },
+    {
+      "name": "Red",
+      "hex": "#dc3545"
+    },
+    {
+      "name": "Orange",
+      "hex": "#fd7e14"
+    },
+    {
+      "name": "Yellow",
+      "hex": "#ffc107"
+    },
+    {
+      "name": "Green",
+      "hex": "#198754"
+    }
+  ]
+}

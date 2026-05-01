@@ -1,0 +1,37 @@
+{
+  "name": "Acid House",
+  "colors": [
+    {
+      "name": "Acid Yellow",
+      "hex": "#f7ff00"
+    },
+    {
+      "name": "Smiley Black",
+      "hex": "#000000"
+    },
+    {
+      "name": "Hot Pink",
+      "hex": "#ff00a8"
+    },
+    {
+      "name": "Strobe Blue",
+      "hex": "#00a3ff"
+    },
+    {
+      "name": "Lime",
+      "hex": "#39ff14"
+    },
+    {
+      "name": "Orange",
+      "hex": "#ff6d00"
+    },
+    {
+      "name": "Purple",
+      "hex": "#7b2cbf"
+    },
+    {
+      "name": "White",
+      "hex": "#ffffff"
+    }
+  ]
+}

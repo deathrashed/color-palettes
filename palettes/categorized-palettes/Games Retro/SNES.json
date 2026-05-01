@@ -1,0 +1,45 @@
+{
+  "name": "SNES",
+  "colors": [
+    {
+      "name": "Console Gray",
+      "hex": "#b7b7b7"
+    },
+    {
+      "name": "Dark Gray",
+      "hex": "#515151"
+    },
+    {
+      "name": "Purple",
+      "hex": "#4f43ae"
+    },
+    {
+      "name": "Lavender",
+      "hex": "#9b8cff"
+    },
+    {
+      "name": "Button Red",
+      "hex": "#d82800"
+    },
+    {
+      "name": "Button Yellow",
+      "hex": "#f8d040"
+    },
+    {
+      "name": "Button Green",
+      "hex": "#00a844"
+    },
+    {
+      "name": "Button Blue",
+      "hex": "#0060c8"
+    },
+    {
+      "name": "Screen Black",
+      "hex": "#101010"
+    },
+    {
+      "name": "Plastic White",
+      "hex": "#e8e8e8"
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "name": "One Dark",
+  "colors": [
+    {
+      "name": "Background",
+      "hex": "#282c34"
+    },
+    {
+      "name": "Foreground",
+      "hex": "#abb2bf"
+    },
+    {
+      "name": "Black",
+      "hex": "#282c34"
+    },
+    {
+      "name": "Red",
+      "hex": "#e06c75"
+    },
+    {
+      "name": "Green",
+      "hex": "#98c379"
+    },
+    {
+      "name": "Yellow",
+      "hex": "#e5c07b"
+    },
+    {
+      "name": "Blue",
+      "hex": "#61afef"
+    },
+    {
+      "name": "Magenta",
+      "hex": "#c678dd"
+    },
+    {
+      "name": "Cyan",
+      "hex": "#56b6c2"
+    },
+    {
+      "name": "White",
+      "hex": "#abb2bf"
+    },
+    {
+      "name": "Bright Black",
+      "hex": "#5c6370"
+    },
+    {
+      "name": "Bright Red",
+      "hex": "#e06c75"
+    },
+    {
+      "name": "Bright Green",
+      "hex": "#98c379"
+    },
+    {
+      "name": "Bright Yellow",
+      "hex": "#e5c07b"
+    },
+    {
+      "name": "Bright Blue",
+      "hex": "#61afef"
+    },
+    {
+      "name": "Bright Magenta",
+      "hex": "#c678dd"
+    },
+    {
+      "name": "Bright Cyan",
+      "hex": "#56b6c2"
+    },
+    {
+      "name": "Bright White",
+      "hex": "#ffffff"
+    }
+  ]
+}

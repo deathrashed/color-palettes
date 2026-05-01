@@ -1,0 +1,10 @@
+#!/usr/bin/env zsh
+set -euo pipefail
+
+launcher="${0:A}"
+if [[ -L "$launcher" ]]; then
+  launcher="${launcher:P}"
+fi
+
+repo_root="${launcher:h:h}"
+exec /usr/bin/env python3 "$repo_root/scripts/palette-tui.py" "$@"

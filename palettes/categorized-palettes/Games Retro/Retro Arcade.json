@@ -1,0 +1,17 @@
+{
+  "name": "Retro Arcade",
+  "colors": [
+    { "name": "Cabinet Black", "hex": "#101014" },
+    { "name": "CRT Gray", "hex": "#3b3b4f" },
+    { "name": "Pixel White", "hex": "#f8f8ff" },
+    { "name": "Coin Slot", "hex": "#ffd166" },
+    { "name": "Player One", "hex": "#ef476f" },
+    { "name": "Player Two", "hex": "#06d6a0" },
+    { "name": "High Score", "hex": "#118ab2" },
+    { "name": "Bonus Blue", "hex": "#00bbf9" },
+    { "name": "Power Pellet", "hex": "#fee440" },
+    { "name": "Laser Purple", "hex": "#9b5de5" },
+    { "name": "Start Button", "hex": "#f15bb5" },
+    { "name": "Game Over", "hex": "#ff5400" }
+  ]
+}

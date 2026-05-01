@@ -1,0 +1,32 @@
+{
+  "name": "National Flag Colors",
+  "colors": [
+    { "name": "United States Old Glory Red", "hex": "#B31942" },
+    { "name": "United States Old Glory Blue", "hex": "#0A3161" },
+    { "name": "United States White", "hex": "#FFFFFF" },
+    { "name": "United Kingdom Red", "hex": "#C8102E" },
+    { "name": "United Kingdom Blue", "hex": "#012169" },
+    { "name": "France Blue", "hex": "#0055A4" },
+    { "name": "France Red", "hex": "#EF4135" },
+    { "name": "Italy Green", "hex": "#009246" },
+    { "name": "Italy Red", "hex": "#CE2B37" },
+    { "name": "Germany Black", "hex": "#000000" },
+    { "name": "Germany Red", "hex": "#DD0000" },
+    { "name": "Germany Gold", "hex": "#FFCE00" },
+    { "name": "Japan Red", "hex": "#BC002D" },
+    { "name": "Australia Blue", "hex": "#00008B" },
+    { "name": "Norway Red", "hex": "#BA0C2F" },
+    { "name": "Norway Blue", "hex": "#00205B" },
+    { "name": "Sweden Blue", "hex": "#006AA7" },
+    { "name": "Sweden Yellow", "hex": "#FECC02" },
+    { "name": "Brazil Green", "hex": "#009B3A" },
+    { "name": "Brazil Yellow", "hex": "#FFDF00" },
+    { "name": "Brazil Blue", "hex": "#002776" },
+    { "name": "Mexico Green", "hex": "#006341" },
+    { "name": "Mexico Red", "hex": "#CE1126" },
+    { "name": "South Africa Green", "hex": "#007A4D" },
+    { "name": "South Africa Gold", "hex": "#FFB81C" },
+    { "name": "South Africa Red", "hex": "#DE3831" },
+    { "name": "South Africa Blue", "hex": "#002395" }
+  ]
+}

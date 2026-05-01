@@ -1,0 +1,37 @@
+{
+  "name": "Death Metal",
+  "colors": [
+    {
+      "name": "Grave",
+      "hex": "#15100f"
+    },
+    {
+      "name": "Rot",
+      "hex": "#3b2f2f"
+    },
+    {
+      "name": "Blood",
+      "hex": "#8b0000"
+    },
+    {
+      "name": "Clot",
+      "hex": "#4a0404"
+    },
+    {
+      "name": "Bone",
+      "hex": "#d6c6a8"
+    },
+    {
+      "name": "Rust",
+      "hex": "#9a3412"
+    },
+    {
+      "name": "Mold",
+      "hex": "#556b2f"
+    },
+    {
+      "name": "Smoke",
+      "hex": "#525252"
+    }
+  ]
+}

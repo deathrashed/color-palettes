@@ -1,0 +1,45 @@
+{
+  "name": "Minerals",
+  "colors": [
+    {
+      "name": "Quartz",
+      "hex": "#f8fafc"
+    },
+    {
+      "name": "Obsidian",
+      "hex": "#111827"
+    },
+    {
+      "name": "Malachite",
+      "hex": "#15803d"
+    },
+    {
+      "name": "Azurite",
+      "hex": "#1d4ed8"
+    },
+    {
+      "name": "Cinnabar",
+      "hex": "#b91c1c"
+    },
+    {
+      "name": "Sulfur",
+      "hex": "#eab308"
+    },
+    {
+      "name": "Amethyst",
+      "hex": "#7e22ce"
+    },
+    {
+      "name": "Copper",
+      "hex": "#b45309"
+    },
+    {
+      "name": "Graphite",
+      "hex": "#374151"
+    },
+    {
+      "name": "Turquoise",
+      "hex": "#14b8a6"
+    }
+  ]
+}

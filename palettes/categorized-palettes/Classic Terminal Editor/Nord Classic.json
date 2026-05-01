@@ -1,0 +1,21 @@
+{
+  "name": "Nord Classic",
+  "colors": [
+    { "name": "Nord 0", "hex": "#2E3440" },
+    { "name": "Nord 1", "hex": "#3B4252" },
+    { "name": "Nord 2", "hex": "#434C5E" },
+    { "name": "Nord 3", "hex": "#4C566A" },
+    { "name": "Nord 4", "hex": "#D8DEE9" },
+    { "name": "Nord 5", "hex": "#E5E9F0" },
+    { "name": "Nord 6", "hex": "#ECEFF4" },
+    { "name": "Nord 7", "hex": "#8FBCBB" },
+    { "name": "Nord 8", "hex": "#88C0D0" },
+    { "name": "Nord 9", "hex": "#81A1C1" },
+    { "name": "Nord 10", "hex": "#5E81AC" },
+    { "name": "Nord 11", "hex": "#BF616A" },
+    { "name": "Nord 12", "hex": "#D08770" },
+    { "name": "Nord 13", "hex": "#EBCB8B" },
+    { "name": "Nord 14", "hex": "#A3BE8C" },
+    { "name": "Nord 15", "hex": "#B48EAD" }
+  ]
+}

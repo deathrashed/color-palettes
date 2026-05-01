@@ -1,0 +1,33 @@
+{
+  "name": "De Stijl",
+  "colors": [
+    {
+      "name": "Red",
+      "hex": "#d50000"
+    },
+    {
+      "name": "Yellow",
+      "hex": "#ffd500"
+    },
+    {
+      "name": "Blue",
+      "hex": "#0057b8"
+    },
+    {
+      "name": "White",
+      "hex": "#f8f8f2"
+    },
+    {
+      "name": "Black",
+      "hex": "#111111"
+    },
+    {
+      "name": "Grid Gray",
+      "hex": "#d9d9d9"
+    },
+    {
+      "name": "Off White",
+      "hex": "#f2efe6"
+    }
+  ]
+}

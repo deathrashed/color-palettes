@@ -1,0 +1,45 @@
+{
+  "name": "Quake",
+  "colors": [
+    {
+      "name": "Black",
+      "hex": "#080808"
+    },
+    {
+      "name": "Rust",
+      "hex": "#8c3f1f"
+    },
+    {
+      "name": "Lava",
+      "hex": "#c35a16"
+    },
+    {
+      "name": "Gold",
+      "hex": "#c8a34a"
+    },
+    {
+      "name": "Stone",
+      "hex": "#6f665a"
+    },
+    {
+      "name": "Metal",
+      "hex": "#4d4d4d"
+    },
+    {
+      "name": "Sick Green",
+      "hex": "#708238"
+    },
+    {
+      "name": "Blood",
+      "hex": "#7a1f1f"
+    },
+    {
+      "name": "Bone",
+      "hex": "#c3b091"
+    },
+    {
+      "name": "Void",
+      "hex": "#1a1412"
+    }
+  ]
+}

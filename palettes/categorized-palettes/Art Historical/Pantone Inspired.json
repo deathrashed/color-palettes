@@ -1,0 +1,45 @@
+{
+  "name": "Pantone Inspired",
+  "colors": [
+    {
+      "name": "Classic Blue",
+      "hex": "#0f4c81"
+    },
+    {
+      "name": "Living Coral",
+      "hex": "#ff6f61"
+    },
+    {
+      "name": "Ultra Violet",
+      "hex": "#5f4b8b"
+    },
+    {
+      "name": "Greenery",
+      "hex": "#88b04b"
+    },
+    {
+      "name": "Rose Quartz",
+      "hex": "#f7cac9"
+    },
+    {
+      "name": "Serenity",
+      "hex": "#92a8d1"
+    },
+    {
+      "name": "Marsala",
+      "hex": "#955251"
+    },
+    {
+      "name": "Tangerine Tango",
+      "hex": "#dd4124"
+    },
+    {
+      "name": "Illuminating",
+      "hex": "#f5df4d"
+    },
+    {
+      "name": "Ultimate Gray",
+      "hex": "#939597"
+    }
+  ]
+}

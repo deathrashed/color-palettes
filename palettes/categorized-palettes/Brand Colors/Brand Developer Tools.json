@@ -1,0 +1,25 @@
+{
+  "name": "Brand Developer Tools",
+  "colors": [
+    { "name": "GitHub", "hex": "#181717" },
+    { "name": "GitLab", "hex": "#fc6d26" },
+    { "name": "Bitbucket", "hex": "#0052cc" },
+    { "name": "Stack Overflow", "hex": "#f58025" },
+    { "name": "Visual Studio Code", "hex": "#007acc" },
+    { "name": "npm", "hex": "#cb3837" },
+    { "name": "Node.js", "hex": "#339933" },
+    { "name": "JavaScript", "hex": "#f7df1e" },
+    { "name": "TypeScript", "hex": "#3178c6" },
+    { "name": "Python", "hex": "#3776ab" },
+    { "name": "Go", "hex": "#00add8" },
+    { "name": "Rust", "hex": "#000000" },
+    { "name": "React", "hex": "#61dafb" },
+    { "name": "Vue", "hex": "#4fc08d" },
+    { "name": "Svelte", "hex": "#ff3e00" },
+    { "name": "Tailwind CSS", "hex": "#06b6d4" },
+    { "name": "Docker", "hex": "#2496ed" },
+    { "name": "Kubernetes", "hex": "#326ce5" },
+    { "name": "Vercel", "hex": "#000000" },
+    { "name": "Netlify", "hex": "#00c7b7" }
+  ]
+}

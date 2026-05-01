@@ -1,0 +1,37 @@
+{
+  "name": "ECM Records",
+  "colors": [
+    {
+      "name": "Mist",
+      "hex": "#e5e7eb"
+    },
+    {
+      "name": "Silence",
+      "hex": "#f8fafc"
+    },
+    {
+      "name": "Charcoal",
+      "hex": "#1f2937"
+    },
+    {
+      "name": "Slate",
+      "hex": "#64748b"
+    },
+    {
+      "name": "Sea",
+      "hex": "#0f766e"
+    },
+    {
+      "name": "Ice",
+      "hex": "#bae6fd"
+    },
+    {
+      "name": "Muted Blue",
+      "hex": "#475569"
+    },
+    {
+      "name": "Warm Light",
+      "hex": "#f5f5dc"
+    }
+  ]
+}

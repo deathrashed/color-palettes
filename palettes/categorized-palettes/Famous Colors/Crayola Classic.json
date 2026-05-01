@@ -1,0 +1,28 @@
+{
+  "name": "Crayola Classic",
+  "colors": [
+    { "name": "Red", "hex": "#ED0A3F" },
+    { "name": "Maroon", "hex": "#C32148" },
+    { "name": "Scarlet", "hex": "#FD0E35" },
+    { "name": "Brick Red", "hex": "#C62D42" },
+    { "name": "Orange Red", "hex": "#FF5349" },
+    { "name": "Orange", "hex": "#FF8833" },
+    { "name": "Yellow Orange", "hex": "#FFAE42" },
+    { "name": "Yellow", "hex": "#FBE870" },
+    { "name": "Green Yellow", "hex": "#F1E788" },
+    { "name": "Yellow Green", "hex": "#C5E17A" },
+    { "name": "Green", "hex": "#01A368" },
+    { "name": "Pine Green", "hex": "#01786F" },
+    { "name": "Blue Green", "hex": "#0095B7" },
+    { "name": "Cerulean", "hex": "#02A4D3" },
+    { "name": "Blue", "hex": "#0066FF" },
+    { "name": "Violet Blue", "hex": "#324AB2" },
+    { "name": "Violet", "hex": "#8359A3" },
+    { "name": "Red Violet", "hex": "#BB3385" },
+    { "name": "Carnation Pink", "hex": "#FFA6C9" },
+    { "name": "Brown", "hex": "#AF593E" },
+    { "name": "Black", "hex": "#000000" },
+    { "name": "Gray", "hex": "#8B8680" },
+    { "name": "White", "hex": "#FFFFFF" }
+  ]
+}

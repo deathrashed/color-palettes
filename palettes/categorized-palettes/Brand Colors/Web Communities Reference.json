@@ -1,0 +1,23 @@
+{
+  "name": "Web Communities Reference",
+  "colors": [
+    { "name": "Metal Archives Black", "hex": "#000000" },
+    { "name": "Metal Archives Charcoal", "hex": "#181818" },
+    { "name": "Metal Archives Steel", "hex": "#4A4A4A" },
+    { "name": "Metal Archives Link Blue", "hex": "#003366" },
+    { "name": "Metal Archives Bone", "hex": "#CCCCCC" },
+    { "name": "Wikipedia Black", "hex": "#000000" },
+    { "name": "Wikipedia Blue", "hex": "#3366CC" },
+    { "name": "Reddit Orange", "hex": "#FF4500" },
+    { "name": "Hacker News Orange", "hex": "#FF6600" },
+    { "name": "Stack Overflow Orange", "hex": "#F58025" },
+    { "name": "Stack Overflow Dark", "hex": "#232629" },
+    { "name": "GitHub Black", "hex": "#181717" },
+    { "name": "GitLab Orange", "hex": "#FC6D26" },
+    { "name": "Mastodon Purple", "hex": "#6364FF" },
+    { "name": "Bluesky Blue", "hex": "#0285FF" },
+    { "name": "Discord Blurple", "hex": "#5865F2" },
+    { "name": "Twitch Purple", "hex": "#9146FF" },
+    { "name": "Tumblr Blue", "hex": "#36465D" }
+  ]
+}

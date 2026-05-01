@@ -28,6 +28,9 @@ worth adding next.
 
 ## Work With
 
+- TUI: browse palette directories, search, inspect colors, generate `.clr`
+  files, batch-convert folders, preview color naming, and trigger ColorSlurp
+  picker/contrast actions from one terminal screen.
 - Preview gallery: generate a static HTML page with swatches, names, hex values,
   search, and copy buttons.
 - Contrast checker: calculate WCAG contrast for foreground/background pairs and
@@ -40,6 +43,10 @@ worth adding next.
   differ only by punctuation or spacing.
 - Color picker import: ingest a copied list of hex values or a CSV export from
   Sip, ColorSlurp, Figma, or another color tool.
+- Color naming: fill missing/generic color names, rename entire palettes, or
+  add nearest-name suggestions before generating `.clr` files.
+- ColorSlurp URL actions: open picker, magnifier, palettes, settings, and
+  contrast views from palette JSON entries.
 
 ## Reference
 
@@ -61,3 +68,9 @@ worth adding next.
   counts, near matches, and naming drift.
 - `scripts/build-gallery.py`: generate a static swatch browser from
   `palettes.json`.
+- `scripts/name-colors.py`: name colors from `data/color-names.csv` using
+  nearest-color matching. Implemented.
+- `scripts/colorslurp.py`: build or open `colorslurp://` URLs from raw colors
+  or palette JSON selectors. Implemented.
+- `scripts/palette-tui.py`: interactive terminal UI for browsing, generating,
+  naming, batching, and opening ColorSlurp actions. Implemented.

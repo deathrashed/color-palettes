@@ -1,0 +1,41 @@
+{
+  "name": "Technicolor",
+  "colors": [
+    {
+      "name": "Curtain Red",
+      "hex": "#c1121f"
+    },
+    {
+      "name": "Cinema Gold",
+      "hex": "#f4a261"
+    },
+    {
+      "name": "Emerald",
+      "hex": "#2a9d8f"
+    },
+    {
+      "name": "Sky Cyan",
+      "hex": "#00b4d8"
+    },
+    {
+      "name": "Deep Blue",
+      "hex": "#023e8a"
+    },
+    {
+      "name": "Violet",
+      "hex": "#7209b7"
+    },
+    {
+      "name": "Warm Flesh",
+      "hex": "#f4ac8b"
+    },
+    {
+      "name": "Silver Screen",
+      "hex": "#e5e5e5"
+    },
+    {
+      "name": "Carbon",
+      "hex": "#111111"
+    }
+  ]
+}

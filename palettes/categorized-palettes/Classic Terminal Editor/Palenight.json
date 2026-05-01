@@ -1,0 +1,93 @@
+{
+  "name": "Palenight",
+  "colors": [
+    {
+      "name": "Bright Black",
+      "hex": "#737373"
+    },
+    {
+      "name": "Black",
+      "hex": "#000000"
+    },
+    {
+      "name": "Bright Blue",
+      "hex": "#b4ccff"
+    },
+    {
+      "name": "Blue",
+      "hex": "#82aaff"
+    },
+    {
+      "name": "Bright Cyan",
+      "hex": "#b8eaff"
+    },
+    {
+      "name": "Cyan",
+      "hex": "#89ddff"
+    },
+    {
+      "name": "Bright Green",
+      "hex": "#dbf1ba"
+    },
+    {
+      "name": "Green",
+      "hex": "#c3e88d"
+    },
+    {
+      "name": "Bright Magenta",
+      "hex": "#ddbdf2"
+    },
+    {
+      "name": "Magenta",
+      "hex": "#c792ea"
+    },
+    {
+      "name": "Bright Red",
+      "hex": "#f6a9ae"
+    },
+    {
+      "name": "Red",
+      "hex": "#f07178"
+    },
+    {
+      "name": "Bright White",
+      "hex": "#999999"
+    },
+    {
+      "name": "White",
+      "hex": "#ffffff"
+    },
+    {
+      "name": "Bright Yellow",
+      "hex": "#ffdfa6"
+    },
+    {
+      "name": "Yellow",
+      "hex": "#ffcb6b"
+    },
+    {
+      "name": "Selection",
+      "hex": "#717cb4"
+    },
+    {
+      "name": "Selection Text",
+      "hex": "#80cbc4"
+    },
+    {
+      "name": "Cursor",
+      "hex": "#ffcb6b"
+    },
+    {
+      "name": "Cursor Text",
+      "hex": "#323232"
+    },
+    {
+      "name": "Foreground",
+      "hex": "#cccccc"
+    },
+    {
+      "name": "Background",
+      "hex": "#3e4251"
+    }
+  ]
+}

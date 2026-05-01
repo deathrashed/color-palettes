@@ -1,0 +1,53 @@
+{
+  "name": "Ant Design",
+  "colors": [
+    {
+      "name": "Red",
+      "hex": "#ff4d4f"
+    },
+    {
+      "name": "Volcano",
+      "hex": "#fa541c"
+    },
+    {
+      "name": "Orange",
+      "hex": "#fa8c16"
+    },
+    {
+      "name": "Gold",
+      "hex": "#faad14"
+    },
+    {
+      "name": "Yellow",
+      "hex": "#fadb14"
+    },
+    {
+      "name": "Lime",
+      "hex": "#a0d911"
+    },
+    {
+      "name": "Green",
+      "hex": "#52c41a"
+    },
+    {
+      "name": "Cyan",
+      "hex": "#13c2c2"
+    },
+    {
+      "name": "Blue",
+      "hex": "#1677ff"
+    },
+    {
+      "name": "Geek Blue",
+      "hex": "#2f54eb"
+    },
+    {
+      "name": "Purple",
+      "hex": "#722ed1"
+    },
+    {
+      "name": "Magenta",
+      "hex": "#eb2f96"
+    }
+  ]
+}

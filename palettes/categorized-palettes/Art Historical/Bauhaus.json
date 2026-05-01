@@ -1,0 +1,45 @@
+{
+  "name": "Bauhaus",
+  "colors": [
+    {
+      "name": "Primary Red",
+      "hex": "#be1e2d"
+    },
+    {
+      "name": "Primary Yellow",
+      "hex": "#f9d71c"
+    },
+    {
+      "name": "Primary Blue",
+      "hex": "#0057b8"
+    },
+    {
+      "name": "Black",
+      "hex": "#111111"
+    },
+    {
+      "name": "White",
+      "hex": "#f7f4e9"
+    },
+    {
+      "name": "Concrete",
+      "hex": "#b7b2a7"
+    },
+    {
+      "name": "Steel",
+      "hex": "#4f5d75"
+    },
+    {
+      "name": "Ochre",
+      "hex": "#c47f2c"
+    },
+    {
+      "name": "Brick",
+      "hex": "#8f2d1f"
+    },
+    {
+      "name": "Ink",
+      "hex": "#1b1b1b"
+    }
+  ]
+}

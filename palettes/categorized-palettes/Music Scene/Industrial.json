@@ -1,0 +1,37 @@
+{
+  "name": "Industrial",
+  "colors": [
+    {
+      "name": "Machine Black",
+      "hex": "#111111"
+    },
+    {
+      "name": "Oil",
+      "hex": "#1f1f1f"
+    },
+    {
+      "name": "Steel",
+      "hex": "#71717a"
+    },
+    {
+      "name": "Hazard Yellow",
+      "hex": "#facc15"
+    },
+    {
+      "name": "Warning Red",
+      "hex": "#dc2626"
+    },
+    {
+      "name": "Concrete",
+      "hex": "#a3a3a3"
+    },
+    {
+      "name": "Rust",
+      "hex": "#b45309"
+    },
+    {
+      "name": "Signal Green",
+      "hex": "#16a34a"
+    }
+  ]
+}

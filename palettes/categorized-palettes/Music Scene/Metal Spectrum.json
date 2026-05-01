@@ -1,0 +1,17 @@
+{
+  "name": "Metal Spectrum",
+  "colors": [
+    { "name": "Blackened", "hex": "#050505" },
+    { "name": "Gunmetal", "hex": "#1f2937" },
+    { "name": "Iron", "hex": "#6b7280" },
+    { "name": "Chrome", "hex": "#e5e7eb" },
+    { "name": "Blood", "hex": "#991b1b" },
+    { "name": "Ember", "hex": "#f97316" },
+    { "name": "Sulfur", "hex": "#eab308" },
+    { "name": "Venom", "hex": "#84cc16" },
+    { "name": "Cold Flame", "hex": "#06b6d4" },
+    { "name": "Electric", "hex": "#2563eb" },
+    { "name": "Ritual Violet", "hex": "#7e22ce" },
+    { "name": "Corpse Paint", "hex": "#f9fafb" }
+  ]
+}

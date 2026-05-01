@@ -1,0 +1,37 @@
+{
+  "name": "Warp Records",
+  "colors": [
+    {
+      "name": "Black",
+      "hex": "#000000"
+    },
+    {
+      "name": "Signal White",
+      "hex": "#ffffff"
+    },
+    {
+      "name": "Electric Blue",
+      "hex": "#0047ff"
+    },
+    {
+      "name": "Acid Green",
+      "hex": "#00ff66"
+    },
+    {
+      "name": "Magenta",
+      "hex": "#ff00cc"
+    },
+    {
+      "name": "Orange",
+      "hex": "#ff5f00"
+    },
+    {
+      "name": "Concrete",
+      "hex": "#777777"
+    },
+    {
+      "name": "Deep Violet",
+      "hex": "#2d006b"
+    }
+  ]
+}

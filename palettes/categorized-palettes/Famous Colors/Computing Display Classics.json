@@ -1,0 +1,27 @@
+{
+  "name": "Computing Display Classics",
+  "colors": [
+    { "name": "ANSI Black", "hex": "#000000" },
+    { "name": "ANSI Red", "hex": "#AA0000" },
+    { "name": "ANSI Green", "hex": "#00AA00" },
+    { "name": "ANSI Yellow", "hex": "#AA5500" },
+    { "name": "ANSI Blue", "hex": "#0000AA" },
+    { "name": "ANSI Magenta", "hex": "#AA00AA" },
+    { "name": "ANSI Cyan", "hex": "#00AAAA" },
+    { "name": "ANSI White", "hex": "#AAAAAA" },
+    { "name": "ANSI Bright Black", "hex": "#555555" },
+    { "name": "ANSI Bright Red", "hex": "#FF5555" },
+    { "name": "ANSI Bright Green", "hex": "#55FF55" },
+    { "name": "ANSI Bright Yellow", "hex": "#FFFF55" },
+    { "name": "ANSI Bright Blue", "hex": "#5555FF" },
+    { "name": "ANSI Bright Magenta", "hex": "#FF55FF" },
+    { "name": "ANSI Bright Cyan", "hex": "#55FFFF" },
+    { "name": "ANSI Bright White", "hex": "#FFFFFF" },
+    { "name": "IBM CGA Brown", "hex": "#AA5500" },
+    { "name": "Classic Phosphor Green", "hex": "#33FF33" },
+    { "name": "Classic Amber", "hex": "#FFB000" },
+    { "name": "Classic Macintosh Gray", "hex": "#BEBEBE" },
+    { "name": "Windows 95 Teal", "hex": "#008080" },
+    { "name": "Windows 95 Silver", "hex": "#C0C0C0" }
+  ]
+}

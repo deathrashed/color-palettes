@@ -1,0 +1,41 @@
+{
+  "name": "Vintage Poster",
+  "colors": [
+    {
+      "name": "Ink",
+      "hex": "#1f1b16"
+    },
+    {
+      "name": "Cream",
+      "hex": "#f2e8cf"
+    },
+    {
+      "name": "Tomato",
+      "hex": "#d1495b"
+    },
+    {
+      "name": "Ochre",
+      "hex": "#edae49"
+    },
+    {
+      "name": "Bottle Green",
+      "hex": "#00798c"
+    },
+    {
+      "name": "Navy",
+      "hex": "#003d5b"
+    },
+    {
+      "name": "Dusty Rose",
+      "hex": "#c08497"
+    },
+    {
+      "name": "Olive",
+      "hex": "#6b705c"
+    },
+    {
+      "name": "Sepia",
+      "hex": "#8a5a44"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "name": "ColorBrewer Set2",
+  "colors": [
+    {
+      "name": "Teal",
+      "hex": "#66C2A5"
+    },
+    {
+      "name": "Orange",
+      "hex": "#FC8D62"
+    },
+    {
+      "name": "Blue",
+      "hex": "#8DA0CB"
+    },
+    {
+      "name": "Pink",
+      "hex": "#E78AC3"
+    },
+    {
+      "name": "Green",
+      "hex": "#A6D854"
+    },
+    {
+      "name": "Yellow",
+      "hex": "#FFD92F"
+    },
+    {
+      "name": "Tan",
+      "hex": "#E5C494"
+    },
+    {
+      "name": "Gray",
+      "hex": "#B3B3B3"
+    }
+  ]
+}

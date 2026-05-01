@@ -1,0 +1,53 @@
+{
+  "name": "NES",
+  "colors": [
+    {
+      "name": "Black",
+      "hex": "#000000"
+    },
+    {
+      "name": "Dark Gray",
+      "hex": "#7c7c7c"
+    },
+    {
+      "name": "Light Gray",
+      "hex": "#bcbcbc"
+    },
+    {
+      "name": "White",
+      "hex": "#fcfcfc"
+    },
+    {
+      "name": "Red",
+      "hex": "#f83800"
+    },
+    {
+      "name": "Orange",
+      "hex": "#f87800"
+    },
+    {
+      "name": "Yellow",
+      "hex": "#f8d800"
+    },
+    {
+      "name": "Green",
+      "hex": "#00b800"
+    },
+    {
+      "name": "Cyan",
+      "hex": "#00e8d8"
+    },
+    {
+      "name": "Blue",
+      "hex": "#0058f8"
+    },
+    {
+      "name": "Indigo",
+      "hex": "#6844fc"
+    },
+    {
+      "name": "Magenta",
+      "hex": "#d800cc"
+    }
+  ]
+}

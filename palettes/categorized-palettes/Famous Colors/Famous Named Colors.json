@@ -1,0 +1,25 @@
+{
+  "name": "Famous Named Colors",
+  "colors": [
+    { "name": "International Klein Blue", "hex": "#0033CC" },
+    { "name": "Tiffany Blue", "hex": "#81D8D0" },
+    { "name": "British Racing Green", "hex": "#004225" },
+    { "name": "Rosso Corsa", "hex": "#FF2800" },
+    { "name": "Ferrari Red", "hex": "#E42528" },
+    { "name": "Safety Orange", "hex": "#FF7900" },
+    { "name": "School Bus Yellow", "hex": "#FFD800" },
+    { "name": "Baker-Miller Pink", "hex": "#FF91AF" },
+    { "name": "Egyptian Blue", "hex": "#1034A6" },
+    { "name": "Mummy Brown", "hex": "#826644" },
+    { "name": "Verdigris", "hex": "#43B3AE" },
+    { "name": "Tyrian Purple", "hex": "#66023C" },
+    { "name": "Prussian Blue", "hex": "#003153" },
+    { "name": "Payne's Grey", "hex": "#536878" },
+    { "name": "Van Dyke Brown", "hex": "#664228" },
+    { "name": "Mauve", "hex": "#E0B0FF" },
+    { "name": "Chartreuse", "hex": "#7FFF00" },
+    { "name": "Cerulean", "hex": "#007BA7" },
+    { "name": "Vantablack Approximation", "hex": "#000100" },
+    { "name": "Millennial Pink", "hex": "#F3CFC6" }
+  ]
+}

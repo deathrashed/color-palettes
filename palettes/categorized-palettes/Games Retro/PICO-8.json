@@ -1,0 +1,69 @@
+{
+  "name": "PICO-8",
+  "colors": [
+    {
+      "name": "Black",
+      "hex": "#000000"
+    },
+    {
+      "name": "Dark Blue",
+      "hex": "#1d2b53"
+    },
+    {
+      "name": "Dark Purple",
+      "hex": "#7e2553"
+    },
+    {
+      "name": "Dark Green",
+      "hex": "#008751"
+    },
+    {
+      "name": "Brown",
+      "hex": "#ab5236"
+    },
+    {
+      "name": "Dark Gray",
+      "hex": "#5f574f"
+    },
+    {
+      "name": "Light Gray",
+      "hex": "#c2c3c7"
+    },
+    {
+      "name": "White",
+      "hex": "#fff1e8"
+    },
+    {
+      "name": "Red",
+      "hex": "#ff004d"
+    },
+    {
+      "name": "Orange",
+      "hex": "#ffa300"
+    },
+    {
+      "name": "Yellow",
+      "hex": "#ffec27"
+    },
+    {
+      "name": "Green",
+      "hex": "#00e436"
+    },
+    {
+      "name": "Blue",
+      "hex": "#29adff"
+    },
+    {
+      "name": "Lavender",
+      "hex": "#83769c"
+    },
+    {
+      "name": "Pink",
+      "hex": "#ff77a8"
+    },
+    {
+      "name": "Peach",
+      "hex": "#ffccaa"
+    }
+  ]
+}

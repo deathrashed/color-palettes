@@ -1,0 +1,21 @@
+{
+  "name": "Military Utility Colors",
+  "colors": [
+    { "name": "Olive Drab", "hex": "#6B8E23" },
+    { "name": "NATO Green", "hex": "#4B5320" },
+    { "name": "Ranger Green", "hex": "#4A5D4A" },
+    { "name": "Coyote Brown", "hex": "#81613C" },
+    { "name": "Desert Tan", "hex": "#C2B280" },
+    { "name": "Khaki", "hex": "#C3B091" },
+    { "name": "Battleship Gray", "hex": "#848482" },
+    { "name": "Gunmetal", "hex": "#2A3439" },
+    { "name": "Field Gray", "hex": "#4D5D53" },
+    { "name": "International Orange", "hex": "#FF4F00" },
+    { "name": "Signal Yellow", "hex": "#F7BA0B" },
+    { "name": "Rescue Red", "hex": "#D40000" },
+    { "name": "Flight Suit Sage", "hex": "#8A9A5B" },
+    { "name": "Navy Blue", "hex": "#000080" },
+    { "name": "Air Force Blue", "hex": "#5D8AA8" },
+    { "name": "Camouflage Green", "hex": "#78866B" }
+  ]
+}

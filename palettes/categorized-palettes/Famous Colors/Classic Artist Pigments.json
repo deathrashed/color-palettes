@@ -1,0 +1,25 @@
+{
+  "name": "Classic Artist Pigments",
+  "colors": [
+    { "name": "Ultramarine", "hex": "#120A8F" },
+    { "name": "Cobalt Blue", "hex": "#0047AB" },
+    { "name": "Cerulean Blue", "hex": "#2A52BE" },
+    { "name": "Prussian Blue", "hex": "#003153" },
+    { "name": "Vermilion", "hex": "#E34234" },
+    { "name": "Cadmium Red", "hex": "#E30022" },
+    { "name": "Alizarin Crimson", "hex": "#E32636" },
+    { "name": "Cadmium Yellow", "hex": "#FFF600" },
+    { "name": "Yellow Ochre", "hex": "#CC7722" },
+    { "name": "Raw Sienna", "hex": "#D68A59" },
+    { "name": "Burnt Sienna", "hex": "#E97451" },
+    { "name": "Raw Umber", "hex": "#826644" },
+    { "name": "Burnt Umber", "hex": "#8A3324" },
+    { "name": "Van Dyke Brown", "hex": "#664228" },
+    { "name": "Viridian", "hex": "#40826D" },
+    { "name": "Sap Green", "hex": "#507D2A" },
+    { "name": "Terre Verte", "hex": "#385E0F" },
+    { "name": "Titanium White", "hex": "#FFFFFF" },
+    { "name": "Ivory Black", "hex": "#292421" },
+    { "name": "Payne's Grey", "hex": "#536878" }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "name": "Ocean Minerals",
+  "colors": [
+    { "name": "Abyss", "hex": "#061826" },
+    { "name": "Deep Water", "hex": "#0b3954" },
+    { "name": "Tide Pool", "hex": "#087e8b" },
+    { "name": "Sea Glass", "hex": "#5bc0be" },
+    { "name": "Foam", "hex": "#edf6f9" },
+    { "name": "Kelp", "hex": "#386641" },
+    { "name": "Algae", "hex": "#6a994e" },
+    { "name": "Coral", "hex": "#f28482" },
+    { "name": "Shell", "hex": "#f7ede2" },
+    { "name": "Sandbar", "hex": "#f6bd60" },
+    { "name": "Manganese", "hex": "#4a4e69" },
+    { "name": "Pearl Shadow", "hex": "#9a8c98" }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "name": "Kodachrome",
+  "colors": [
+    {
+      "name": "Slide Black",
+      "hex": "#1d1b18"
+    },
+    {
+      "name": "Warm Shadow",
+      "hex": "#46372b"
+    },
+    {
+      "name": "Film Red",
+      "hex": "#b02a30"
+    },
+    {
+      "name": "Amber",
+      "hex": "#e6a23c"
+    },
+    {
+      "name": "Chrome Yellow",
+      "hex": "#f3d34a"
+    },
+    {
+      "name": "Sky Blue",
+      "hex": "#3f88c5"
+    },
+    {
+      "name": "Grass Green",
+      "hex": "#547a3a"
+    },
+    {
+      "name": "Skin Warmth",
+      "hex": "#d99a6c"
+    },
+    {
+      "name": "Paper White",
+      "hex": "#f8f1df"
+    }
+  ]
+}

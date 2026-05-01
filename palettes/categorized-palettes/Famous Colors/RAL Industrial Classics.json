@@ -1,0 +1,21 @@
+{
+  "name": "RAL Industrial Classics",
+  "colors": [
+    { "name": "RAL 1003 Signal Yellow", "hex": "#F9A800" },
+    { "name": "RAL 2004 Pure Orange", "hex": "#E25303" },
+    { "name": "RAL 3000 Flame Red", "hex": "#AF2B1E" },
+    { "name": "RAL 3020 Traffic Red", "hex": "#CC0605" },
+    { "name": "RAL 4006 Traffic Purple", "hex": "#A03472" },
+    { "name": "RAL 5002 Ultramarine Blue", "hex": "#20214F" },
+    { "name": "RAL 5015 Sky Blue", "hex": "#2271B3" },
+    { "name": "RAL 6002 Leaf Green", "hex": "#2D572C" },
+    { "name": "RAL 6005 Moss Green", "hex": "#0E4438" },
+    { "name": "RAL 6018 Yellow Green", "hex": "#57A639" },
+    { "name": "RAL 7001 Silver Grey", "hex": "#8A9597" },
+    { "name": "RAL 7016 Anthracite Grey", "hex": "#383E42" },
+    { "name": "RAL 7035 Light Grey", "hex": "#CBD0CC" },
+    { "name": "RAL 8004 Copper Brown", "hex": "#8F4E35" },
+    { "name": "RAL 9005 Jet Black", "hex": "#0A0A0A" },
+    { "name": "RAL 9010 Pure White", "hex": "#F1F0EA" }
+  ]
+}

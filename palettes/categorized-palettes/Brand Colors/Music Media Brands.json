@@ -1,0 +1,23 @@
+{
+  "name": "Music Media Brands",
+  "colors": [
+    { "name": "Last.fm Red", "hex": "#D51007" },
+    { "name": "Last.fm Guideline Red", "hex": "#D01F3C" },
+    { "name": "Spotify Green", "hex": "#1DB954" },
+    { "name": "SoundCloud Orange", "hex": "#FF3300" },
+    { "name": "Bandcamp Blue", "hex": "#629AA9" },
+    { "name": "Apple Music Pink", "hex": "#FA243C" },
+    { "name": "YouTube Music Red", "hex": "#FF0000" },
+    { "name": "Tidal Black", "hex": "#000000" },
+    { "name": "Deezer Purple", "hex": "#A238FF" },
+    { "name": "Discogs Blue", "hex": "#333333" },
+    { "name": "Rate Your Music Blue", "hex": "#224B7A" },
+    { "name": "MusicBrainz Orange", "hex": "#EB743B" },
+    { "name": "Genius Yellow", "hex": "#FFFF64" },
+    { "name": "Pitchfork Red", "hex": "#CC0000" },
+    { "name": "Resident Advisor Red", "hex": "#E31937" },
+    { "name": "NTS Red", "hex": "#FF0000" },
+    { "name": "Shazam Blue", "hex": "#0088FF" },
+    { "name": "Mixcloud Blue", "hex": "#314359" }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "name": "Synth Candy",
+  "colors": [
+    { "name": "Licorice", "hex": "#171123" },
+    { "name": "Grape Soda", "hex": "#372554" },
+    { "name": "Bubblegum", "hex": "#ff70a6" },
+    { "name": "Watermelon", "hex": "#ff477e" },
+    { "name": "Tangerine", "hex": "#ff9770" },
+    { "name": "Lemon Drop", "hex": "#ffd670" },
+    { "name": "Lime Fizz", "hex": "#70e000" },
+    { "name": "Mint", "hex": "#70d6ff" },
+    { "name": "Blue Raspberry", "hex": "#3a86ff" },
+    { "name": "Lavender", "hex": "#b8c0ff" },
+    { "name": "Sugar", "hex": "#fffffc" },
+    { "name": "Foil", "hex": "#c7d2fe" }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "name": "Astronomy",
+  "colors": [
+    {
+      "name": "Space",
+      "hex": "#020617"
+    },
+    {
+      "name": "Nebula Purple",
+      "hex": "#7e22ce"
+    },
+    {
+      "name": "Hydrogen Red",
+      "hex": "#ef4444"
+    },
+    {
+      "name": "Oxygen Teal",
+      "hex": "#14b8a6"
+    },
+    {
+      "name": "Star Blue",
+      "hex": "#93c5fd"
+    },
+    {
+      "name": "Star White",
+      "hex": "#f8fafc"
+    },
+    {
+      "name": "Solar Yellow",
+      "hex": "#fde047"
+    },
+    {
+      "name": "Dust",
+      "hex": "#a16207"
+    },
+    {
+      "name": "Infrared",
+      "hex": "#be123c"
+    }
+  ]
+}

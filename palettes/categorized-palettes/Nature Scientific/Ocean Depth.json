@@ -1,0 +1,37 @@
+{
+  "name": "Ocean Depth",
+  "colors": [
+    {
+      "name": "Abyss",
+      "hex": "#020617"
+    },
+    {
+      "name": "Midnight",
+      "hex": "#082f49"
+    },
+    {
+      "name": "Deep",
+      "hex": "#075985"
+    },
+    {
+      "name": "Shelf",
+      "hex": "#0284c7"
+    },
+    {
+      "name": "Reef",
+      "hex": "#06b6d4"
+    },
+    {
+      "name": "Foam",
+      "hex": "#a5f3fc"
+    },
+    {
+      "name": "Sand",
+      "hex": "#fde68a"
+    },
+    {
+      "name": "Coral",
+      "hex": "#fb7185"
+    }
+  ]
+}

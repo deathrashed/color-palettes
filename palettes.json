@@ -33,6 +33,16 @@
       "notes": "Add an editable source JSON before regenerating."
     },
     {
+      "id": "breeze",
+      "name": "Breeze",
+      "clr": "clr/Breeze.clr",
+      "source": "palettes/terminal-colors/Breeze.json",
+      "source_status": "canonical",
+      "color_count": 22,
+      "category": "terminal-colors",
+      "notes": "Canonical source added from palettes/terminal-colors/Breeze.json."
+    },
+    {
       "id": "chakra-ui",
       "name": "Chakra UI",
       "clr": "clr/Chakra UI.clr",

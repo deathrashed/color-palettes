@@ -1,0 +1,53 @@
+{
+  "name": "Amiga",
+  "colors": [
+    {
+      "name": "Black",
+      "hex": "#000000"
+    },
+    {
+      "name": "White",
+      "hex": "#ffffff"
+    },
+    {
+      "name": "Blue",
+      "hex": "#0055aa"
+    },
+    {
+      "name": "Orange",
+      "hex": "#ff8800"
+    },
+    {
+      "name": "Red",
+      "hex": "#cc0000"
+    },
+    {
+      "name": "Green",
+      "hex": "#00aa55"
+    },
+    {
+      "name": "Cyan",
+      "hex": "#00aaaa"
+    },
+    {
+      "name": "Magenta",
+      "hex": "#aa00aa"
+    },
+    {
+      "name": "Gray",
+      "hex": "#777777"
+    },
+    {
+      "name": "Light Gray",
+      "hex": "#bbbbbb"
+    },
+    {
+      "name": "Workbench Blue",
+      "hex": "#0055ff"
+    },
+    {
+      "name": "Workbench Orange",
+      "hex": "#ff8800"
+    }
+  ]
+}

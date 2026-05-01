@@ -1,0 +1,45 @@
+{
+  "name": "Risograph",
+  "colors": [
+    {
+      "name": "Fluorescent Pink",
+      "hex": "#ff48b0"
+    },
+    {
+      "name": "Bright Red",
+      "hex": "#ff665e"
+    },
+    {
+      "name": "Orange",
+      "hex": "#ff6c2f"
+    },
+    {
+      "name": "Yellow",
+      "hex": "#ffe800"
+    },
+    {
+      "name": "Green",
+      "hex": "#00a95c"
+    },
+    {
+      "name": "Teal",
+      "hex": "#00838a"
+    },
+    {
+      "name": "Blue",
+      "hex": "#0078bf"
+    },
+    {
+      "name": "Purple",
+      "hex": "#765ba7"
+    },
+    {
+      "name": "Black",
+      "hex": "#000000"
+    },
+    {
+      "name": "Cornflower",
+      "hex": "#62a8e5"
+    }
+  ]
+}

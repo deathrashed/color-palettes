@@ -1,0 +1,53 @@
+{
+  "name": "IBM Carbon",
+  "colors": [
+    {
+      "name": "Blue 60",
+      "hex": "#0f62fe"
+    },
+    {
+      "name": "Purple 60",
+      "hex": "#8a3ffc"
+    },
+    {
+      "name": "Cyan 50",
+      "hex": "#1192e8"
+    },
+    {
+      "name": "Teal 50",
+      "hex": "#009d9a"
+    },
+    {
+      "name": "Green 50",
+      "hex": "#24a148"
+    },
+    {
+      "name": "Magenta 50",
+      "hex": "#ee5396"
+    },
+    {
+      "name": "Red 60",
+      "hex": "#da1e28"
+    },
+    {
+      "name": "Orange 40",
+      "hex": "#ff832b"
+    },
+    {
+      "name": "Yellow 30",
+      "hex": "#f1c21b"
+    },
+    {
+      "name": "Gray 10",
+      "hex": "#f4f4f4"
+    },
+    {
+      "name": "Gray 50",
+      "hex": "#8d8d8d"
+    },
+    {
+      "name": "Gray 100",
+      "hex": "#161616"
+    }
+  ]
+}

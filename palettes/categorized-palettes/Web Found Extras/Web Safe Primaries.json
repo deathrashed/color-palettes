@@ -1,0 +1,61 @@
+{
+  "name": "Web Safe Primaries",
+  "colors": [
+    {
+      "name": "Black",
+      "hex": "#000000"
+    },
+    {
+      "name": "Maroon",
+      "hex": "#990000"
+    },
+    {
+      "name": "Red",
+      "hex": "#FF0000"
+    },
+    {
+      "name": "Orange",
+      "hex": "#FF9900"
+    },
+    {
+      "name": "Yellow",
+      "hex": "#FFFF00"
+    },
+    {
+      "name": "Lime",
+      "hex": "#00FF00"
+    },
+    {
+      "name": "Green",
+      "hex": "#009900"
+    },
+    {
+      "name": "Cyan",
+      "hex": "#00FFFF"
+    },
+    {
+      "name": "Blue",
+      "hex": "#0000FF"
+    },
+    {
+      "name": "Navy",
+      "hex": "#000099"
+    },
+    {
+      "name": "Magenta",
+      "hex": "#FF00FF"
+    },
+    {
+      "name": "Purple",
+      "hex": "#990099"
+    },
+    {
+      "name": "Gray",
+      "hex": "#999999"
+    },
+    {
+      "name": "White",
+      "hex": "#FFFFFF"
+    }
+  ]
+}

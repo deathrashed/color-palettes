@@ -1,0 +1,69 @@
+{
+  "name": "Apple System Colors",
+  "colors": [
+    {
+      "name": "Red",
+      "hex": "#ff3b30"
+    },
+    {
+      "name": "Orange",
+      "hex": "#ff9500"
+    },
+    {
+      "name": "Yellow",
+      "hex": "#ffcc00"
+    },
+    {
+      "name": "Green",
+      "hex": "#34c759"
+    },
+    {
+      "name": "Mint",
+      "hex": "#00c7be"
+    },
+    {
+      "name": "Teal",
+      "hex": "#30b0c7"
+    },
+    {
+      "name": "Cyan",
+      "hex": "#32ade6"
+    },
+    {
+      "name": "Blue",
+      "hex": "#007aff"
+    },
+    {
+      "name": "Indigo",
+      "hex": "#5856d6"
+    },
+    {
+      "name": "Purple",
+      "hex": "#af52de"
+    },
+    {
+      "name": "Pink",
+      "hex": "#ff2d55"
+    },
+    {
+      "name": "Brown",
+      "hex": "#a2845e"
+    },
+    {
+      "name": "Gray",
+      "hex": "#8e8e93"
+    },
+    {
+      "name": "Gray 2",
+      "hex": "#aeaeb2"
+    },
+    {
+      "name": "Gray 3",
+      "hex": "#c7c7cc"
+    },
+    {
+      "name": "Gray 4",
+      "hex": "#d1d1d6"
+    }
+  ]
+}

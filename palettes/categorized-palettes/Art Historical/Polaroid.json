@@ -1,0 +1,41 @@
+{
+  "name": "Polaroid",
+  "colors": [
+    {
+      "name": "Frame White",
+      "hex": "#f7f3e8"
+    },
+    {
+      "name": "Shadow",
+      "hex": "#34312d"
+    },
+    {
+      "name": "Stripe Red",
+      "hex": "#d94141"
+    },
+    {
+      "name": "Stripe Orange",
+      "hex": "#f28c28"
+    },
+    {
+      "name": "Stripe Yellow",
+      "hex": "#f3d547"
+    },
+    {
+      "name": "Stripe Green",
+      "hex": "#3ca65c"
+    },
+    {
+      "name": "Stripe Blue",
+      "hex": "#2b78c2"
+    },
+    {
+      "name": "Faded Cyan",
+      "hex": "#8ecae6"
+    },
+    {
+      "name": "Faded Rose",
+      "hex": "#e8a0a0"
+    }
+  ]
+}

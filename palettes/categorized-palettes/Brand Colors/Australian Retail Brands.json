@@ -1,0 +1,25 @@
+{
+  "name": "Australian Retail Brands",
+  "colors": [
+    { "name": "Bunnings Green", "hex": "#0B6F3A" },
+    { "name": "Bunnings Red", "hex": "#E21B23" },
+    { "name": "Bunnings Yellow", "hex": "#FFD400" },
+    { "name": "Woolworths Green", "hex": "#178841" },
+    { "name": "Woolworths Light Green", "hex": "#76B82A" },
+    { "name": "Coles Red", "hex": "#E01B22" },
+    { "name": "Kmart Red", "hex": "#E30613" },
+    { "name": "Target Red", "hex": "#CC0000" },
+    { "name": "Big W Blue", "hex": "#005EB8" },
+    { "name": "JB Hi-Fi Yellow", "hex": "#FFDD00" },
+    { "name": "JB Hi-Fi Black", "hex": "#000000" },
+    { "name": "Officeworks Blue", "hex": "#00539F" },
+    { "name": "Harvey Norman Red", "hex": "#E30613" },
+    { "name": "Chemist Warehouse Blue", "hex": "#005EB8" },
+    { "name": "Chemist Warehouse Yellow", "hex": "#FFD200" },
+    { "name": "Chemist Warehouse Red", "hex": "#E31B23" },
+    { "name": "ALDI Blue", "hex": "#004B93" },
+    { "name": "ALDI Orange", "hex": "#F58220" },
+    { "name": "Dan Murphy's Green", "hex": "#006B3F" },
+    { "name": "BWS Orange", "hex": "#F58220" }
+  ]
+}

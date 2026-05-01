@@ -1,0 +1,45 @@
+{
+  "name": "Tableau 10",
+  "colors": [
+    {
+      "name": "Blue",
+      "hex": "#4E79A7"
+    },
+    {
+      "name": "Orange",
+      "hex": "#F28E2B"
+    },
+    {
+      "name": "Red",
+      "hex": "#E15759"
+    },
+    {
+      "name": "Cyan",
+      "hex": "#76B7B2"
+    },
+    {
+      "name": "Green",
+      "hex": "#59A14F"
+    },
+    {
+      "name": "Yellow",
+      "hex": "#EDC948"
+    },
+    {
+      "name": "Purple",
+      "hex": "#B07AA1"
+    },
+    {
+      "name": "Pink",
+      "hex": "#FF9DA7"
+    },
+    {
+      "name": "Brown",
+      "hex": "#9C755F"
+    },
+    {
+      "name": "Gray",
+      "hex": "#BAB0AC"
+    }
+  ]
+}

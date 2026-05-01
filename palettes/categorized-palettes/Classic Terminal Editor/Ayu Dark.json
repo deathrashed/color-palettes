@@ -1,0 +1,77 @@
+{
+  "name": "Ayu Dark",
+  "colors": [
+    {
+      "name": "Background",
+      "hex": "#0A0E14"
+    },
+    {
+      "name": "Foreground",
+      "hex": "#B3B1AD"
+    },
+    {
+      "name": "Black",
+      "hex": "#01060E"
+    },
+    {
+      "name": "Red",
+      "hex": "#EA6C73"
+    },
+    {
+      "name": "Green",
+      "hex": "#91B362"
+    },
+    {
+      "name": "Yellow",
+      "hex": "#F9AF4F"
+    },
+    {
+      "name": "Blue",
+      "hex": "#53BDFA"
+    },
+    {
+      "name": "Magenta",
+      "hex": "#FAE994"
+    },
+    {
+      "name": "Cyan",
+      "hex": "#90E1C6"
+    },
+    {
+      "name": "White",
+      "hex": "#C7C7C7"
+    },
+    {
+      "name": "Bright Black",
+      "hex": "#686868"
+    },
+    {
+      "name": "Bright Red",
+      "hex": "#F07178"
+    },
+    {
+      "name": "Bright Green",
+      "hex": "#C2D94C"
+    },
+    {
+      "name": "Bright Yellow",
+      "hex": "#FFB454"
+    },
+    {
+      "name": "Bright Blue",
+      "hex": "#59C2FF"
+    },
+    {
+      "name": "Bright Magenta",
+      "hex": "#FFEE99"
+    },
+    {
+      "name": "Bright Cyan",
+      "hex": "#95E6CB"
+    },
+    {
+      "name": "Bright White",
+      "hex": "#FFFFFF"
+    }
+  ]
+}

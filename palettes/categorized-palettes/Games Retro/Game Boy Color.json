@@ -1,0 +1,53 @@
+{
+  "name": "Game Boy Color",
+  "colors": [
+    {
+      "name": "Black",
+      "hex": "#081820"
+    },
+    {
+      "name": "Dark Green",
+      "hex": "#346856"
+    },
+    {
+      "name": "Mid Green",
+      "hex": "#88c070"
+    },
+    {
+      "name": "Light Green",
+      "hex": "#e0f8d0"
+    },
+    {
+      "name": "Red",
+      "hex": "#e85050"
+    },
+    {
+      "name": "Orange",
+      "hex": "#f8a048"
+    },
+    {
+      "name": "Yellow",
+      "hex": "#f8e858"
+    },
+    {
+      "name": "Blue",
+      "hex": "#5090d0"
+    },
+    {
+      "name": "Purple",
+      "hex": "#a850a8"
+    },
+    {
+      "name": "Pink",
+      "hex": "#f8a0c0"
+    },
+    {
+      "name": "Brown",
+      "hex": "#b87840"
+    },
+    {
+      "name": "White",
+      "hex": "#f8f8f8"
+    }
+  ]
+}

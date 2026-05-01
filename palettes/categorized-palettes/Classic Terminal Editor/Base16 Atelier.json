@@ -1,0 +1,69 @@
+{
+  "name": "Base16 Atelier",
+  "colors": [
+    {
+      "name": "Base00",
+      "hex": "#1b1918"
+    },
+    {
+      "name": "Base01",
+      "hex": "#2c2421"
+    },
+    {
+      "name": "Base02",
+      "hex": "#68615e"
+    },
+    {
+      "name": "Base03",
+      "hex": "#766e6b"
+    },
+    {
+      "name": "Base04",
+      "hex": "#9c9491"
+    },
+    {
+      "name": "Base05",
+      "hex": "#a8a19f"
+    },
+    {
+      "name": "Base06",
+      "hex": "#e6e2e0"
+    },
+    {
+      "name": "Base07",
+      "hex": "#f1efee"
+    },
+    {
+      "name": "Red",
+      "hex": "#f22c40"
+    },
+    {
+      "name": "Orange",
+      "hex": "#df5320"
+    },
+    {
+      "name": "Yellow",
+      "hex": "#d5911a"
+    },
+    {
+      "name": "Green",
+      "hex": "#7b9726"
+    },
+    {
+      "name": "Cyan",
+      "hex": "#3d97b8"
+    },
+    {
+      "name": "Blue",
+      "hex": "#407ee7"
+    },
+    {
+      "name": "Purple",
+      "hex": "#6666ea"
+    },
+    {
+      "name": "Magenta",
+      "hex": "#c33ff3"
+    }
+  ]
+}

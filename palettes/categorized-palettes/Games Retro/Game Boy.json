@@ -1,0 +1,21 @@
+{
+  "name": "Game Boy",
+  "colors": [
+    {
+      "name": "Darkest",
+      "hex": "#0f380f"
+    },
+    {
+      "name": "Dark",
+      "hex": "#306230"
+    },
+    {
+      "name": "Light",
+      "hex": "#8bac0f"
+    },
+    {
+      "name": "Lightest",
+      "hex": "#9bbc0f"
+    }
+  ]
+}

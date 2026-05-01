@@ -1,0 +1,45 @@
+{
+  "name": "Vaporwave",
+  "colors": [
+    {
+      "name": "Night Purple",
+      "hex": "#2d1b69"
+    },
+    {
+      "name": "Neon Pink",
+      "hex": "#ff71ce"
+    },
+    {
+      "name": "Aqua",
+      "hex": "#01cdfe"
+    },
+    {
+      "name": "Mint",
+      "hex": "#05ffa1"
+    },
+    {
+      "name": "Lemon",
+      "hex": "#b967ff"
+    },
+    {
+      "name": "Sunset",
+      "hex": "#fffb96"
+    },
+    {
+      "name": "Chrome",
+      "hex": "#d1f7ff"
+    },
+    {
+      "name": "Grid",
+      "hex": "#ff00ff"
+    },
+    {
+      "name": "Deep Blue",
+      "hex": "#0000ff"
+    },
+    {
+      "name": "Hot Orange",
+      "hex": "#ff6f3c"
+    }
+  ]
+}

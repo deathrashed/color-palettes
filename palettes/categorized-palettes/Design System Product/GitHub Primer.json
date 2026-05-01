@@ -1,0 +1,69 @@
+{
+  "name": "GitHub Primer",
+  "colors": [
+    {
+      "name": "Canvas Default",
+      "hex": "#ffffff"
+    },
+    {
+      "name": "Canvas Subtle",
+      "hex": "#f6f8fa"
+    },
+    {
+      "name": "Border Default",
+      "hex": "#d0d7de"
+    },
+    {
+      "name": "Foreground Default",
+      "hex": "#24292f"
+    },
+    {
+      "name": "Foreground Muted",
+      "hex": "#57606a"
+    },
+    {
+      "name": "Accent",
+      "hex": "#0969da"
+    },
+    {
+      "name": "Accent Emphasis",
+      "hex": "#0969da"
+    },
+    {
+      "name": "Success",
+      "hex": "#1a7f37"
+    },
+    {
+      "name": "Attention",
+      "hex": "#9a6700"
+    },
+    {
+      "name": "Severe",
+      "hex": "#bc4c00"
+    },
+    {
+      "name": "Danger",
+      "hex": "#cf222e"
+    },
+    {
+      "name": "Done",
+      "hex": "#8250df"
+    },
+    {
+      "name": "Sponsors",
+      "hex": "#bf3989"
+    },
+    {
+      "name": "Open",
+      "hex": "#1a7f37"
+    },
+    {
+      "name": "Closed",
+      "hex": "#cf222e"
+    },
+    {
+      "name": "Merged",
+      "hex": "#8250df"
+    }
+  ]
+}

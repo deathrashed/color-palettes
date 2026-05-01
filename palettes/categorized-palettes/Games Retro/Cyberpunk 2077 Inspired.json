@@ -1,0 +1,41 @@
+{
+  "name": "Cyberpunk 2077 Inspired",
+  "colors": [
+    {
+      "name": "Cyber Yellow",
+      "hex": "#fcee0a"
+    },
+    {
+      "name": "Electric Cyan",
+      "hex": "#00f0ff"
+    },
+    {
+      "name": "Hot Magenta",
+      "hex": "#ff003c"
+    },
+    {
+      "name": "Night City",
+      "hex": "#101010"
+    },
+    {
+      "name": "Chrome",
+      "hex": "#c9d1d9"
+    },
+    {
+      "name": "Warning Orange",
+      "hex": "#ff7a00"
+    },
+    {
+      "name": "Neon Green",
+      "hex": "#39ff14"
+    },
+    {
+      "name": "Deep Purple",
+      "hex": "#3b0054"
+    },
+    {
+      "name": "Hologram Blue",
+      "hex": "#00a3ff"
+    }
+  ]
+}

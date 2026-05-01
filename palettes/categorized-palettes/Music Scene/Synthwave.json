@@ -1,0 +1,37 @@
+{
+  "name": "Synthwave",
+  "colors": [
+    {
+      "name": "Midnight",
+      "hex": "#241734"
+    },
+    {
+      "name": "Neon Pink",
+      "hex": "#ff2a6d"
+    },
+    {
+      "name": "Laser Purple",
+      "hex": "#d300c5"
+    },
+    {
+      "name": "Electric Blue",
+      "hex": "#05d9e8"
+    },
+    {
+      "name": "Grid Blue",
+      "hex": "#005678"
+    },
+    {
+      "name": "Sunset Orange",
+      "hex": "#ff9f1c"
+    },
+    {
+      "name": "Chrome",
+      "hex": "#f5f5f5"
+    },
+    {
+      "name": "Deep Violet",
+      "hex": "#4b0082"
+    }
+  ]
+}

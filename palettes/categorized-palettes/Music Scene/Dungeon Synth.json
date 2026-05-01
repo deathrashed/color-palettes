@@ -1,0 +1,37 @@
+{
+  "name": "Dungeon Synth",
+  "colors": [
+    {
+      "name": "Torch",
+      "hex": "#c17c2c"
+    },
+    {
+      "name": "Candle",
+      "hex": "#f2d38b"
+    },
+    {
+      "name": "Stone",
+      "hex": "#4a4a4a"
+    },
+    {
+      "name": "Moss",
+      "hex": "#556b2f"
+    },
+    {
+      "name": "Velvet",
+      "hex": "#4b1d57"
+    },
+    {
+      "name": "Royal Blue",
+      "hex": "#263d73"
+    },
+    {
+      "name": "Parchment",
+      "hex": "#d8c8a0"
+    },
+    {
+      "name": "Night",
+      "hex": "#0d1321"
+    }
+  ]
+}

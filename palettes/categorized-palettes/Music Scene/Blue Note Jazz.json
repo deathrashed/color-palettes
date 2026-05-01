@@ -1,0 +1,37 @@
+{
+  "name": "Blue Note Jazz",
+  "colors": [
+    {
+      "name": "Blue Note",
+      "hex": "#003f88"
+    },
+    {
+      "name": "Deep Blue",
+      "hex": "#00296b"
+    },
+    {
+      "name": "Paper",
+      "hex": "#f5f1e8"
+    },
+    {
+      "name": "Ink",
+      "hex": "#111111"
+    },
+    {
+      "name": "Accent Red",
+      "hex": "#d62828"
+    },
+    {
+      "name": "Warm Gray",
+      "hex": "#8d8d8d"
+    },
+    {
+      "name": "Sax Gold",
+      "hex": "#f4a261"
+    },
+    {
+      "name": "Night",
+      "hex": "#0b132b"
+    }
+  ]
+}

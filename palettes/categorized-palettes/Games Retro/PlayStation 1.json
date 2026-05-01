@@ -1,0 +1,41 @@
+{
+  "name": "PlayStation 1",
+  "colors": [
+    {
+      "name": "Disc Black",
+      "hex": "#111111"
+    },
+    {
+      "name": "Console Gray",
+      "hex": "#b7b7b7"
+    },
+    {
+      "name": "Button Green",
+      "hex": "#00a651"
+    },
+    {
+      "name": "Button Red",
+      "hex": "#ed1c24"
+    },
+    {
+      "name": "Button Blue",
+      "hex": "#0072bc"
+    },
+    {
+      "name": "Button Pink",
+      "hex": "#ec008c"
+    },
+    {
+      "name": "Memory Card",
+      "hex": "#d8d8d8"
+    },
+    {
+      "name": "Startup Blue",
+      "hex": "#003399"
+    },
+    {
+      "name": "Startup Purple",
+      "hex": "#663399"
+    }
+  ]
+}

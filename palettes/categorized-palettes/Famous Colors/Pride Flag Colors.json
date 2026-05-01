@@ -1,0 +1,25 @@
+{
+  "name": "Pride Flag Colors",
+  "colors": [
+    { "name": "Pride Red", "hex": "#E40303" },
+    { "name": "Pride Orange", "hex": "#FF8C00" },
+    { "name": "Pride Yellow", "hex": "#FFED00" },
+    { "name": "Pride Green", "hex": "#008026" },
+    { "name": "Pride Blue", "hex": "#004DFF" },
+    { "name": "Pride Violet", "hex": "#750787" },
+    { "name": "Trans Blue", "hex": "#5BCEFA" },
+    { "name": "Trans Pink", "hex": "#F5A9B8" },
+    { "name": "Trans White", "hex": "#FFFFFF" },
+    { "name": "Progress Black", "hex": "#000000" },
+    { "name": "Progress Brown", "hex": "#613915" },
+    { "name": "Intersex Purple", "hex": "#7902AA" },
+    { "name": "Intersex Yellow", "hex": "#FFD800" },
+    { "name": "Aboriginal Black", "hex": "#000000" },
+    { "name": "Aboriginal Red", "hex": "#CC0000" },
+    { "name": "Aboriginal Yellow", "hex": "#FFFF00" },
+    { "name": "Torres Strait Green", "hex": "#009A44" },
+    { "name": "Torres Strait Blue", "hex": "#005EB8" },
+    { "name": "Torres Strait Black", "hex": "#000000" },
+    { "name": "Torres Strait White", "hex": "#FFFFFF" }
+  ]
+}

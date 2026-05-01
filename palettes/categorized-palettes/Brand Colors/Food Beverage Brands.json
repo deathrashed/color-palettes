@@ -1,0 +1,27 @@
+{
+  "name": "Food Beverage Brands",
+  "colors": [
+    { "name": "McDonald's Yellow", "hex": "#FFC72C" },
+    { "name": "McDonald's Red", "hex": "#DA291C" },
+    { "name": "KFC Red", "hex": "#E4002B" },
+    { "name": "KFC Black", "hex": "#261C02" },
+    { "name": "KFC Warm Beige", "hex": "#F5D4B7" },
+    { "name": "Burger King Red", "hex": "#D62300" },
+    { "name": "Burger King Brown", "hex": "#502314" },
+    { "name": "Burger King Cream", "hex": "#F5EBDC" },
+    { "name": "Subway Green", "hex": "#009743" },
+    { "name": "Subway Yellow", "hex": "#FFCB0A" },
+    { "name": "Taco Bell Purple", "hex": "#702082" },
+    { "name": "Taco Bell Lavender", "hex": "#A77BCA" },
+    { "name": "Domino's Red", "hex": "#E31837" },
+    { "name": "Domino's Blue", "hex": "#006491" },
+    { "name": "Pizza Hut Red", "hex": "#EE3124" },
+    { "name": "Starbucks Green", "hex": "#00704A" },
+    { "name": "Wendy's Red", "hex": "#E2203D" },
+    { "name": "Nando's Red", "hex": "#E50019" },
+    { "name": "Coca-Cola Red", "hex": "#F40009" },
+    { "name": "Pepsi Blue", "hex": "#004B93" },
+    { "name": "Pepsi Red", "hex": "#C9002B" },
+    { "name": "Monster Green", "hex": "#95D600" }
+  ]
+}

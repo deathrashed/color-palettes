@@ -1,0 +1,57 @@
+{
+  "name": "Fluent UI",
+  "colors": [
+    {
+      "name": "Communication Blue",
+      "hex": "#0078D4"
+    },
+    {
+      "name": "Communication Shade",
+      "hex": "#005A9E"
+    },
+    {
+      "name": "Communication Tint",
+      "hex": "#C7E0F4"
+    },
+    {
+      "name": "Neutral Dark",
+      "hex": "#201F1E"
+    },
+    {
+      "name": "Neutral Primary",
+      "hex": "#323130"
+    },
+    {
+      "name": "Neutral Secondary",
+      "hex": "#605E5C"
+    },
+    {
+      "name": "Neutral Tertiary",
+      "hex": "#A19F9D"
+    },
+    {
+      "name": "Neutral Light",
+      "hex": "#EDEBE9"
+    },
+    {
+      "name": "Neutral Lighter",
+      "hex": "#F3F2F1"
+    },
+    {
+      "name": "Success",
+      "hex": "#107C10"
+    },
+    {
+      "name": "Warning",
+      "hex": "#FFB900"
+    },
+    {
+      "name": "Error",
+      "hex": "#D13438"
+    },
+    {
+      "name": "Info",
+      "hex": "#0078D4"
+    }
+  ]
+}

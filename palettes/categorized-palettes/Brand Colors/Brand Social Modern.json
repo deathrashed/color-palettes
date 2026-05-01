@@ -1,0 +1,23 @@
+{
+  "name": "Brand Social Modern",
+  "colors": [
+    { "name": "Facebook", "hex": "#1877f2" },
+    { "name": "Messenger", "hex": "#00b2ff" },
+    { "name": "Instagram", "hex": "#e4405f" },
+    { "name": "Threads", "hex": "#000000" },
+    { "name": "X", "hex": "#000000" },
+    { "name": "LinkedIn", "hex": "#0a66c2" },
+    { "name": "YouTube", "hex": "#ff0000" },
+    { "name": "TikTok", "hex": "#000000" },
+    { "name": "Twitch", "hex": "#9146ff" },
+    { "name": "Discord", "hex": "#5865f2" },
+    { "name": "Reddit", "hex": "#ff4500" },
+    { "name": "Pinterest", "hex": "#bd081c" },
+    { "name": "Snapchat", "hex": "#fffc00" },
+    { "name": "WhatsApp", "hex": "#25d366" },
+    { "name": "Telegram", "hex": "#26a5e4" },
+    { "name": "Bluesky", "hex": "#0285ff" },
+    { "name": "Mastodon", "hex": "#6364ff" },
+    { "name": "Spotify", "hex": "#1db954" }
+  ]
+}

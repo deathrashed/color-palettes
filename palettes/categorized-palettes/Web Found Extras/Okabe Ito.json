@@ -1,0 +1,37 @@
+{
+  "name": "Okabe Ito",
+  "colors": [
+    {
+      "name": "Black",
+      "hex": "#000000"
+    },
+    {
+      "name": "Orange",
+      "hex": "#E69F00"
+    },
+    {
+      "name": "Sky Blue",
+      "hex": "#56B4E9"
+    },
+    {
+      "name": "Bluish Green",
+      "hex": "#009E73"
+    },
+    {
+      "name": "Yellow",
+      "hex": "#F0E442"
+    },
+    {
+      "name": "Blue",
+      "hex": "#0072B2"
+    },
+    {
+      "name": "Vermillion",
+      "hex": "#D55E00"
+    },
+    {
+      "name": "Reddish Purple",
+      "hex": "#CC79A7"
+    }
+  ]
+}

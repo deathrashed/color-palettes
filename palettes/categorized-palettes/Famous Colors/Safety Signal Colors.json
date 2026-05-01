@@ -1,0 +1,25 @@
+{
+  "name": "Safety Signal Colors",
+  "colors": [
+    { "name": "Stop Red", "hex": "#C1121C" },
+    { "name": "Safety Orange", "hex": "#FF7900" },
+    { "name": "Safety Yellow", "hex": "#F6C700" },
+    { "name": "Safety Green", "hex": "#007A3D" },
+    { "name": "Safety Blue", "hex": "#0057B8" },
+    { "name": "Safety Purple", "hex": "#6A1B9A" },
+    { "name": "High Visibility Lime", "hex": "#CCFF00" },
+    { "name": "Reflective White", "hex": "#FFFFFF" },
+    { "name": "Hazard Black", "hex": "#000000" },
+    { "name": "Traffic Red", "hex": "#FF0000" },
+    { "name": "Traffic Amber", "hex": "#FFBF00" },
+    { "name": "Traffic Green", "hex": "#00A550" },
+    { "name": "Road Sign Blue", "hex": "#004B8D" },
+    { "name": "Road Sign Brown", "hex": "#633517" },
+    { "name": "Rail Signal Red", "hex": "#C8102E" },
+    { "name": "Rail Signal Green", "hex": "#009639" },
+    { "name": "Emergency Red", "hex": "#D50032" },
+    { "name": "Emergency Blue", "hex": "#005EB8" },
+    { "name": "Biohazard Orange", "hex": "#FF6600" },
+    { "name": "Radiation Magenta", "hex": "#FF00FF" }
+  ]
+}

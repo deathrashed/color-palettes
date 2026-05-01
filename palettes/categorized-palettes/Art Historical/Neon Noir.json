@@ -1,0 +1,17 @@
+{
+  "name": "Neon Noir",
+  "colors": [
+    { "name": "Void", "hex": "#09090b" },
+    { "name": "Asphalt", "hex": "#18181b" },
+    { "name": "Smoke", "hex": "#3f3f46" },
+    { "name": "Chrome", "hex": "#d4d4d8" },
+    { "name": "Hot Pink", "hex": "#ff2e88" },
+    { "name": "Laser Red", "hex": "#ff355e" },
+    { "name": "Violet Sign", "hex": "#a855f7" },
+    { "name": "Electric Blue", "hex": "#38bdf8" },
+    { "name": "Acid Cyan", "hex": "#22d3ee" },
+    { "name": "Toxic Green", "hex": "#a3e635" },
+    { "name": "Amber Tube", "hex": "#fbbf24" },
+    { "name": "Afterglow", "hex": "#fb7185" }
+  ]
+}

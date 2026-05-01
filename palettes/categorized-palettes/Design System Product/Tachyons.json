@@ -1,0 +1,81 @@
+{
+  "name": "Tachyons",
+  "colors": [
+    {
+      "name": "Black",
+      "hex": "#000000"
+    },
+    {
+      "name": "Near Black",
+      "hex": "#111111"
+    },
+    {
+      "name": "Dark Gray",
+      "hex": "#333333"
+    },
+    {
+      "name": "Mid Gray",
+      "hex": "#555555"
+    },
+    {
+      "name": "Gray",
+      "hex": "#777777"
+    },
+    {
+      "name": "Silver",
+      "hex": "#999999"
+    },
+    {
+      "name": "Light Silver",
+      "hex": "#aaaaaa"
+    },
+    {
+      "name": "Moon Gray",
+      "hex": "#cccccc"
+    },
+    {
+      "name": "Light Gray",
+      "hex": "#eeeeee"
+    },
+    {
+      "name": "Near White",
+      "hex": "#f4f4f4"
+    },
+    {
+      "name": "White",
+      "hex": "#ffffff"
+    },
+    {
+      "name": "Dark Red",
+      "hex": "#e7040f"
+    },
+    {
+      "name": "Red",
+      "hex": "#ff4136"
+    },
+    {
+      "name": "Orange",
+      "hex": "#ff6300"
+    },
+    {
+      "name": "Gold",
+      "hex": "#ffb700"
+    },
+    {
+      "name": "Yellow",
+      "hex": "#ffd700"
+    },
+    {
+      "name": "Purple",
+      "hex": "#5e2ca5"
+    },
+    {
+      "name": "Blue",
+      "hex": "#357edd"
+    },
+    {
+      "name": "Green",
+      "hex": "#19a974"
+    }
+  ]
+}

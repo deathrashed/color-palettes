@@ -1,0 +1,41 @@
+{
+  "name": "Weather Radar",
+  "colors": [
+    {
+      "name": "Clear",
+      "hex": "#111827"
+    },
+    {
+      "name": "Drizzle",
+      "hex": "#38bdf8"
+    },
+    {
+      "name": "Light Rain",
+      "hex": "#22c55e"
+    },
+    {
+      "name": "Rain",
+      "hex": "#84cc16"
+    },
+    {
+      "name": "Heavy Rain",
+      "hex": "#facc15"
+    },
+    {
+      "name": "Storm",
+      "hex": "#fb923c"
+    },
+    {
+      "name": "Severe",
+      "hex": "#ef4444"
+    },
+    {
+      "name": "Extreme",
+      "hex": "#a855f7"
+    },
+    {
+      "name": "Hail Core",
+      "hex": "#f8fafc"
+    }
+  ]
+}

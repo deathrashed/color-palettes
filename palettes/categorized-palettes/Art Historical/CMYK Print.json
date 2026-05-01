@@ -1,0 +1,37 @@
+{
+  "name": "CMYK Print",
+  "colors": [
+    {
+      "name": "Cyan",
+      "hex": "#00aeef"
+    },
+    {
+      "name": "Magenta",
+      "hex": "#ec008c"
+    },
+    {
+      "name": "Yellow",
+      "hex": "#fff200"
+    },
+    {
+      "name": "Key Black",
+      "hex": "#231f20"
+    },
+    {
+      "name": "Rich Black",
+      "hex": "#010b13"
+    },
+    {
+      "name": "Paper",
+      "hex": "#ffffff"
+    },
+    {
+      "name": "Registration",
+      "hex": "#000000"
+    },
+    {
+      "name": "Proof Red",
+      "hex": "#ed1c24"
+    }
+  ]
+}

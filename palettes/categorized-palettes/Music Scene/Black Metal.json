@@ -1,0 +1,37 @@
+{
+  "name": "Black Metal",
+  "colors": [
+    {
+      "name": "Void",
+      "hex": "#000000"
+    },
+    {
+      "name": "Ash",
+      "hex": "#1a1a1a"
+    },
+    {
+      "name": "Iron",
+      "hex": "#4a4a4a"
+    },
+    {
+      "name": "Corpse Paint",
+      "hex": "#f5f5f5"
+    },
+    {
+      "name": "Blood",
+      "hex": "#6e0b0b"
+    },
+    {
+      "name": "Moon",
+      "hex": "#c7c7c7"
+    },
+    {
+      "name": "Frost",
+      "hex": "#9bb7c8"
+    },
+    {
+      "name": "Pine",
+      "hex": "#10251a"
+    }
+  ]
+}

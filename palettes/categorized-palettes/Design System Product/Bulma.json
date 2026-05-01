@@ -1,0 +1,53 @@
+{
+  "name": "Bulma",
+  "colors": [
+    {
+      "name": "Primary",
+      "hex": "#00d1b2"
+    },
+    {
+      "name": "Link",
+      "hex": "#485fc7"
+    },
+    {
+      "name": "Info",
+      "hex": "#3e8ed0"
+    },
+    {
+      "name": "Success",
+      "hex": "#48c78e"
+    },
+    {
+      "name": "Warning",
+      "hex": "#ffe08a"
+    },
+    {
+      "name": "Danger",
+      "hex": "#f14668"
+    },
+    {
+      "name": "Black",
+      "hex": "#0a0a0a"
+    },
+    {
+      "name": "Dark",
+      "hex": "#363636"
+    },
+    {
+      "name": "Light",
+      "hex": "#f5f5f5"
+    },
+    {
+      "name": "White",
+      "hex": "#ffffff"
+    },
+    {
+      "name": "Grey",
+      "hex": "#7a7a7a"
+    },
+    {
+      "name": "Text",
+      "hex": "#4a4a4a"
+    }
+  ]
+}

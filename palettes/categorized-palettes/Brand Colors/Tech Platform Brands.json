@@ -1,0 +1,25 @@
+{
+  "name": "Tech Platform Brands",
+  "colors": [
+    { "name": "Apple Black", "hex": "#000000" },
+    { "name": "Google Blue", "hex": "#4285F4" },
+    { "name": "Google Red", "hex": "#DB4437" },
+    { "name": "Google Yellow", "hex": "#F4B400" },
+    { "name": "Google Green", "hex": "#0F9D58" },
+    { "name": "Microsoft Red", "hex": "#F25022" },
+    { "name": "Microsoft Green", "hex": "#7FBA00" },
+    { "name": "Microsoft Blue", "hex": "#00A4EF" },
+    { "name": "Microsoft Yellow", "hex": "#FFB900" },
+    { "name": "Amazon Orange", "hex": "#FF9900" },
+    { "name": "AWS Orange", "hex": "#FF9900" },
+    { "name": "Netflix Red", "hex": "#E50914" },
+    { "name": "Airbnb Coral", "hex": "#FF5A5F" },
+    { "name": "Uber Black", "hex": "#000000" },
+    { "name": "PayPal Blue", "hex": "#003087" },
+    { "name": "Stripe Purple", "hex": "#635BFF" },
+    { "name": "Shopify Green", "hex": "#95BF47" },
+    { "name": "Notion Black", "hex": "#000000" },
+    { "name": "Figma Orange", "hex": "#F24E1E" },
+    { "name": "Canva Cyan", "hex": "#00C4CC" }
+  ]
+}

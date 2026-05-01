@@ -1,0 +1,33 @@
+{
+  "name": "Swiss Modern",
+  "colors": [
+    {
+      "name": "Red",
+      "hex": "#e30613"
+    },
+    {
+      "name": "Black",
+      "hex": "#000000"
+    },
+    {
+      "name": "White",
+      "hex": "#ffffff"
+    },
+    {
+      "name": "Warm Gray",
+      "hex": "#d9d6cf"
+    },
+    {
+      "name": "Cool Gray",
+      "hex": "#8c8c8c"
+    },
+    {
+      "name": "Signal Blue",
+      "hex": "#0057b8"
+    },
+    {
+      "name": "Paper",
+      "hex": "#f5f2e9"
+    }
+  ]
+}

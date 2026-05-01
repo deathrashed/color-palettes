@@ -1,0 +1,45 @@
+{
+  "name": "Botanical",
+  "colors": [
+    {
+      "name": "Leaf",
+      "hex": "#16a34a"
+    },
+    {
+      "name": "Fern",
+      "hex": "#166534"
+    },
+    {
+      "name": "Sage",
+      "hex": "#84a98c"
+    },
+    {
+      "name": "Moss",
+      "hex": "#65a30d"
+    },
+    {
+      "name": "Bark",
+      "hex": "#5c4033"
+    },
+    {
+      "name": "Soil",
+      "hex": "#292524"
+    },
+    {
+      "name": "Petal",
+      "hex": "#f9a8d4"
+    },
+    {
+      "name": "Pollen",
+      "hex": "#facc15"
+    },
+    {
+      "name": "Berry",
+      "hex": "#be123c"
+    },
+    {
+      "name": "Sky",
+      "hex": "#7dd3fc"
+    }
+  ]
+}

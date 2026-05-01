@@ -1,0 +1,53 @@
+{
+  "name": "Chakra UI",
+  "colors": [
+    {
+      "name": "Gray",
+      "hex": "#718096"
+    },
+    {
+      "name": "Red",
+      "hex": "#E53E3E"
+    },
+    {
+      "name": "Orange",
+      "hex": "#DD6B20"
+    },
+    {
+      "name": "Yellow",
+      "hex": "#D69E2E"
+    },
+    {
+      "name": "Green",
+      "hex": "#38A169"
+    },
+    {
+      "name": "Teal",
+      "hex": "#319795"
+    },
+    {
+      "name": "Blue",
+      "hex": "#3182CE"
+    },
+    {
+      "name": "Cyan",
+      "hex": "#00A3C4"
+    },
+    {
+      "name": "Purple",
+      "hex": "#805AD5"
+    },
+    {
+      "name": "Pink",
+      "hex": "#D53F8C"
+    },
+    {
+      "name": "Black",
+      "hex": "#1A202C"
+    },
+    {
+      "name": "White",
+      "hex": "#FFFFFF"
+    }
+  ]
+}

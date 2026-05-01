@@ -1,0 +1,27 @@
+{
+  "name": "Tailwind Classic 500",
+  "colors": [
+    { "name": "Slate 500", "hex": "#64748b" },
+    { "name": "Gray 500", "hex": "#6b7280" },
+    { "name": "Zinc 500", "hex": "#71717a" },
+    { "name": "Neutral 500", "hex": "#737373" },
+    { "name": "Stone 500", "hex": "#78716c" },
+    { "name": "Red 500", "hex": "#ef4444" },
+    { "name": "Orange 500", "hex": "#f97316" },
+    { "name": "Amber 500", "hex": "#f59e0b" },
+    { "name": "Yellow 500", "hex": "#eab308" },
+    { "name": "Lime 500", "hex": "#84cc16" },
+    { "name": "Green 500", "hex": "#22c55e" },
+    { "name": "Emerald 500", "hex": "#10b981" },
+    { "name": "Teal 500", "hex": "#14b8a6" },
+    { "name": "Cyan 500", "hex": "#06b6d4" },
+    { "name": "Sky 500", "hex": "#0ea5e9" },
+    { "name": "Blue 500", "hex": "#3b82f6" },
+    { "name": "Indigo 500", "hex": "#6366f1" },
+    { "name": "Violet 500", "hex": "#8b5cf6" },
+    { "name": "Purple 500", "hex": "#a855f7" },
+    { "name": "Fuchsia 500", "hex": "#d946ef" },
+    { "name": "Pink 500", "hex": "#ec4899" },
+    { "name": "Rose 500", "hex": "#f43f5e" }
+  ]
+}

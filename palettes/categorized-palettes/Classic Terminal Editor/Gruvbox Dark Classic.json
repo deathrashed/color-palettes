@@ -1,0 +1,21 @@
+{
+  "name": "Gruvbox Dark Classic",
+  "colors": [
+    { "name": "Dark0 Hard", "hex": "#1d2021" },
+    { "name": "Dark0", "hex": "#282828" },
+    { "name": "Dark1", "hex": "#3c3836" },
+    { "name": "Dark2", "hex": "#504945" },
+    { "name": "Dark3", "hex": "#665c54" },
+    { "name": "Dark4", "hex": "#7c6f64" },
+    { "name": "Light0", "hex": "#fbf1c7" },
+    { "name": "Light1", "hex": "#ebdbb2" },
+    { "name": "Red", "hex": "#cc241d" },
+    { "name": "Green", "hex": "#98971a" },
+    { "name": "Yellow", "hex": "#d79921" },
+    { "name": "Blue", "hex": "#458588" },
+    { "name": "Purple", "hex": "#b16286" },
+    { "name": "Aqua", "hex": "#689d6a" },
+    { "name": "Orange", "hex": "#d65d0e" },
+    { "name": "Gray", "hex": "#a89984" }
+  ]
+}

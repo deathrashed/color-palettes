@@ -1,0 +1,17 @@
+{
+  "name": "Desert Signal",
+  "colors": [
+    { "name": "Night Sand", "hex": "#1c1917" },
+    { "name": "Canyon", "hex": "#7c2d12" },
+    { "name": "Clay", "hex": "#c2410c" },
+    { "name": "Rust", "hex": "#ea580c" },
+    { "name": "Saffron", "hex": "#f59e0b" },
+    { "name": "Sun Bleach", "hex": "#fef3c7" },
+    { "name": "Dune", "hex": "#d6d3d1" },
+    { "name": "Dry Sage", "hex": "#78716c" },
+    { "name": "Agave", "hex": "#0f766e" },
+    { "name": "Mirage", "hex": "#06b6d4" },
+    { "name": "Dusk Violet", "hex": "#7c3aed" },
+    { "name": "Heat Haze", "hex": "#fb7185" }
+  ]
+}

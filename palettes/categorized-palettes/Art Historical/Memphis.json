@@ -1,0 +1,45 @@
+{
+  "name": "Memphis",
+  "colors": [
+    {
+      "name": "Hot Pink",
+      "hex": "#ff4fd8"
+    },
+    {
+      "name": "Turquoise",
+      "hex": "#00c2c7"
+    },
+    {
+      "name": "Lemon",
+      "hex": "#ffe156"
+    },
+    {
+      "name": "Coral",
+      "hex": "#ff6b6b"
+    },
+    {
+      "name": "Purple",
+      "hex": "#845ec2"
+    },
+    {
+      "name": "Mint",
+      "hex": "#7bdff2"
+    },
+    {
+      "name": "Black",
+      "hex": "#111111"
+    },
+    {
+      "name": "Cream",
+      "hex": "#fff4e6"
+    },
+    {
+      "name": "Blue",
+      "hex": "#2f80ed"
+    },
+    {
+      "name": "Orange",
+      "hex": "#f2994a"
+    }
+  ]
+}

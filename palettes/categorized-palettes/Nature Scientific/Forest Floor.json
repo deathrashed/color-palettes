@@ -1,0 +1,17 @@
+{
+  "name": "Forest Floor",
+  "colors": [
+    { "name": "Canopy", "hex": "#052e16" },
+    { "name": "Pine Needle", "hex": "#14532d" },
+    { "name": "Fern", "hex": "#15803d" },
+    { "name": "Moss", "hex": "#65a30d" },
+    { "name": "Lichen", "hex": "#a3e635" },
+    { "name": "Bark", "hex": "#3f2f24" },
+    { "name": "Soil", "hex": "#1c1917" },
+    { "name": "Mushroom", "hex": "#a8a29e" },
+    { "name": "Fog", "hex": "#d6d3d1" },
+    { "name": "Berry", "hex": "#be123c" },
+    { "name": "Foxglove", "hex": "#c084fc" },
+    { "name": "Creek", "hex": "#0e7490" }
+  ]
+}

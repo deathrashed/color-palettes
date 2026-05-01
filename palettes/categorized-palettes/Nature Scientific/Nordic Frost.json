@@ -1,0 +1,17 @@
+{
+  "name": "Nordic Frost",
+  "colors": [
+    { "name": "Polar Night", "hex": "#111827" },
+    { "name": "Deep Fjord", "hex": "#1f2937" },
+    { "name": "Slate Ice", "hex": "#475569" },
+    { "name": "Mist", "hex": "#94a3b8" },
+    { "name": "Snow", "hex": "#f8fafc" },
+    { "name": "Glacier", "hex": "#bae6fd" },
+    { "name": "Frost Blue", "hex": "#7dd3fc" },
+    { "name": "Aurora Cyan", "hex": "#67e8f9" },
+    { "name": "Pine", "hex": "#166534" },
+    { "name": "Lichen", "hex": "#84cc16" },
+    { "name": "Rose Sky", "hex": "#fda4af" },
+    { "name": "Winter Sun", "hex": "#fde68a" }
+  ]
+}

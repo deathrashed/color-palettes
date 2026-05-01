@@ -1,0 +1,21 @@
+{
+  "name": "UI Status Colors",
+  "colors": [
+    { "name": "Success", "hex": "#22c55e" },
+    { "name": "Success Soft", "hex": "#86efac" },
+    { "name": "Warning", "hex": "#f59e0b" },
+    { "name": "Warning Soft", "hex": "#fcd34d" },
+    { "name": "Danger", "hex": "#ef4444" },
+    { "name": "Danger Soft", "hex": "#fca5a5" },
+    { "name": "Info", "hex": "#0ea5e9" },
+    { "name": "Info Soft", "hex": "#7dd3fc" },
+    { "name": "Neutral", "hex": "#64748b" },
+    { "name": "Neutral Soft", "hex": "#cbd5e1" },
+    { "name": "Accent", "hex": "#8b5cf6" },
+    { "name": "Accent Soft", "hex": "#c4b5fd" },
+    { "name": "Background", "hex": "#0f172a" },
+    { "name": "Surface", "hex": "#1e293b" },
+    { "name": "Text", "hex": "#f8fafc" },
+    { "name": "Muted Text", "hex": "#94a3b8" }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "name": "Commodore 64",
+  "colors": [
+    {
+      "name": "Black",
+      "hex": "#000000"
+    },
+    {
+      "name": "White",
+      "hex": "#ffffff"
+    },
+    {
+      "name": "Red",
+      "hex": "#880000"
+    },
+    {
+      "name": "Cyan",
+      "hex": "#aaffee"
+    },
+    {
+      "name": "Purple",
+      "hex": "#cc44cc"
+    },
+    {
+      "name": "Green",
+      "hex": "#00cc55"
+    },
+    {
+      "name": "Blue",
+      "hex": "#0000aa"
+    },
+    {
+      "name": "Yellow",
+      "hex": "#eeee77"
+    },
+    {
+      "name": "Orange",
+      "hex": "#dd8855"
+    },
+    {
+      "name": "Brown",
+      "hex": "#664400"
+    },
+    {
+      "name": "Light Red",
+      "hex": "#ff7777"
+    },
+    {
+      "name": "Dark Gray",
+      "hex": "#333333"
+    },
+    {
+      "name": "Gray",
+      "hex": "#777777"
+    },
+    {
+      "name": "Light Green",
+      "hex": "#aaff66"
+    },
+    {
+      "name": "Light Blue",
+      "hex": "#0088ff"
+    },
+    {
+      "name": "Light Gray",
+      "hex": "#bbbbbb"
+    }
+  ]
+}

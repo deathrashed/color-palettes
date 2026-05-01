@@ -1,0 +1,53 @@
+{
+  "name": "Atlassian",
+  "colors": [
+    {
+      "name": "Blue 500",
+      "hex": "#0C66E4"
+    },
+    {
+      "name": "Blue 100",
+      "hex": "#E9F2FF"
+    },
+    {
+      "name": "Purple 500",
+      "hex": "#6E5DC6"
+    },
+    {
+      "name": "Teal 500",
+      "hex": "#1D9AAA"
+    },
+    {
+      "name": "Green 500",
+      "hex": "#22A06B"
+    },
+    {
+      "name": "Yellow 500",
+      "hex": "#F5CD47"
+    },
+    {
+      "name": "Orange 500",
+      "hex": "#F18D13"
+    },
+    {
+      "name": "Red 500",
+      "hex": "#C9372C"
+    },
+    {
+      "name": "Magenta 500",
+      "hex": "#DA62AC"
+    },
+    {
+      "name": "Lime 500",
+      "hex": "#82B536"
+    },
+    {
+      "name": "Gray 100",
+      "hex": "#F7F8F9"
+    },
+    {
+      "name": "Gray 900",
+      "hex": "#172B4D"
+    }
+  ]
+}
