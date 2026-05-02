@@ -1,0 +1,24 @@
+{
+  "expectations": [
+    {
+      "text": "File palettes/Brand - GitHub.json exists",
+      "passed": true,
+      "evidence": "File was created."
+    },
+    {
+      "text": "File clr/Brand - GitHub.clr was generated",
+      "passed": false,
+      "evidence": "Task interrupted."
+    },
+    {
+      "text": "palettes.json contains the new GitHub entry",
+      "passed": false,
+      "evidence": "Task interrupted."
+    },
+    {
+      "text": "Color names are populated for all 4 hex values",
+      "passed": false,
+      "evidence": "Task interrupted."
+    }
+  ]
+}

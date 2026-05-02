@@ -1,6 +1,7 @@
 PREFIX ?= $(HOME)/.local
 BINDIR ?= $(PREFIX)/bin
 COLORGEN ?= ./bin/colorgen
+PALETTE_TUI ?= ./bin/palette-tui
 SOURCE ?= bin/formats/HTML.json
 OUT ?= bin/formats/generated
 BASENAME ?=
@@ -18,6 +19,9 @@ install:
 	cp "$(COLORGEN)" "$(BINDIR)/colorgen"
 	chmod 755 "$(BINDIR)/colorgen"
 	@echo "Installed $(BINDIR)/colorgen"
+	cp "$(PALETTE_TUI)" "$(BINDIR)/palette-tui"
+	chmod 755 "$(BINDIR)/palette-tui"
+	@echo "Installed $(BINDIR)/palette-tui"
 
 test:
 	./scripts/check-colorgen-formats.sh

@@ -1,0 +1,13 @@
+{
+  "name": "Ant.Design",
+  "colors": [
+    {
+      "name": "Blue 6",
+      "hex": "#1890ff"
+    },
+    {
+      "name": "Green 6",
+      "hex": "#52c41a"
+    }
+  ]
+}

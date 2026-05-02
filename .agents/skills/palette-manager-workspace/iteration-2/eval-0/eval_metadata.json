@@ -1,0 +1,22 @@
+{
+  "eval_id": 0,
+  "eval_name": "recover-ant-design",
+  "prompt": "The 'Ant.Design' palette is currently 'binary-only' in `palettes.json`. Can you recover its source? Create a basic JSON source in `palettes/design-system/Ant.Design.json` with primary colors like #1890ff (Blue 6) and #52c41a (Green 6), update the manifest to 'canonical', and regenerate the .clr file. Use `scripts/check-palette-manifest.py` to verify.",
+  "assertions": [
+    {
+      "text": "File palettes/design-system/Ant.Design.json exists",
+      "passed": null,
+      "evidence": null
+    },
+    {
+      "text": "palettes.json status is changed to 'canonical'",
+      "passed": null,
+      "evidence": null
+    },
+    {
+      "text": "scripts/check-palette-manifest.py was run for verification",
+      "passed": null,
+      "evidence": null
+    }
+  ]
+}

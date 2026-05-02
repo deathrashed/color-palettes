@@ -1,0 +1,27 @@
+{
+  "eval_id": 1,
+  "eval_name": "add-github-palette",
+  "prompt": "I want to add a new palette for 'GitHub'. I have the hex colors: #24292e (bg), #ffffff (fg), #0366d6 (blue), #28a745 (green). Can you create the canonical JSON in `palettes/`, generate the .clr file, and fill in any missing color names using the reference list?",
+  "assertions": [
+    {
+      "text": "File palettes/Brand - GitHub.json exists",
+      "passed": null,
+      "evidence": null
+    },
+    {
+      "text": "File clr/Brand - GitHub.clr was generated",
+      "passed": null,
+      "evidence": null
+    },
+    {
+      "text": "palettes.json contains the new GitHub entry",
+      "passed": null,
+      "evidence": null
+    },
+    {
+      "text": "Color names are populated for all 4 hex values",
+      "passed": null,
+      "evidence": null
+    }
+  ]
+}

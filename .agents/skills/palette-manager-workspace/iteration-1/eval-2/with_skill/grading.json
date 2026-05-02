@@ -1,0 +1,19 @@
+{
+  "expectations": [
+    {
+      "text": "Script includes set -e or manual error checking",
+      "passed": true,
+      "evidence": "Explicit checks added."
+    },
+    {
+      "text": "Script supports --verbose flag",
+      "passed": true,
+      "evidence": "Implemented -v/--verbose."
+    },
+    {
+      "text": "Script uses trap or similar for cleanup on failure",
+      "passed": true,
+      "evidence": "Added trap for EXIT, ERR, INT, TERM."
+    }
+  ]
+}

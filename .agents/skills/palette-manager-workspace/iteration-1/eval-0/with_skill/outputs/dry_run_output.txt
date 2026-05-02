@@ -1,0 +1,509 @@
+Rename: Xcode Dark hc.json -> Xcode Dark Hc.json
+Rename: 12-bit Rainbow.json -> 12 Bit Rainbow.json
+Rename: traffic.json -> Traffic.json
+Rename: branch.json -> Branch.json
+Rename: Trapped in Amber.json -> Trapped In Amber.json
+Rename: Xcode Light hc.json -> Xcode Light Hc.json
+Rename: novmbr.json -> Novmbr.json
+Rename: owl.json -> Owl.json
+Rename: urban.json -> Urban.json
+Index: Add Material Dark.json to palettes.json
+Index: Add Seti.json to palettes.json
+Index: Add Sakura.json to palettes.json
+Index: Add Chalkboard.json to palettes.json
+Index: Add Banana Blueberry.json to palettes.json
+Index: Add Spacegray Eighties.json to palettes.json
+Index: Add IBM 5153 CGA (Black).json to palettes.json
+Index: Add Alabaster.json to palettes.json
+Index: Add Mathias.json to palettes.json
+Index: Add Poimandres Darker.json to palettes.json
+Index: Add Ayu.json to palettes.json
+Index: Add Kanso Zen.json to palettes.json
+Index: Add SeedFlip Nightfall.json to palettes.json
+Index: Add Mirage.json to palettes.json
+Index: Add Nord Light.json to palettes.json
+Index: Add Havn Skumring.json to palettes.json
+Index: Add Liquid Carbon Transparent.json to palettes.json
+Index: Add Apple System Colors Light.json to palettes.json
+Index: Add Cobalt Next.json to palettes.json
+Index: Add Nightfox.json to palettes.json
+Index: Add Broadcast.json to palettes.json
+Index: Add Blue Dolphin.json to palettes.json
+Index: Add Pierre Dark.json to palettes.json
+Index: Add Xcode Light.json to palettes.json
+Index: Add SeedFlip Ivory.json to palettes.json
+Index: Add Clear Dark.json to palettes.json
+Index: Add Earthsong.json to palettes.json
+Index: Add Gruvbox Light Hard.json to palettes.json
+Index: Add One Double Dark.json to palettes.json
+Index: Add iTerm2 Smoooooth.json to palettes.json
+Index: Add Kanagawabones.json to palettes.json
+Index: Add Later This Evening.json to palettes.json
+Index: Add Poimandres White.json to palettes.json
+Index: Add SeedFlip Inkwell.json to palettes.json
+Index: Add Medallion.json to palettes.json
+Index: Add Abernathy.json to palettes.json
+Index: Add Firefly Traditional.json to palettes.json
+Index: Add Dimidium.json to palettes.json
+Index: Add Horizon.json to palettes.json
+Index: Add Pnevma.json to palettes.json
+Index: Add Aizen Dark.json to palettes.json
+Index: Add Black Metal (Bathory).json to palettes.json
+Index: Add Rose Pine Moon.json to palettes.json
+Index: Add Dimmed Monokai.json to palettes.json
+Index: Add Blue Matrix.json to palettes.json
+Index: Add Cool Night.json to palettes.json
+Index: Add Xcode Dark Hc.json to palettes.json
+Index: Add Cyberpunk.json to palettes.json
+Index: Add Whimsy.json to palettes.json
+Index: Add Claude Light.json to palettes.json
+Index: Add Cobalt Next Minimal.json to palettes.json
+Index: Add Cobalt Neon.json to palettes.json
+Index: Add Night Lion V1.json to palettes.json
+Index: Add Grey Green.json to palettes.json
+Index: Add Claude Dark.json to palettes.json
+Index: Add Square.json to palettes.json
+Index: Add Citruszest.json to palettes.json
+Index: Add Modus Vivendi Tinted.json to palettes.json
+Index: Add SeedFlip Phosphor.json to palettes.json
+Index: Add Solarized Dark Patched.json to palettes.json
+Index: Add Modus Operandi.json to palettes.json
+Index: Add Retro.json to palettes.json
+Index: Add Pandora.json to palettes.json
+Index: Add Ghostty Default Style Dark.json to palettes.json
+Index: Add Galaxy.json to palettes.json
+Index: Add Adventure Time.json to palettes.json
+Index: Add Xcode Dark.json to palettes.json
+Index: Add Poimandres Storm.json to palettes.json
+Index: Add Overnight Slumber.json to palettes.json
+Index: Add Kanso Mist.json to palettes.json
+Index: Add Glacier.json to palettes.json
+Index: Add Hot Dog Stand (Mustard).json to palettes.json
+Index: Add Sundried.json to palettes.json
+Index: Add Rippedcasts.json to palettes.json
+Index: Add Black Metal (Khold).json to palettes.json
+Index: Add Jubi.json to palettes.json
+Index: Add Monokai Pro Octagon.json to palettes.json
+Index: Add Cobalt Next Dark.json to palettes.json
+Index: Add Warm Neon.json to palettes.json
+Index: Add Rose Pine.json to palettes.json
+Index: Add Man Page.json to palettes.json
+Index: Add Pro Light.json to palettes.json
+Index: Add Material Design Colors.json to palettes.json
+Index: Add Hardcore.json to palettes.json
+Index: Add Nvim Dark.json to palettes.json
+Index: Add Grass.json to palettes.json
+Index: Add Box.json to palettes.json
+Index: Add Snazzy Soft.json to palettes.json
+Index: Add 12 Bit Rainbow.json to palettes.json
+Index: Add Material Darker.json to palettes.json
+Index: Add Vibrant Ink.json to palettes.json
+Index: Add Srcery.json to palettes.json
+Index: Add Pale Night Hc.json to palettes.json
+Index: Add Oceanic Next.json to palettes.json
+Index: Add Gleam Classic.json to palettes.json
+Index: Add Mellow.json to palettes.json
+Index: Add Guezwhoz.json to palettes.json
+Index: Add Vercel.json to palettes.json
+Index: Add Borland.json to palettes.json
+Index: Add Kitty Default.json to palettes.json
+Index: Add Traffic.json to palettes.json
+Index: Add Argonaut.json to palettes.json
+Index: Add Coffee Theme.json to palettes.json
+Index: Add Builtin Tango Light.json to palettes.json
+Index: Add Monokai Classic.json to palettes.json
+Index: Add Nvim Light.json to palettes.json
+Index: Add Wild Cherry.json to palettes.json
+Index: Add Matte Black.json to palettes.json
+Index: Add Rapture.json to palettes.json
+Index: Add Karasu Night.json to palettes.json
+Index: Add Raycast Light.json to palettes.json
+Index: Add Piatto Light.json to palettes.json
+Index: Add Builtin Dark.json to palettes.json
+Index: Add Raycast Dark.json to palettes.json
+Index: Add Pierre Light.json to palettes.json
+Index: Add Detuned.json to palettes.json
+Index: Add Cursor Light.json to palettes.json
+Index: Add One Double Light.json to palettes.json
+Index: Add Catppuccin Mocha.json to palettes.json
+Index: Add Jellybeans.json to palettes.json
+Index: Add Night Owl.json to palettes.json
+Index: Add Monokai Remastered.json to palettes.json
+Index: Add Ocean.json to palettes.json
+Index: Add GitHub Dark.json to palettes.json
+Index: Add JetCalm Light.json to palettes.json
+Index: Add Tomorrow Night Blue.json to palettes.json
+Index: Add Farmhouse Dark.json to palettes.json
+Index: Add Sea Shells.json to palettes.json
+Index: Add Neopolitan.json to palettes.json
+Index: Add GitHub Light Default.json to palettes.json
+Index: Add Adwaita Dark.json to palettes.json
+Index: Add Dark+.json to palettes.json
+Index: Add Black Metal (Gorgoroth).json to palettes.json
+Index: Add Relaxed.json to palettes.json
+Index: Add SeedFlip Pulse.json to palettes.json
+Index: Add Atelier Sulphurpool.json to palettes.json
+Index: Add Neobones Light.json to palettes.json
+Index: Add Black Metal (Immortal).json to palettes.json
+Index: Add Galizur.json to palettes.json
+Index: Add Monokai Pro Ristretto.json to palettes.json
+Index: Add Rouge 2.json to palettes.json
+Index: Add Carbonfox.json to palettes.json
+Index: Add Tango Half Adapted.json to palettes.json
+Index: Add Zenburned.json to palettes.json
+Index: Add Django.json to palettes.json
+Index: Add Niji.json to palettes.json
+Index: Add Fish Tank.json to palettes.json
+Index: Add Red Alert.json to palettes.json
+Index: Add Zenbones Dark.json to palettes.json
+Index: Add Iceberg Dark.json to palettes.json
+Index: Add Neon.json to palettes.json
+Index: Add Paul Millr.json to palettes.json
+Index: Add Poimandres.json to palettes.json
+Index: Add SeedFlip Wavelength.json to palettes.json
+Index: Add Cobalt2.json to palettes.json
+Index: Add Zenwritten Dark.json to palettes.json
+Index: Add Laser.json to palettes.json
+Index: Add GitHub Dark Colorblind.json to palettes.json
+Index: Add Monokai Pro Spectrum.json to palettes.json
+Index: Add Tinacious Design Dark.json to palettes.json
+Index: Add Spacegray Bright.json to palettes.json
+Index: Add Dogxi Misty.json to palettes.json
+Index: Add iTerm2 Solarized Dark.json to palettes.json
+Index: Add Dracula.json to palettes.json
+Index: Add GitHub Light High Contrast.json to palettes.json
+Index: Add C64.json to palettes.json
+Index: Add Calamity.json to palettes.json
+Index: Add Black Metal (Nile).json to palettes.json
+Index: Add The Hulk.json to palettes.json
+Index: Add Lavandula.json to palettes.json
+Index: Add Spring.json to palettes.json
+Index: Add Aura.json to palettes.json
+Index: Add Bluloco Dark.json to palettes.json
+Index: Add HaX0R Gr33N.json to palettes.json
+Index: Add Primary.json to palettes.json
+Index: Add Solarized Darcula.json to palettes.json
+Index: Add Ubuntu.json to palettes.json
+Index: Add Material Ocean.json to palettes.json
+Index: Add Andromeda.json to palettes.json
+Index: Add Chalk.json to palettes.json
+Index: Add Hopscotch.json to palettes.json
+Index: Add Urple.json to palettes.json
+Index: Add Selenized Black.json to palettes.json
+Index: Add Pencil Light.json to palettes.json
+Index: Add Ciapre.json to palettes.json
+Index: Add Dracula+.json to palettes.json
+Index: Add Black Metal (Mayhem).json to palettes.json
+Index: Add Sleepy Hollow.json to palettes.json
+Index: Add Treehouse.json to palettes.json
+Index: Add Duotone Dark.json to palettes.json
+Index: Add Hopscotch.256.json to palettes.json
+Index: Add Fideloper.json to palettes.json
+Index: Add Django Smooth.json to palettes.json
+Index: Add Gruvbox Light.json to palettes.json
+Index: Add Synthwave Alpha.json to palettes.json
+Index: Add Catppuccin Frappe.json to palettes.json
+Index: Add Dark Pastel.json to palettes.json
+Index: Add Harper.json to palettes.json
+Index: Add Mellifluous.json to palettes.json
+Index: Add Monokai Pro Light Sun.json to palettes.json
+Index: Add IRIX Terminal.json to palettes.json
+Index: Add Rebecca.json to palettes.json
+Index: Add Idle Toes.json to palettes.json
+Index: Add CGA.json to palettes.json
+Index: Add Black Metal.json to palettes.json
+Index: Add Branch.json to palettes.json
+Index: Add Tinacious Design Light.json to palettes.json
+Index: Add Oceanic Material.json to palettes.json
+Index: Add Synthwave.json to palettes.json
+Index: Add Subliminal.json to palettes.json
+Index: Add Neobones Dark.json to palettes.json
+Index: Add Solarized Dark Higher Contrast.json to palettes.json
+Index: Add Idea.json to palettes.json
+Index: Add 3024 Day.json to palettes.json
+Index: Add TokyoNight Night.json to palettes.json
+Index: Add Adwaita.json to palettes.json
+Index: Add Seoulbones Dark.json to palettes.json
+Index: Add Monokai Pro Machine.json to palettes.json
+Index: Add Tomorrow Night Burns.json to palettes.json
+Index: Add Nord.json to palettes.json
+Index: Add Firefox Dev.json to palettes.json
+Index: Add Vaughn.json to palettes.json
+Index: Add Kitty Low Contrast.json to palettes.json
+Index: Add Floraverse.json to palettes.json
+Index: Add Belafonte Night.json to palettes.json
+Index: Add Sonokai.json to palettes.json
+Index: Add Doom One.json to palettes.json
+Index: Add Klein Void.json to palettes.json
+Index: Add Flexoki Dark.json to palettes.json
+Index: Add Gruvbox Dark.json to palettes.json
+Index: Add Hot Dog Stand.json to palettes.json
+Index: Add Elemental.json to palettes.json
+Index: Add Kanagawa Dragon.json to palettes.json
+Index: Add Rose Pine Dawn.json to palettes.json
+Index: Add GitHub Dark Default.json to palettes.json
+Index: Add Kanagawa Lotus.json to palettes.json
+Index: Add Obsidian.json to palettes.json
+Index: Add Doom Peacock.json to palettes.json
+Index: Add Blue Berry Pie.json to palettes.json
+Index: Add Dalton Dark.json to palettes.json
+Index: Add Catppuccin Macchiato.json to palettes.json
+Index: Add Havn Daggry.json to palettes.json
+Index: Add Soft Server.json to palettes.json
+Index: Add GitLab Light.json to palettes.json
+Index: Add Zenbones.json to palettes.json
+Index: Add Atom One Dark.json to palettes.json
+Index: Add One Half Dark.json to palettes.json
+Index: Add Everforest Light Med.json to palettes.json
+Index: Add Starlight.json to palettes.json
+Index: Add Purplepeter.json to palettes.json
+Index: Add Selenized Dark.json to palettes.json
+Index: Add Red Planet.json to palettes.json
+Index: Add Tomorrow Night Bright.json to palettes.json
+Index: Add Firewatch.json to palettes.json
+Index: Add No Clown Fiesta.json to palettes.json
+Index: Add Monokai Pro.json to palettes.json
+Index: Add Spacedust.json to palettes.json
+Index: Add Phala Green Dark.json to palettes.json
+Index: Add Misterioso.json to palettes.json
+Index: Add Nordfox.json to palettes.json
+Index: Add Zenwritten Light.json to palettes.json
+Index: Add Xcode WWDC.json to palettes.json
+Index: Add Pencil Dark.json to palettes.json
+Index: Add Builtin Light.json to palettes.json
+Index: Add Gruber Darker.json to palettes.json
+Index: Add Modus Operandi Tinted.json to palettes.json
+Index: Add Builtin Tango Dark.json to palettes.json
+Index: Add iTerm2 Dark Background.json to palettes.json
+Index: Add Spacegray Eighties Dull.json to palettes.json
+Index: Add Elementary.json to palettes.json
+Index: Add Flat.json to palettes.json
+Index: Add Terafox.json to palettes.json
+Index: Add Blazer.json to palettes.json
+Index: Add iTerm2 Default.json to palettes.json
+Index: Add One Half Light.json to palettes.json
+Index: Add Crayon Pony Fish.json to palettes.json
+Index: Add Aurora.json to palettes.json
+Index: Add Black Metal (Burzum).json to palettes.json
+Index: Add Neutron.json to palettes.json
+Index: Add SeedFlip Voltage.json to palettes.json
+Index: Add Ardoise.json to palettes.json
+Index: Add iTerm2 Solarized Light.json to palettes.json
+Index: Add Cyberpunk Scarlet Protocol.json to palettes.json
+Index: Add Everforest Dark Hard.json to palettes.json
+Index: Add Kanso Pearl.json to palettes.json
+Index: Add Pro.json to palettes.json
+Index: Add Symfonic.json to palettes.json
+Index: Add iTerm2 Tango Dark.json to palettes.json
+Index: Add Grape.json to palettes.json
+Index: Add Highway.json to palettes.json
+Index: Add GitHub Dark Dimmed.json to palettes.json
+Index: Add Everblush.json to palettes.json
+Index: Add Black Metal (Venom).json to palettes.json
+Index: Add Spacegray.json to palettes.json
+Index: Add Atom One Light.json to palettes.json
+Index: Add Midnight In Mojave.json to palettes.json
+Index: Add Zenburn.json to palettes.json
+Index: Add Apple System Colors.json to palettes.json
+Index: Add Iceberg Light.json to palettes.json
+Index: Add Aura Dark.json to palettes.json
+Index: Add Deep.json to palettes.json
+Index: Add No Clown Fiesta Light.json to palettes.json
+Index: Add Monokai Vivid.json to palettes.json
+Index: Add Wombat.json to palettes.json
+Index: Add SeedFlip Glacier.json to palettes.json
+Index: Add Retro Legends.json to palettes.json
+Index: Add GitLab Dark Grey.json to palettes.json
+Index: Add Matrix.json to palettes.json
+Index: Add Embers Dark.json to palettes.json
+Index: Add Darkermatrix.json to palettes.json
+Index: Add Tomorrow Night.json to palettes.json
+Index: Add Wez.json to palettes.json
+Index: Add Dawnfox.json to palettes.json
+Index: Add Ryuuko.json to palettes.json
+Index: Add Front End Delight.json to palettes.json
+Index: Add Framer.json to palettes.json
+Index: Add One Dark Two.json to palettes.json
+Index: Add Sublette.json to palettes.json
+Index: Add HaX0R R3D.json to palettes.json
+Index: Add Lovelace.json to palettes.json
+Index: Add 3024 Night.json to palettes.json
+Index: Add SeedFlip Carbon.json to palettes.json
+Index: Add Nord Wave.json to palettes.json
+Index: Add Birds Of Paradise.json to palettes.json
+Index: Add Gruvbox Material Dark.json to palettes.json
+Index: Add Teerb.json to palettes.json
+Index: Add Emerald Synth.json to palettes.json
+Index: Add IBM 5153 CGA.json to palettes.json
+Index: Add Fairyfloss.json to palettes.json
+Index: Add iTerm2 Tango Light.json to palettes.json
+Index: Add SeedFlip Ultraviolet.json to palettes.json
+Index: Add iTerm2 Light Background.json to palettes.json
+Index: Add GitHub Light Colorblind.json to palettes.json
+Index: Add TokyoNight.json to palettes.json
+Index: Add Gruvbox Material Light.json to palettes.json
+Index: Add Ultra Violent.json to palettes.json
+Index: Add Aardvark Blue.json to palettes.json
+Index: Add Tomorrow.json to palettes.json
+Index: Add SeedFlip Abyss.json to palettes.json
+Index: Add Hurtado.json to palettes.json
+Index: Add Miasma.json to palettes.json
+Index: Add Adventure.json to palettes.json
+Index: Add IR Black.json to palettes.json
+Index: Add Zenbones Light.json to palettes.json
+Index: Add Arthur.json to palettes.json
+Index: Add Fahrenheit.json to palettes.json
+Index: Add Heeler.json to palettes.json
+Index: Add Clear Light.json to palettes.json
+Index: Add Vesper.json to palettes.json
+Index: Add iTerm2 Pastel Dark Background.json to palettes.json
+Index: Add Farmhouse Light.json to palettes.json
+Index: Add Fun Forrest.json to palettes.json
+Index: Add Moonwalk.json to palettes.json
+Index: Add Jackie Brown.json to palettes.json
+Index: Add Oxocarbon.json to palettes.json
+Index: Add Gruvbox Dark Hard.json to palettes.json
+Index: Add Nocturnal Winter.json to palettes.json
+Index: Add ENCOM.json to palettes.json
+Index: Add Melange Light.json to palettes.json
+Index: Add Brogrammer.json to palettes.json
+Index: Add Japanesque.json to palettes.json
+Index: Add Darkmatrix.json to palettes.json
+Index: Add Hivacruz.json to palettes.json
+Index: Add Espresso Libre.json to palettes.json
+Index: Add Trapped In Amber.json to palettes.json
+Index: Add Operator Mono Dark.json to palettes.json
+Index: Add Xcode Light Hc.json to palettes.json
+Index: Add Ayu Light.json to palettes.json
+Index: Add Terminal Basic.json to palettes.json
+Index: Add Chester.json to palettes.json
+Index: Add SeedFlip Coral.json to palettes.json
+Index: Add Sunset Drive.json to palettes.json
+Index: Add Cutie Pro.json to palettes.json
+Index: Add Belafonte Day.json to palettes.json
+Index: Add Monokai Pro Light.json to palettes.json
+Index: Add Elegant.json to palettes.json
+Index: Add Espresso.json to palettes.json
+Index: Add Darkside.json to palettes.json
+Index: Add Novmbr.json to palettes.json
+Index: Add Shades Of Purple.json to palettes.json
+Index: Add Flatland.json to palettes.json
+Index: Add N0Tch2K.json to palettes.json
+Index: Add Molokai.json to palettes.json
+Index: Add Solarized Osaka Night.json to palettes.json
+Index: Add Tearout.json to palettes.json
+Index: Add Bluloco Light.json to palettes.json
+Index: Add Batman.json to palettes.json
+Index: Add Tango Adapted.json to palettes.json
+Index: Add CLRS.json to palettes.json
+Index: Add Toy Chest.json to palettes.json
+Index: Add Snazzy.json to palettes.json
+Index: Add 0x96f.json to palettes.json
+Index: Add Owl.json to palettes.json
+Index: Add Black Metal (Dark Funeral).json to palettes.json
+Index: Add Wryan.json to palettes.json
+Index: Add Kurokula.json to palettes.json
+Index: Add Afterglow.json to palettes.json
+Index: Add Gruvbox Material.json to palettes.json
+Index: Add Shaman.json to palettes.json
+Index: Add Electron Highlighter.json to palettes.json
+Index: Add Ollie.json to palettes.json
+Index: Add Apple Classic.json to palettes.json
+Index: Add Duskfox.json to palettes.json
+Index: Add Kanagawa Wave.json to palettes.json
+Index: Add Violet Dark.json to palettes.json
+Index: Add Kolorit.json to palettes.json
+Index: Add Modus Vivendi.json to palettes.json
+Index: Add Bright Lights.json to palettes.json
+Index: Add Unikitty.json to palettes.json
+Index: Add Gleam.json to palettes.json
+Index: Add GitLab Dark.json to palettes.json
+Index: Add GitHub.json to palettes.json
+Index: Add Violet Light.json to palettes.json
+Index: Add Hacktober.json to palettes.json
+Index: Add Flexoki Light.json to palettes.json
+Index: Add Mona Lisa.json to palettes.json
+Index: Add Material.json to palettes.json
+Index: Add Ayu Mirage.json to palettes.json
+Index: Add Vimbones.json to palettes.json
+Index: Add SeedFlip Amethyst.json to palettes.json
+Index: Add Arcoiris.json to palettes.json
+Index: Add Urban.json to palettes.json
+Index: Add Black Metal (Marduk).json to palettes.json
+Index: Add SeedFlip Canopy.json to palettes.json
+Index: Add Onenord.json to palettes.json
+Index: Add Light Owl.json to palettes.json
+Index: Add Synthwave Everything.json to palettes.json
+Index: Add Seoulbones Light.json to palettes.json
+Index: Add Liquid Carbon.json to palettes.json
+Index: Add Wilmersdorf.json to palettes.json
+Index: Add Moonfly.json to palettes.json
+Index: Add Breadog.json to palettes.json
+Index: Add Alien Blood.json to palettes.json
+Index: Add Lab Fox.json to palettes.json
+Index: Add Red Sands.json to palettes.json
+Index: Add Kanso Ink.json to palettes.json
+Index: Add Terminal Basic Dark.json to palettes.json
+Index: Add Desert.json to palettes.json
+Index: Add Powershell.json to palettes.json
+Index: Add Smyck.json to palettes.json
+Index: Add JetBrains Darcula.json to palettes.json
+Index: Add IRIX Console.json to palettes.json
+Index: Add Thayer Bright.json to palettes.json
+Index: Add Spiderman.json to palettes.json
+Index: Add Forest Blue.json to palettes.json
+Index: Add Sugarplum.json to palettes.json
+Index: Add Django Reborn Again.json to palettes.json
+Index: Add Dayfox.json to palettes.json
+Index: Add Night Lion V2.json to palettes.json
+Index: Add Onenord Light.json to palettes.json
+Index: Add HaX0R Blue.json to palettes.json
+Index: Add SeedFlip Ember.json to palettes.json
+Index: Add Mariana.json to palettes.json
+Index: Add Peppermint.json to palettes.json
+Index: Add Claude.json to palettes.json
+Index: Add Purple Rain.json to palettes.json
+Index: Add Squirrelsong Dark.json to palettes.json
+Index: Add Novel.json to palettes.json
+Index: Add Embark.json to palettes.json
+Index: Add Cursor Dark.json to palettes.json
+Index: Add Under The Sea.json to palettes.json
+Index: Add Popping And Locking.json to palettes.json
+Index: Add Twilight.json to palettes.json
+Index: Add Melange Dark.json to palettes.json
+Index: Add Homebrew.json to palettes.json
+Index: Add Builtin Pastel Dark.json to palettes.json
+Index: Add Konsolas.json to palettes.json
+Index: Add TokyoNight Day.json to palettes.json
+Index: Add TokyoNight Moon.json to palettes.json
+Index: Add Royal.json to palettes.json
+Index: Add Hipster Green.json to palettes.json
+Index: Add Aizen Light.json to palettes.json
+Index: Add Ultra Dark.json to palettes.json
+Index: Add Challenger Deep.json to palettes.json
+Index: Add Violite.json to palettes.json
+Index: Add Night Owlish Light.json to palettes.json
+Index: Add Horizon Bright.json to palettes.json
+Index: Add IC Green PPL.json to palettes.json
+Index: Add Cyberdyne.json to palettes.json
+Index: Add Monospace Dark.json to palettes.json
+Index: Add Atom.json to palettes.json
+Index: Add Monospace Light.json to palettes.json
+Index: Add Catppuccin Latte.json to palettes.json
+Index: Add Selenized Light.json to palettes.json
+Index: Add Tomorrow Night Eighties.json to palettes.json
+Index: Add Karasu Snow.json to palettes.json
+Index: Add Hybrid.json to palettes.json
+Index: Add GitHub Dark High Contrast.json to palettes.json
+Index: Add TokyoNight Storm.json to palettes.json
+Index: Add Dot Gov.json to palettes.json
+Index: Add Vague.json to palettes.json
+Index: Add IC Orange PPL.json to palettes.json
+Index: Add Duckbones.json to palettes.json
+Index: Add Monokai Soda.json to palettes.json
+Index: Add Slate.json to palettes.json
+Index: Add Scarlet Protocol.json to palettes.json
+Index: Add Dark Modern.json to palettes.json
+Index: Add Seafoam Pastel.json to palettes.json
+Index: Add Paraiso Dark.json to palettes.json
+Index: Add Kibble.json to palettes.json

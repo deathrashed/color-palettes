@@ -1,0 +1,6 @@
+palettes/Apple.json -> palettes/brand-colors/Apple.json
+palettes/Brand - GitHub.json -> palettes/brand-colors/Brand - GitHub.json
+palettes/Social Colors.json -> palettes/brand-colors/Social Colors.json
+clr/system/Apple.clr -> clr/brand-colors/Apple.clr
+clr/system/GitHub Primer.clr -> clr/brand-colors/GitHub Primer.clr
+clr/palettes/Social Colors.clr -> clr/brand-colors/Social Colors.clr

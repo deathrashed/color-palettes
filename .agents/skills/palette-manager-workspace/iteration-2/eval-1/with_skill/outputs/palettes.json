@@ -26,11 +26,11 @@
       "id": "ant-design",
       "name": "Ant.Design",
       "clr": "clr/Ant.Design.clr",
-      "source": "palettes/design-system/Ant.Design.json",
-      "source_status": "canonical",
-      "color_count": 2,
+      "source": null,
+      "source_status": "binary-only",
+      "color_count": null,
       "category": "design-system",
-      "notes": "Recovered canonical source from documentation."
+      "notes": "Add an editable source JSON before regenerating."
     },
     {
       "id": "bootstrap",
@@ -45,7 +45,7 @@
     {
       "id": "breeze",
       "name": "Breeze",
-      "clr": "clr/terminal-colors/Breeze.clr",
+      "clr": "clr/Breeze.clr",
       "source": "palettes/terminal-colors/Breeze.json",
       "source_status": "canonical",
       "color_count": 22,

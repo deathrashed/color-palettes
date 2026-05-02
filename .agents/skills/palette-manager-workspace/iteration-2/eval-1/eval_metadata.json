@@ -1,0 +1,22 @@
+{
+  "eval_id": 1,
+  "eval_name": "consolidate-brand-colors",
+  "prompt": "I want to consolidate all brand-related palettes into a new `palettes/brand-colors` category. This includes 'Apple' and any others you find that fit. Move the files, update their paths and categories in `palettes.json`, and ensure symmetry in the `clr/` directory. Run the manifest check after moving.",
+  "assertions": [
+    {
+      "text": "Apple.json moved to palettes/brand-colors/",
+      "passed": null,
+      "evidence": null
+    },
+    {
+      "text": "Apple.clr moved to clr/brand-colors/",
+      "passed": null,
+      "evidence": null
+    },
+    {
+      "text": "palettes.json entry for Apple updated with new paths",
+      "passed": null,
+      "evidence": null
+    }
+  ]
+}

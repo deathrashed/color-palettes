@@ -1,0 +1,1002 @@
+Keep: 0x96f.json (Name: 0x96f)
+Index: Add 0x96f to palettes.json
+Rename: 12-bit Rainbow.json -> 12-bit-rainbow.json (Name: 12-bit Rainbow)
+Index: Add 12-bit-rainbow to palettes.json
+Rename: 3024 Day.json -> 3024-day.json (Name: 3024 Day)
+Index: Add 3024-day to palettes.json
+Rename: 3024 Night.json -> 3024-night.json (Name: 3024 Night)
+Index: Add 3024-night to palettes.json
+Rename: Aardvark Blue.json -> aardvark-blue.json (Name: Aardvark Blue)
+Index: Add aardvark-blue to palettes.json
+Rename: Abernathy.json -> abernathy.json (Name: Abernathy)
+Index: Add abernathy to palettes.json
+Rename: Adventure Time.json -> adventure-time.json (Name: Adventure Time)
+Index: Add adventure-time to palettes.json
+Rename: Adventure.json -> adventure.json (Name: Adventure)
+Index: Add adventure to palettes.json
+Rename: Adwaita Dark.json -> adwaita-dark.json (Name: Adwaita Dark)
+Index: Add adwaita-dark to palettes.json
+Rename: Adwaita.json -> adwaita.json (Name: Adwaita)
+Index: Add adwaita to palettes.json
+Rename: Afterglow.json -> afterglow.json (Name: Afterglow)
+Index: Add afterglow to palettes.json
+Rename: Aizen Dark.json -> aizen-dark.json (Name: Aizen Dark)
+Index: Add aizen-dark to palettes.json
+Rename: Aizen Light.json -> aizen-light.json (Name: Aizen Light)
+Index: Add aizen-light to palettes.json
+Rename: Alabaster.json -> alabaster.json (Name: Alabaster)
+Index: Add alabaster to palettes.json
+Rename: Alien Blood.json -> alien-blood.json (Name: Alien Blood)
+Index: Add alien-blood to palettes.json
+Rename: Andromeda.json -> andromeda.json (Name: Andromeda)
+Index: Add andromeda to palettes.json
+Rename: Apple Classic.json -> apple-classic.json (Name: Apple Classic)
+Index: Add apple-classic to palettes.json
+Rename: Apple System Colors Light.json -> apple-system-colors-light.json (Name: Apple System Colors Light)
+Index: Add apple-system-colors-light to palettes.json
+Rename: Apple System Colors.json -> apple-system-colors.json (Name: Apple System Colors)
+Index: Add apple-system-colors to palettes.json
+Rename: Arcoiris.json -> arcoiris.json (Name: Arcoiris)
+Index: Add arcoiris to palettes.json
+Rename: Ardoise.json -> ardoise.json (Name: Ardoise)
+Index: Add ardoise to palettes.json
+Rename: Argonaut.json -> argonaut.json (Name: Argonaut)
+Index: Add argonaut to palettes.json
+Rename: Arthur.json -> arthur.json (Name: Arthur)
+Index: Add arthur to palettes.json
+Rename: Atelier Sulphurpool.json -> atelier-sulphurpool.json (Name: Atelier Sulphurpool)
+Index: Add atelier-sulphurpool to palettes.json
+Rename: Atom One Dark.json -> atom-one-dark.json (Name: Atom One Dark)
+Index: Add atom-one-dark to palettes.json
+Rename: Atom One Light.json -> atom-one-light.json (Name: Atom One Light)
+Index: Add atom-one-light to palettes.json
+Rename: Atom.json -> atom.json (Name: Atom)
+Index: Add atom to palettes.json
+Rename: Aura Dark.json -> aura-dark.json (Name: Aura Dark)
+Index: Add aura-dark to palettes.json
+Rename: Aura.json -> aura.json (Name: Aura)
+Index: Add aura to palettes.json
+Rename: Aurora.json -> aurora.json (Name: Aurora)
+Index: Add aurora to palettes.json
+Rename: Ayu Light.json -> ayu-light.json (Name: Ayu Light)
+Index: Add ayu-light to palettes.json
+Rename: Ayu Mirage.json -> ayu-mirage.json (Name: Ayu Mirage)
+Index: Add ayu-mirage to palettes.json
+Rename: Ayu.json -> ayu.json (Name: Ayu)
+Index: Add ayu to palettes.json
+Rename: Banana Blueberry.json -> banana-blueberry.json (Name: Banana Blueberry)
+Index: Add banana-blueberry to palettes.json
+Rename: Batman.json -> batman.json (Name: Batman)
+Index: Add batman to palettes.json
+Rename: Belafonte Day.json -> belafonte-day.json (Name: Belafonte Day)
+Index: Add belafonte-day to palettes.json
+Rename: Belafonte Night.json -> belafonte-night.json (Name: Belafonte Night)
+Index: Add belafonte-night to palettes.json
+Rename: Birds Of Paradise.json -> birds-of-paradise.json (Name: Birds Of Paradise)
+Index: Add birds-of-paradise to palettes.json
+Rename: Black Metal (Bathory).json -> black-metal-bathory.json (Name: Black Metal (Bathory))
+Index: Add black-metal-bathory to palettes.json
+Rename: Black Metal (Burzum).json -> black-metal-burzum.json (Name: Black Metal (Burzum))
+Index: Add black-metal-burzum to palettes.json
+Rename: Black Metal (Dark Funeral).json -> black-metal-dark-funeral.json (Name: Black Metal (Dark Funeral))
+Index: Add black-metal-dark-funeral to palettes.json
+Rename: Black Metal (Gorgoroth).json -> black-metal-gorgoroth.json (Name: Black Metal (Gorgoroth))
+Index: Add black-metal-gorgoroth to palettes.json
+Rename: Black Metal (Immortal).json -> black-metal-immortal.json (Name: Black Metal (Immortal))
+Index: Add black-metal-immortal to palettes.json
+Rename: Black Metal (Khold).json -> black-metal-khold.json (Name: Black Metal (Khold))
+Index: Add black-metal-khold to palettes.json
+Rename: Black Metal (Marduk).json -> black-metal-marduk.json (Name: Black Metal (Marduk))
+Index: Add black-metal-marduk to palettes.json
+Rename: Black Metal (Mayhem).json -> black-metal-mayhem.json (Name: Black Metal (Mayhem))
+Index: Add black-metal-mayhem to palettes.json
+Rename: Black Metal (Nile).json -> black-metal-nile.json (Name: Black Metal (Nile))
+Index: Add black-metal-nile to palettes.json
+Rename: Black Metal (Venom).json -> black-metal-venom.json (Name: Black Metal (Venom))
+Index: Add black-metal-venom to palettes.json
+Rename: Black Metal.json -> black-metal.json (Name: Black Metal)
+Index: Add black-metal to palettes.json
+Rename: Blazer.json -> blazer.json (Name: Blazer)
+Index: Add blazer to palettes.json
+Rename: Blue Berry Pie.json -> blue-berry-pie.json (Name: Blue Berry Pie)
+Index: Add blue-berry-pie to palettes.json
+Rename: Blue Dolphin.json -> blue-dolphin.json (Name: Blue Dolphin)
+Index: Add blue-dolphin to palettes.json
+Rename: Blue Matrix.json -> blue-matrix.json (Name: Blue Matrix)
+Index: Add blue-matrix to palettes.json
+Rename: Bluloco Dark.json -> bluloco-dark.json (Name: Bluloco Dark)
+Index: Add bluloco-dark to palettes.json
+Rename: Bluloco Light.json -> bluloco-light.json (Name: Bluloco Light)
+Index: Add bluloco-light to palettes.json
+Rename: Borland.json -> borland.json (Name: Borland)
+Index: Add borland to palettes.json
+Rename: Box.json -> box.json (Name: Box)
+Index: Add box to palettes.json
+Rename: Breadog.json -> breadog.json (Name: Breadog)
+Index: Add breadog to palettes.json
+Rename: Breeze.json -> breeze.json (Name: Breeze)
+Update: Index source for breeze to palettes/terminal-colors/breeze.json
+Rename: Bright Lights.json -> bright-lights.json (Name: Bright Lights)
+Index: Add bright-lights to palettes.json
+Rename: Broadcast.json -> broadcast.json (Name: Broadcast)
+Index: Add broadcast to palettes.json
+Rename: Brogrammer.json -> brogrammer.json (Name: Brogrammer)
+Index: Add brogrammer to palettes.json
+Rename: Builtin Dark.json -> builtin-dark.json (Name: Builtin Dark)
+Index: Add builtin-dark to palettes.json
+Rename: Builtin Light.json -> builtin-light.json (Name: Builtin Light)
+Index: Add builtin-light to palettes.json
+Rename: Builtin Pastel Dark.json -> builtin-pastel-dark.json (Name: Builtin Pastel Dark)
+Index: Add builtin-pastel-dark to palettes.json
+Rename: Builtin Tango Dark.json -> builtin-tango-dark.json (Name: Builtin Tango Dark)
+Index: Add builtin-tango-dark to palettes.json
+Rename: Builtin Tango Light.json -> builtin-tango-light.json (Name: Builtin Tango Light)
+Index: Add builtin-tango-light to palettes.json
+Rename: C64.json -> c64.json (Name: C64)
+Index: Add c64 to palettes.json
+Rename: CGA.json -> cga.json (Name: CGA)
+Index: Add cga to palettes.json
+Rename: CLRS.json -> clrs.json (Name: CLRS)
+Index: Add clrs to palettes.json
+Rename: Calamity.json -> calamity.json (Name: Calamity)
+Index: Add calamity to palettes.json
+Rename: Carbonfox.json -> carbonfox.json (Name: Carbonfox)
+Index: Add carbonfox to palettes.json
+Rename: Catppuccin Frappe.json -> catppuccin-frappe.json (Name: Catppuccin Frappe)
+Index: Add catppuccin-frappe to palettes.json
+Rename: Catppuccin Latte.json -> catppuccin-latte.json (Name: Catppuccin Latte)
+Index: Add catppuccin-latte to palettes.json
+Rename: Catppuccin Macchiato.json -> catppuccin-macchiato.json (Name: Catppuccin Macchiato)
+Index: Add catppuccin-macchiato to palettes.json
+Rename: Catppuccin Mocha.json -> catppuccin-mocha.json (Name: Catppuccin Mocha)
+Index: Add catppuccin-mocha to palettes.json
+Rename: Chalk.json -> chalk.json (Name: Chalk)
+Index: Add chalk to palettes.json
+Rename: Chalkboard.json -> chalkboard.json (Name: Chalkboard)
+Index: Add chalkboard to palettes.json
+Rename: Challenger Deep.json -> challenger-deep.json (Name: Challenger Deep)
+Index: Add challenger-deep to palettes.json
+Rename: Chester.json -> chester.json (Name: Chester)
+Index: Add chester to palettes.json
+Rename: Ciapre.json -> ciapre.json (Name: Ciapre)
+Index: Add ciapre to palettes.json
+Rename: Citruszest.json -> citruszest.json (Name: Citruszest)
+Index: Add citruszest to palettes.json
+Rename: Claude Dark.json -> claude-dark.json (Name: Claude Dark)
+Index: Add claude-dark to palettes.json
+Rename: Claude Light.json -> claude-light.json (Name: Claude Light)
+Index: Add claude-light to palettes.json
+Rename: Claude.json -> claude.json (Name: Claude)
+Index: Add claude to palettes.json
+Rename: Clear Dark.json -> clear-dark.json (Name: Clear Dark)
+Index: Add clear-dark to palettes.json
+Rename: Clear Light.json -> clear-light.json (Name: Clear Light)
+Index: Add clear-light to palettes.json
+Rename: Cobalt Neon.json -> cobalt-neon.json (Name: Cobalt Neon)
+Index: Add cobalt-neon to palettes.json
+Rename: Cobalt Next Dark.json -> cobalt-next-dark.json (Name: Cobalt Next Dark)
+Index: Add cobalt-next-dark to palettes.json
+Rename: Cobalt Next Minimal.json -> cobalt-next-minimal.json (Name: Cobalt Next Minimal)
+Index: Add cobalt-next-minimal to palettes.json
+Rename: Cobalt Next.json -> cobalt-next.json (Name: Cobalt Next)
+Index: Add cobalt-next to palettes.json
+Rename: Cobalt2.json -> cobalt2.json (Name: Cobalt2)
+Index: Add cobalt2 to palettes.json
+Rename: Coffee Theme.json -> coffee-theme.json (Name: Coffee Theme)
+Index: Add coffee-theme to palettes.json
+Rename: Cool Night.json -> cool-night.json (Name: Cool Night)
+Index: Add cool-night to palettes.json
+Rename: Crayon Pony Fish.json -> crayon-pony-fish.json (Name: Crayon Pony Fish)
+Index: Add crayon-pony-fish to palettes.json
+Rename: Cursor Dark.json -> cursor-dark.json (Name: Cursor Dark)
+Index: Add cursor-dark to palettes.json
+Rename: Cursor Light.json -> cursor-light.json (Name: Cursor Light)
+Index: Add cursor-light to palettes.json
+Rename: Cutie Pro.json -> cutie-pro.json (Name: Cutie Pro)
+Index: Add cutie-pro to palettes.json
+Rename: Cyberdyne.json -> cyberdyne.json (Name: Cyberdyne)
+Index: Add cyberdyne to palettes.json
+Rename: Cyberpunk Scarlet Protocol.json -> cyberpunk-scarlet-protocol.json (Name: Cyberpunk Scarlet Protocol)
+Index: Add cyberpunk-scarlet-protocol to palettes.json
+Rename: Cyberpunk.json -> cyberpunk.json (Name: Cyberpunk)
+Index: Add cyberpunk to palettes.json
+Rename: Dalton Dark.json -> dalton-dark.json (Name: Dalton Dark)
+Index: Add dalton-dark to palettes.json
+Rename: Dark Modern.json -> dark-modern.json (Name: Dark Modern)
+Index: Add dark-modern to palettes.json
+Rename: Dark Pastel.json -> dark-pastel.json (Name: Dark Pastel)
+Index: Add dark-pastel to palettes.json
+Rename: Dark+.json -> dark.json (Name: Dark+)
+Index: Add dark to palettes.json
+Rename: Darkermatrix.json -> darkermatrix.json (Name: Darkermatrix)
+Index: Add darkermatrix to palettes.json
+Rename: Darkmatrix.json -> darkmatrix.json (Name: Darkmatrix)
+Index: Add darkmatrix to palettes.json
+Rename: Darkside.json -> darkside.json (Name: Darkside)
+Index: Add darkside to palettes.json
+Rename: Dawnfox.json -> dawnfox.json (Name: Dawnfox)
+Index: Add dawnfox to palettes.json
+Rename: Dayfox.json -> dayfox.json (Name: Dayfox)
+Index: Add dayfox to palettes.json
+Rename: Deep.json -> deep.json (Name: Deep)
+Index: Add deep to palettes.json
+Rename: Desert.json -> desert.json (Name: Desert)
+Index: Add desert to palettes.json
+Rename: Detuned.json -> detuned.json (Name: Detuned)
+Index: Add detuned to palettes.json
+Rename: Dimidium.json -> dimidium.json (Name: Dimidium)
+Index: Add dimidium to palettes.json
+Rename: Dimmed Monokai.json -> dimmed-monokai.json (Name: Dimmed Monokai)
+Index: Add dimmed-monokai to palettes.json
+Rename: Django Reborn Again.json -> django-reborn-again.json (Name: Django Reborn Again)
+Index: Add django-reborn-again to palettes.json
+Rename: Django Smooth.json -> django-smooth.json (Name: Django Smooth)
+Index: Add django-smooth to palettes.json
+Rename: Django.json -> django.json (Name: Django)
+Index: Add django to palettes.json
+Rename: Dogxi Misty.json -> dogxi-misty.json (Name: Dogxi Misty)
+Index: Add dogxi-misty to palettes.json
+Rename: Doom One.json -> doom-one.json (Name: Doom One)
+Index: Add doom-one to palettes.json
+Rename: Doom Peacock.json -> doom-peacock.json (Name: Doom Peacock)
+Index: Add doom-peacock to palettes.json
+Rename: Dot Gov.json -> dot-gov.json (Name: Dot Gov)
+Index: Add dot-gov to palettes.json
+Rename: Dracula+.json -> dracula.json (Name: Dracula+)
+Index: Add dracula to palettes.json
+Rename: Dracula.json -> dracula.json (Name: Dracula)
+Index: Add dracula to palettes.json
+Rename: Duckbones.json -> duckbones.json (Name: Duckbones)
+Index: Add duckbones to palettes.json
+Rename: Duotone Dark.json -> duotone-dark.json (Name: Duotone Dark)
+Index: Add duotone-dark to palettes.json
+Rename: Duskfox.json -> duskfox.json (Name: Duskfox)
+Index: Add duskfox to palettes.json
+Rename: ENCOM.json -> encom.json (Name: ENCOM)
+Index: Add encom to palettes.json
+Rename: Earthsong.json -> earthsong.json (Name: Earthsong)
+Index: Add earthsong to palettes.json
+Rename: Electron Highlighter.json -> electron-highlighter.json (Name: Electron Highlighter)
+Index: Add electron-highlighter to palettes.json
+Rename: Elegant.json -> elegant.json (Name: Elegant)
+Index: Add elegant to palettes.json
+Rename: Elemental.json -> elemental.json (Name: Elemental)
+Index: Add elemental to palettes.json
+Rename: Elementary.json -> elementary.json (Name: Elementary)
+Index: Add elementary to palettes.json
+Rename: Embark.json -> embark.json (Name: Embark)
+Index: Add embark to palettes.json
+Rename: Embers Dark.json -> embers-dark.json (Name: Embers Dark)
+Index: Add embers-dark to palettes.json
+Rename: Emerald Synth.json -> emerald-synth.json (Name: Emerald Synth)
+Index: Add emerald-synth to palettes.json
+Rename: Espresso Libre.json -> espresso-libre.json (Name: Espresso Libre)
+Index: Add espresso-libre to palettes.json
+Rename: Espresso.json -> espresso.json (Name: Espresso)
+Index: Add espresso to palettes.json
+Rename: Everblush.json -> everblush.json (Name: Everblush)
+Index: Add everblush to palettes.json
+Rename: Everforest Dark Hard.json -> everforest-dark-hard.json (Name: Everforest Dark Hard)
+Index: Add everforest-dark-hard to palettes.json
+Rename: Everforest Light Med.json -> everforest-light-med.json (Name: Everforest Light Med)
+Index: Add everforest-light-med to palettes.json
+Rename: Fahrenheit.json -> fahrenheit.json (Name: Fahrenheit)
+Index: Add fahrenheit to palettes.json
+Rename: Fairyfloss.json -> fairyfloss.json (Name: Fairyfloss)
+Index: Add fairyfloss to palettes.json
+Rename: Farmhouse Dark.json -> farmhouse-dark.json (Name: Farmhouse Dark)
+Index: Add farmhouse-dark to palettes.json
+Rename: Farmhouse Light.json -> farmhouse-light.json (Name: Farmhouse Light)
+Index: Add farmhouse-light to palettes.json
+Rename: Fideloper.json -> fideloper.json (Name: Fideloper)
+Index: Add fideloper to palettes.json
+Rename: Firefly Traditional.json -> firefly-traditional.json (Name: Firefly Traditional)
+Index: Add firefly-traditional to palettes.json
+Rename: Firefox Dev.json -> firefox-dev.json (Name: Firefox Dev)
+Index: Add firefox-dev to palettes.json
+Rename: Firewatch.json -> firewatch.json (Name: Firewatch)
+Index: Add firewatch to palettes.json
+Rename: Fish Tank.json -> fish-tank.json (Name: Fish Tank)
+Index: Add fish-tank to palettes.json
+Rename: Flat.json -> flat.json (Name: Flat)
+Index: Add flat to palettes.json
+Rename: Flatland.json -> flatland.json (Name: Flatland)
+Index: Add flatland to palettes.json
+Rename: Flexoki Dark.json -> flexoki-dark.json (Name: Flexoki Dark)
+Index: Add flexoki-dark to palettes.json
+Rename: Flexoki Light.json -> flexoki-light.json (Name: Flexoki Light)
+Index: Add flexoki-light to palettes.json
+Rename: Floraverse.json -> floraverse.json (Name: Floraverse)
+Index: Add floraverse to palettes.json
+Rename: Forest Blue.json -> forest-blue.json (Name: Forest Blue)
+Index: Add forest-blue to palettes.json
+Rename: Framer.json -> framer.json (Name: Framer)
+Index: Add framer to palettes.json
+Rename: Front End Delight.json -> front-end-delight.json (Name: Front End Delight)
+Index: Add front-end-delight to palettes.json
+Rename: Fun Forrest.json -> fun-forrest.json (Name: Fun Forrest)
+Index: Add fun-forrest to palettes.json
+Rename: Galaxy.json -> galaxy.json (Name: Galaxy)
+Index: Add galaxy to palettes.json
+Rename: Galizur.json -> galizur.json (Name: Galizur)
+Index: Add galizur to palettes.json
+Rename: Ghostty Default Style Dark.json -> ghostty-default-style-dark.json (Name: Ghostty Default Style Dark)
+Index: Add ghostty-default-style-dark to palettes.json
+Rename: GitHub Dark Colorblind.json -> github-dark-colorblind.json (Name: GitHub Dark Colorblind)
+Index: Add github-dark-colorblind to palettes.json
+Rename: GitHub Dark Default.json -> github-dark-default.json (Name: GitHub Dark Default)
+Index: Add github-dark-default to palettes.json
+Rename: GitHub Dark Dimmed.json -> github-dark-dimmed.json (Name: GitHub Dark Dimmed)
+Index: Add github-dark-dimmed to palettes.json
+Rename: GitHub Dark High Contrast.json -> github-dark-high-contrast.json (Name: GitHub Dark High Contrast)
+Index: Add github-dark-high-contrast to palettes.json
+Rename: GitHub Dark.json -> github-dark.json (Name: GitHub Dark)
+Index: Add github-dark to palettes.json
+Rename: GitHub Light Colorblind.json -> github-light-colorblind.json (Name: GitHub Light Colorblind)
+Index: Add github-light-colorblind to palettes.json
+Rename: GitHub Light Default.json -> github-light-default.json (Name: GitHub Light Default)
+Index: Add github-light-default to palettes.json
+Rename: GitHub Light High Contrast.json -> github-light-high-contrast.json (Name: GitHub Light High Contrast)
+Index: Add github-light-high-contrast to palettes.json
+Rename: GitHub.json -> github.json (Name: GitHub)
+Index: Add github to palettes.json
+Rename: GitLab Dark Grey.json -> gitlab-dark-grey.json (Name: GitLab Dark Grey)
+Index: Add gitlab-dark-grey to palettes.json
+Rename: GitLab Dark.json -> gitlab-dark.json (Name: GitLab Dark)
+Index: Add gitlab-dark to palettes.json
+Rename: GitLab Light.json -> gitlab-light.json (Name: GitLab Light)
+Index: Add gitlab-light to palettes.json
+Rename: Glacier.json -> glacier.json (Name: Glacier)
+Index: Add glacier to palettes.json
+Rename: Gleam Classic.json -> gleam-classic.json (Name: Gleam Classic)
+Index: Add gleam-classic to palettes.json
+Rename: Gleam.json -> gleam.json (Name: Gleam)
+Index: Add gleam to palettes.json
+Rename: Grape.json -> grape.json (Name: Grape)
+Index: Add grape to palettes.json
+Rename: Grass.json -> grass.json (Name: Grass)
+Index: Add grass to palettes.json
+Rename: Grey Green.json -> grey-green.json (Name: Grey Green)
+Index: Add grey-green to palettes.json
+Rename: Gruber Darker.json -> gruber-darker.json (Name: Gruber Darker)
+Index: Add gruber-darker to palettes.json
+Rename: Gruvbox Dark Hard.json -> gruvbox-dark-hard.json (Name: Gruvbox Dark Hard)
+Index: Add gruvbox-dark-hard to palettes.json
+Rename: Gruvbox Dark.json -> gruvbox-dark.json (Name: Gruvbox Dark)
+Index: Add gruvbox-dark to palettes.json
+Rename: Gruvbox Light Hard.json -> gruvbox-light-hard.json (Name: Gruvbox Light Hard)
+Index: Add gruvbox-light-hard to palettes.json
+Rename: Gruvbox Light.json -> gruvbox-light.json (Name: Gruvbox Light)
+Index: Add gruvbox-light to palettes.json
+Rename: Gruvbox Material Dark.json -> gruvbox-material-dark.json (Name: Gruvbox Material Dark)
+Index: Add gruvbox-material-dark to palettes.json
+Rename: Gruvbox Material Light.json -> gruvbox-material-light.json (Name: Gruvbox Material Light)
+Index: Add gruvbox-material-light to palettes.json
+Rename: Gruvbox Material.json -> gruvbox-material.json (Name: Gruvbox Material)
+Index: Add gruvbox-material to palettes.json
+Rename: Guezwhoz.json -> guezwhoz.json (Name: Guezwhoz)
+Index: Add guezwhoz to palettes.json
+Rename: HaX0R Blue.json -> hax0r-blue.json (Name: HaX0R Blue)
+Index: Add hax0r-blue to palettes.json
+Rename: HaX0R Gr33N.json -> hax0r-gr33n.json (Name: HaX0R Gr33N)
+Index: Add hax0r-gr33n to palettes.json
+Rename: HaX0R R3D.json -> hax0r-r3d.json (Name: HaX0R R3D)
+Index: Add hax0r-r3d to palettes.json
+Rename: Hacktober.json -> hacktober.json (Name: Hacktober)
+Index: Add hacktober to palettes.json
+Rename: Hardcore.json -> hardcore.json (Name: Hardcore)
+Index: Add hardcore to palettes.json
+Rename: Harper.json -> harper.json (Name: Harper)
+Index: Add harper to palettes.json
+Rename: Havn Daggry.json -> havn-daggry.json (Name: Havn Daggry)
+Index: Add havn-daggry to palettes.json
+Rename: Havn Skumring.json -> havn-skumring.json (Name: Havn Skumring)
+Index: Add havn-skumring to palettes.json
+Rename: Heeler.json -> heeler.json (Name: Heeler)
+Index: Add heeler to palettes.json
+Rename: Highway.json -> highway.json (Name: Highway)
+Index: Add highway to palettes.json
+Rename: Hipster Green.json -> hipster-green.json (Name: Hipster Green)
+Index: Add hipster-green to palettes.json
+Rename: Hivacruz.json -> hivacruz.json (Name: Hivacruz)
+Index: Add hivacruz to palettes.json
+Rename: Homebrew.json -> homebrew.json (Name: Homebrew)
+Index: Add homebrew to palettes.json
+Rename: Hopscotch.256.json -> hopscotch256.json (Name: Hopscotch.256)
+Index: Add hopscotch256 to palettes.json
+Rename: Hopscotch.json -> hopscotch.json (Name: Hopscotch)
+Index: Add hopscotch to palettes.json
+Rename: Horizon Bright.json -> horizon-bright.json (Name: Horizon Bright)
+Index: Add horizon-bright to palettes.json
+Rename: Horizon.json -> horizon.json (Name: Horizon)
+Index: Add horizon to palettes.json
+Rename: Hot Dog Stand (Mustard).json -> hot-dog-stand-mustard.json (Name: Hot Dog Stand (Mustard))
+Index: Add hot-dog-stand-mustard to palettes.json
+Rename: Hot Dog Stand.json -> hot-dog-stand.json (Name: Hot Dog Stand)
+Index: Add hot-dog-stand to palettes.json
+Rename: Hurtado.json -> hurtado.json (Name: Hurtado)
+Index: Add hurtado to palettes.json
+Rename: Hybrid.json -> hybrid.json (Name: Hybrid)
+Index: Add hybrid to palettes.json
+Rename: IBM 5153 CGA (Black).json -> ibm-5153-cga-black.json (Name: IBM 5153 CGA (Black))
+Index: Add ibm-5153-cga-black to palettes.json
+Rename: IBM 5153 CGA.json -> ibm-5153-cga.json (Name: IBM 5153 CGA)
+Index: Add ibm-5153-cga to palettes.json
+Rename: IC Green PPL.json -> ic-green-ppl.json (Name: IC Green PPL)
+Index: Add ic-green-ppl to palettes.json
+Rename: IC Orange PPL.json -> ic-orange-ppl.json (Name: IC Orange PPL)
+Index: Add ic-orange-ppl to palettes.json
+Rename: IR Black.json -> ir-black.json (Name: IR Black)
+Index: Add ir-black to palettes.json
+Rename: IRIX Console.json -> irix-console.json (Name: IRIX Console)
+Index: Add irix-console to palettes.json
+Rename: IRIX Terminal.json -> irix-terminal.json (Name: IRIX Terminal)
+Index: Add irix-terminal to palettes.json
+Rename: Iceberg Dark.json -> iceberg-dark.json (Name: Iceberg Dark)
+Index: Add iceberg-dark to palettes.json
+Rename: Iceberg Light.json -> iceberg-light.json (Name: Iceberg Light)
+Index: Add iceberg-light to palettes.json
+Rename: Idea.json -> idea.json (Name: Idea)
+Index: Add idea to palettes.json
+Rename: Idle Toes.json -> idle-toes.json (Name: Idle Toes)
+Index: Add idle-toes to palettes.json
+Rename: Jackie Brown.json -> jackie-brown.json (Name: Jackie Brown)
+Index: Add jackie-brown to palettes.json
+Rename: Japanesque.json -> japanesque.json (Name: Japanesque)
+Index: Add japanesque to palettes.json
+Rename: Jellybeans.json -> jellybeans.json (Name: Jellybeans)
+Index: Add jellybeans to palettes.json
+Rename: JetBrains Darcula.json -> jetbrains-darcula.json (Name: JetBrains Darcula)
+Index: Add jetbrains-darcula to palettes.json
+Rename: JetCalm Light.json -> jetcalm-light.json (Name: JetCalm Light)
+Index: Add jetcalm-light to palettes.json
+Rename: Jubi.json -> jubi.json (Name: Jubi)
+Index: Add jubi to palettes.json
+Rename: Kanagawa Dragon.json -> kanagawa-dragon.json (Name: Kanagawa Dragon)
+Index: Add kanagawa-dragon to palettes.json
+Rename: Kanagawa Lotus.json -> kanagawa-lotus.json (Name: Kanagawa Lotus)
+Index: Add kanagawa-lotus to palettes.json
+Rename: Kanagawa Wave.json -> kanagawa-wave.json (Name: Kanagawa Wave)
+Index: Add kanagawa-wave to palettes.json
+Rename: Kanagawabones.json -> kanagawabones.json (Name: Kanagawabones)
+Index: Add kanagawabones to palettes.json
+Rename: Kanso Ink.json -> kanso-ink.json (Name: Kanso Ink)
+Index: Add kanso-ink to palettes.json
+Rename: Kanso Mist.json -> kanso-mist.json (Name: Kanso Mist)
+Index: Add kanso-mist to palettes.json
+Rename: Kanso Pearl.json -> kanso-pearl.json (Name: Kanso Pearl)
+Index: Add kanso-pearl to palettes.json
+Rename: Kanso Zen.json -> kanso-zen.json (Name: Kanso Zen)
+Index: Add kanso-zen to palettes.json
+Rename: Karasu Night.json -> karasu-night.json (Name: Karasu Night)
+Index: Add karasu-night to palettes.json
+Rename: Karasu Snow.json -> karasu-snow.json (Name: Karasu Snow)
+Index: Add karasu-snow to palettes.json
+Rename: Kibble.json -> kibble.json (Name: Kibble)
+Index: Add kibble to palettes.json
+Rename: Kitty Default.json -> kitty-default.json (Name: Kitty Default)
+Index: Add kitty-default to palettes.json
+Rename: Kitty Low Contrast.json -> kitty-low-contrast.json (Name: Kitty Low Contrast)
+Index: Add kitty-low-contrast to palettes.json
+Rename: Klein Void.json -> klein-void.json (Name: Klein Void)
+Index: Add klein-void to palettes.json
+Rename: Kolorit.json -> kolorit.json (Name: Kolorit)
+Index: Add kolorit to palettes.json
+Rename: Konsolas.json -> konsolas.json (Name: Konsolas)
+Index: Add konsolas to palettes.json
+Rename: Kurokula.json -> kurokula.json (Name: Kurokula)
+Index: Add kurokula to palettes.json
+Rename: Lab Fox.json -> lab-fox.json (Name: Lab Fox)
+Index: Add lab-fox to palettes.json
+Rename: Laser.json -> laser.json (Name: Laser)
+Index: Add laser to palettes.json
+Rename: Later This Evening.json -> later-this-evening.json (Name: Later This Evening)
+Index: Add later-this-evening to palettes.json
+Rename: Lavandula.json -> lavandula.json (Name: Lavandula)
+Index: Add lavandula to palettes.json
+Rename: Light Owl.json -> light-owl.json (Name: Light Owl)
+Index: Add light-owl to palettes.json
+Rename: Liquid Carbon Transparent.json -> liquid-carbon-transparent.json (Name: Liquid Carbon Transparent)
+Index: Add liquid-carbon-transparent to palettes.json
+Rename: Liquid Carbon.json -> liquid-carbon.json (Name: Liquid Carbon)
+Index: Add liquid-carbon to palettes.json
+Rename: Lovelace.json -> lovelace.json (Name: Lovelace)
+Index: Add lovelace to palettes.json
+Rename: Man Page.json -> man-page.json (Name: Man Page)
+Index: Add man-page to palettes.json
+Rename: Mariana.json -> mariana.json (Name: Mariana)
+Index: Add mariana to palettes.json
+Rename: Material Dark.json -> material-dark.json (Name: Material Dark)
+Index: Add material-dark to palettes.json
+Rename: Material Darker.json -> material-darker.json (Name: Material Darker)
+Index: Add material-darker to palettes.json
+Rename: Material Design Colors.json -> material-design-colors.json (Name: Material Design Colors)
+Update: Index source for material-design-colors to palettes/terminal-colors/material-design-colors.json
+Rename: Material Ocean.json -> material-ocean.json (Name: Material Ocean)
+Index: Add material-ocean to palettes.json
+Rename: Material.json -> material.json (Name: Material)
+Update: Index source for material to palettes/terminal-colors/material.json
+Rename: Mathias.json -> mathias.json (Name: Mathias)
+Index: Add mathias to palettes.json
+Rename: Matrix.json -> matrix.json (Name: Matrix)
+Index: Add matrix to palettes.json
+Rename: Matte Black.json -> matte-black.json (Name: Matte Black)
+Index: Add matte-black to palettes.json
+Rename: Medallion.json -> medallion.json (Name: Medallion)
+Index: Add medallion to palettes.json
+Rename: Melange Dark.json -> melange-dark.json (Name: Melange Dark)
+Index: Add melange-dark to palettes.json
+Rename: Melange Light.json -> melange-light.json (Name: Melange Light)
+Index: Add melange-light to palettes.json
+Rename: Mellifluous.json -> mellifluous.json (Name: Mellifluous)
+Index: Add mellifluous to palettes.json
+Rename: Mellow.json -> mellow.json (Name: Mellow)
+Index: Add mellow to palettes.json
+Rename: Miasma.json -> miasma.json (Name: Miasma)
+Index: Add miasma to palettes.json
+Rename: Midnight In Mojave.json -> midnight-in-mojave.json (Name: Midnight In Mojave)
+Index: Add midnight-in-mojave to palettes.json
+Rename: Mirage.json -> mirage.json (Name: Mirage)
+Index: Add mirage to palettes.json
+Rename: Misterioso.json -> misterioso.json (Name: Misterioso)
+Index: Add misterioso to palettes.json
+Rename: Modus Operandi Tinted.json -> modus-operandi-tinted.json (Name: Modus Operandi Tinted)
+Index: Add modus-operandi-tinted to palettes.json
+Rename: Modus Operandi.json -> modus-operandi.json (Name: Modus Operandi)
+Index: Add modus-operandi to palettes.json
+Rename: Modus Vivendi Tinted.json -> modus-vivendi-tinted.json (Name: Modus Vivendi Tinted)
+Index: Add modus-vivendi-tinted to palettes.json
+Rename: Modus Vivendi.json -> modus-vivendi.json (Name: Modus Vivendi)
+Index: Add modus-vivendi to palettes.json
+Rename: Molokai.json -> molokai.json (Name: Molokai)
+Index: Add molokai to palettes.json
+Rename: Mona Lisa.json -> mona-lisa.json (Name: Mona Lisa)
+Index: Add mona-lisa to palettes.json
+Rename: Monokai Classic.json -> monokai-classic.json (Name: Monokai Classic)
+Index: Add monokai-classic to palettes.json
+Rename: Monokai Pro Light Sun.json -> monokai-pro-light-sun.json (Name: Monokai Pro Light Sun)
+Index: Add monokai-pro-light-sun to palettes.json
+Rename: Monokai Pro Light.json -> monokai-pro-light.json (Name: Monokai Pro Light)
+Index: Add monokai-pro-light to palettes.json
+Rename: Monokai Pro Machine.json -> monokai-pro-machine.json (Name: Monokai Pro Machine)
+Index: Add monokai-pro-machine to palettes.json
+Rename: Monokai Pro Octagon.json -> monokai-pro-octagon.json (Name: Monokai Pro Octagon)
+Index: Add monokai-pro-octagon to palettes.json
+Rename: Monokai Pro Ristretto.json -> monokai-pro-ristretto.json (Name: Monokai Pro Ristretto)
+Index: Add monokai-pro-ristretto to palettes.json
+Rename: Monokai Pro Spectrum.json -> monokai-pro-spectrum.json (Name: Monokai Pro Spectrum)
+Index: Add monokai-pro-spectrum to palettes.json
+Rename: Monokai Pro.json -> monokai-pro.json (Name: Monokai Pro)
+Index: Add monokai-pro to palettes.json
+Rename: Monokai Remastered.json -> monokai-remastered.json (Name: Monokai Remastered)
+Index: Add monokai-remastered to palettes.json
+Rename: Monokai Soda.json -> monokai-soda.json (Name: Monokai Soda)
+Index: Add monokai-soda to palettes.json
+Rename: Monokai Vivid.json -> monokai-vivid.json (Name: Monokai Vivid)
+Index: Add monokai-vivid to palettes.json
+Rename: Monospace Dark.json -> monospace-dark.json (Name: Monospace Dark)
+Index: Add monospace-dark to palettes.json
+Rename: Monospace Light.json -> monospace-light.json (Name: Monospace Light)
+Index: Add monospace-light to palettes.json
+Rename: Moonfly.json -> moonfly.json (Name: Moonfly)
+Index: Add moonfly to palettes.json
+Rename: Moonwalk.json -> moonwalk.json (Name: Moonwalk)
+Index: Add moonwalk to palettes.json
+Rename: N0Tch2K.json -> n0tch2k.json (Name: N0Tch2K)
+Index: Add n0tch2k to palettes.json
+Rename: Neobones Dark.json -> neobones-dark.json (Name: Neobones Dark)
+Index: Add neobones-dark to palettes.json
+Rename: Neobones Light.json -> neobones-light.json (Name: Neobones Light)
+Index: Add neobones-light to palettes.json
+Rename: Neon.json -> neon.json (Name: Neon)
+Index: Add neon to palettes.json
+Rename: Neopolitan.json -> neopolitan.json (Name: Neopolitan)
+Index: Add neopolitan to palettes.json
+Rename: Neutron.json -> neutron.json (Name: Neutron)
+Index: Add neutron to palettes.json
+Rename: Night Lion V1.json -> night-lion-v1.json (Name: Night Lion V1)
+Index: Add night-lion-v1 to palettes.json
+Rename: Night Lion V2.json -> night-lion-v2.json (Name: Night Lion V2)
+Index: Add night-lion-v2 to palettes.json
+Rename: Night Owl.json -> night-owl.json (Name: Night Owl)
+Index: Add night-owl to palettes.json
+Rename: Night Owlish Light.json -> night-owlish-light.json (Name: Night Owlish Light)
+Index: Add night-owlish-light to palettes.json
+Rename: Nightfox.json -> nightfox.json (Name: Nightfox)
+Index: Add nightfox to palettes.json
+Rename: Niji.json -> niji.json (Name: Niji)
+Index: Add niji to palettes.json
+Rename: No Clown Fiesta Light.json -> no-clown-fiesta-light.json (Name: No Clown Fiesta Light)
+Index: Add no-clown-fiesta-light to palettes.json
+Rename: No Clown Fiesta.json -> no-clown-fiesta.json (Name: No Clown Fiesta)
+Index: Add no-clown-fiesta to palettes.json
+Rename: Nocturnal Winter.json -> nocturnal-winter.json (Name: Nocturnal Winter)
+Index: Add nocturnal-winter to palettes.json
+Rename: Nord Light.json -> nord-light.json (Name: Nord Light)
+Index: Add nord-light to palettes.json
+Rename: Nord Wave.json -> nord-wave.json (Name: Nord Wave)
+Index: Add nord-wave to palettes.json
+Rename: Nord.json -> nord.json (Name: Nord)
+Index: Add nord to palettes.json
+Rename: Nordfox.json -> nordfox.json (Name: Nordfox)
+Index: Add nordfox to palettes.json
+Rename: Novel.json -> novel.json (Name: Novel)
+Index: Add novel to palettes.json
+Rename: Nvim Dark.json -> nvim-dark.json (Name: Nvim Dark)
+Index: Add nvim-dark to palettes.json
+Rename: Nvim Light.json -> nvim-light.json (Name: Nvim Light)
+Index: Add nvim-light to palettes.json
+Rename: Obsidian.json -> obsidian.json (Name: Obsidian)
+Index: Add obsidian to palettes.json
+Rename: Ocean.json -> ocean.json (Name: Ocean)
+Index: Add ocean to palettes.json
+Rename: Oceanic Material.json -> oceanic-material.json (Name: Oceanic Material)
+Index: Add oceanic-material to palettes.json
+Rename: Oceanic Next.json -> oceanic-next.json (Name: Oceanic Next)
+Index: Add oceanic-next to palettes.json
+Rename: Ollie.json -> ollie.json (Name: Ollie)
+Index: Add ollie to palettes.json
+Rename: One Dark Two.json -> one-dark-two.json (Name: One Dark Two)
+Index: Add one-dark-two to palettes.json
+Rename: One Double Dark.json -> one-double-dark.json (Name: One Double Dark)
+Index: Add one-double-dark to palettes.json
+Rename: One Double Light.json -> one-double-light.json (Name: One Double Light)
+Index: Add one-double-light to palettes.json
+Rename: One Half Dark.json -> one-half-dark.json (Name: One Half Dark)
+Index: Add one-half-dark to palettes.json
+Rename: One Half Light.json -> one-half-light.json (Name: One Half Light)
+Index: Add one-half-light to palettes.json
+Rename: Onenord Light.json -> onenord-light.json (Name: Onenord Light)
+Index: Add onenord-light to palettes.json
+Rename: Onenord.json -> onenord.json (Name: Onenord)
+Index: Add onenord to palettes.json
+Rename: Operator Mono Dark.json -> operator-mono-dark.json (Name: Operator Mono Dark)
+Index: Add operator-mono-dark to palettes.json
+Rename: Overnight Slumber.json -> overnight-slumber.json (Name: Overnight Slumber)
+Index: Add overnight-slumber to palettes.json
+Rename: Oxocarbon.json -> oxocarbon.json (Name: Oxocarbon)
+Index: Add oxocarbon to palettes.json
+Rename: Pale Night Hc.json -> pale-night-hc.json (Name: Pale Night Hc)
+Index: Add pale-night-hc to palettes.json
+Rename: Pandora.json -> pandora.json (Name: Pandora)
+Index: Add pandora to palettes.json
+Rename: Paraiso Dark.json -> paraiso-dark.json (Name: Paraiso Dark)
+Index: Add paraiso-dark to palettes.json
+Rename: Paul Millr.json -> paul-millr.json (Name: Paul Millr)
+Index: Add paul-millr to palettes.json
+Rename: Pencil Dark.json -> pencil-dark.json (Name: Pencil Dark)
+Index: Add pencil-dark to palettes.json
+Rename: Pencil Light.json -> pencil-light.json (Name: Pencil Light)
+Index: Add pencil-light to palettes.json
+Rename: Peppermint.json -> peppermint.json (Name: Peppermint)
+Index: Add peppermint to palettes.json
+Rename: Phala Green Dark.json -> phala-green-dark.json (Name: Phala Green Dark)
+Index: Add phala-green-dark to palettes.json
+Rename: Piatto Light.json -> piatto-light.json (Name: Piatto Light)
+Index: Add piatto-light to palettes.json
+Rename: Pierre Dark.json -> pierre-dark.json (Name: Pierre Dark)
+Index: Add pierre-dark to palettes.json
+Rename: Pierre Light.json -> pierre-light.json (Name: Pierre Light)
+Index: Add pierre-light to palettes.json
+Rename: Pnevma.json -> pnevma.json (Name: Pnevma)
+Index: Add pnevma to palettes.json
+Rename: Poimandres Darker.json -> poimandres-darker.json (Name: Poimandres Darker)
+Index: Add poimandres-darker to palettes.json
+Rename: Poimandres Storm.json -> poimandres-storm.json (Name: Poimandres Storm)
+Index: Add poimandres-storm to palettes.json
+Rename: Poimandres White.json -> poimandres-white.json (Name: Poimandres White)
+Index: Add poimandres-white to palettes.json
+Rename: Poimandres.json -> poimandres.json (Name: Poimandres)
+Index: Add poimandres to palettes.json
+Rename: Popping And Locking.json -> popping-and-locking.json (Name: Popping And Locking)
+Index: Add popping-and-locking to palettes.json
+Rename: Powershell.json -> powershell.json (Name: Powershell)
+Index: Add powershell to palettes.json
+Rename: Primary.json -> primary.json (Name: Primary)
+Index: Add primary to palettes.json
+Rename: Pro Light.json -> pro-light.json (Name: Pro Light)
+Index: Add pro-light to palettes.json
+Rename: Pro.json -> pro.json (Name: Pro)
+Index: Add pro to palettes.json
+Rename: Purple Rain.json -> purple-rain.json (Name: Purple Rain)
+Index: Add purple-rain to palettes.json
+Rename: Purplepeter.json -> purplepeter.json (Name: Purplepeter)
+Index: Add purplepeter to palettes.json
+Rename: Rapture.json -> rapture.json (Name: Rapture)
+Index: Add rapture to palettes.json
+Rename: Raycast Dark.json -> raycast-dark.json (Name: Raycast Dark)
+Index: Add raycast-dark to palettes.json
+Rename: Raycast Light.json -> raycast-light.json (Name: Raycast Light)
+Index: Add raycast-light to palettes.json
+Rename: Rebecca.json -> rebecca.json (Name: Rebecca)
+Index: Add rebecca to palettes.json
+Rename: Red Alert.json -> red-alert.json (Name: Red Alert)
+Index: Add red-alert to palettes.json
+Rename: Red Planet.json -> red-planet.json (Name: Red Planet)
+Index: Add red-planet to palettes.json
+Rename: Red Sands.json -> red-sands.json (Name: Red Sands)
+Index: Add red-sands to palettes.json
+Rename: Relaxed.json -> relaxed.json (Name: Relaxed)
+Index: Add relaxed to palettes.json
+Rename: Retro Legends.json -> retro-legends.json (Name: Retro Legends)
+Index: Add retro-legends to palettes.json
+Rename: Retro.json -> retro.json (Name: Retro)
+Index: Add retro to palettes.json
+Rename: Rippedcasts.json -> rippedcasts.json (Name: Rippedcasts)
+Index: Add rippedcasts to palettes.json
+Rename: Rose Pine Dawn.json -> rose-pine-dawn.json (Name: Rose Pine Dawn)
+Index: Add rose-pine-dawn to palettes.json
+Rename: Rose Pine Moon.json -> rose-pine-moon.json (Name: Rose Pine Moon)
+Index: Add rose-pine-moon to palettes.json
+Rename: Rose Pine.json -> rose-pine.json (Name: Rose Pine)
+Index: Add rose-pine to palettes.json
+Rename: Rouge 2.json -> rouge-2.json (Name: Rouge 2)
+Index: Add rouge-2 to palettes.json
+Rename: Royal.json -> royal.json (Name: Royal)
+Index: Add royal to palettes.json
+Rename: Ryuuko.json -> ryuuko.json (Name: Ryuuko)
+Index: Add ryuuko to palettes.json
+Rename: Sakura.json -> sakura.json (Name: Sakura)
+Index: Add sakura to palettes.json
+Rename: Scarlet Protocol.json -> scarlet-protocol.json (Name: Scarlet Protocol)
+Index: Add scarlet-protocol to palettes.json
+Rename: Sea Shells.json -> sea-shells.json (Name: Sea Shells)
+Index: Add sea-shells to palettes.json
+Rename: Seafoam Pastel.json -> seafoam-pastel.json (Name: Seafoam Pastel)
+Index: Add seafoam-pastel to palettes.json
+Rename: SeedFlip Abyss.json -> seedflip-abyss.json (Name: SeedFlip Abyss)
+Index: Add seedflip-abyss to palettes.json
+Rename: SeedFlip Amethyst.json -> seedflip-amethyst.json (Name: SeedFlip Amethyst)
+Index: Add seedflip-amethyst to palettes.json
+Rename: SeedFlip Canopy.json -> seedflip-canopy.json (Name: SeedFlip Canopy)
+Index: Add seedflip-canopy to palettes.json
+Rename: SeedFlip Carbon.json -> seedflip-carbon.json (Name: SeedFlip Carbon)
+Index: Add seedflip-carbon to palettes.json
+Rename: SeedFlip Coral.json -> seedflip-coral.json (Name: SeedFlip Coral)
+Index: Add seedflip-coral to palettes.json
+Rename: SeedFlip Ember.json -> seedflip-ember.json (Name: SeedFlip Ember)
+Index: Add seedflip-ember to palettes.json
+Rename: SeedFlip Glacier.json -> seedflip-glacier.json (Name: SeedFlip Glacier)
+Index: Add seedflip-glacier to palettes.json
+Rename: SeedFlip Inkwell.json -> seedflip-inkwell.json (Name: SeedFlip Inkwell)
+Index: Add seedflip-inkwell to palettes.json
+Rename: SeedFlip Ivory.json -> seedflip-ivory.json (Name: SeedFlip Ivory)
+Index: Add seedflip-ivory to palettes.json
+Rename: SeedFlip Nightfall.json -> seedflip-nightfall.json (Name: SeedFlip Nightfall)
+Index: Add seedflip-nightfall to palettes.json
+Rename: SeedFlip Phosphor.json -> seedflip-phosphor.json (Name: SeedFlip Phosphor)
+Index: Add seedflip-phosphor to palettes.json
+Rename: SeedFlip Pulse.json -> seedflip-pulse.json (Name: SeedFlip Pulse)
+Index: Add seedflip-pulse to palettes.json
+Rename: SeedFlip Ultraviolet.json -> seedflip-ultraviolet.json (Name: SeedFlip Ultraviolet)
+Index: Add seedflip-ultraviolet to palettes.json
+Rename: SeedFlip Voltage.json -> seedflip-voltage.json (Name: SeedFlip Voltage)
+Index: Add seedflip-voltage to palettes.json
+Rename: SeedFlip Wavelength.json -> seedflip-wavelength.json (Name: SeedFlip Wavelength)
+Index: Add seedflip-wavelength to palettes.json
+Rename: Selenized Black.json -> selenized-black.json (Name: Selenized Black)
+Index: Add selenized-black to palettes.json
+Rename: Selenized Dark.json -> selenized-dark.json (Name: Selenized Dark)
+Index: Add selenized-dark to palettes.json
+Rename: Selenized Light.json -> selenized-light.json (Name: Selenized Light)
+Index: Add selenized-light to palettes.json
+Rename: Seoulbones Dark.json -> seoulbones-dark.json (Name: Seoulbones Dark)
+Index: Add seoulbones-dark to palettes.json
+Rename: Seoulbones Light.json -> seoulbones-light.json (Name: Seoulbones Light)
+Index: Add seoulbones-light to palettes.json
+Rename: Seti.json -> seti.json (Name: Seti)
+Index: Add seti to palettes.json
+Rename: Shades Of Purple.json -> shades-of-purple.json (Name: Shades Of Purple)
+Index: Add shades-of-purple to palettes.json
+Rename: Shaman.json -> shaman.json (Name: Shaman)
+Index: Add shaman to palettes.json
+Rename: Slate.json -> slate.json (Name: Slate)
+Index: Add slate to palettes.json
+Rename: Sleepy Hollow.json -> sleepy-hollow.json (Name: Sleepy Hollow)
+Index: Add sleepy-hollow to palettes.json
+Rename: Smyck.json -> smyck.json (Name: Smyck)
+Index: Add smyck to palettes.json
+Rename: Snazzy Soft.json -> snazzy-soft.json (Name: Snazzy Soft)
+Index: Add snazzy-soft to palettes.json
+Rename: Snazzy.json -> snazzy.json (Name: Snazzy)
+Index: Add snazzy to palettes.json
+Rename: Soft Server.json -> soft-server.json (Name: Soft Server)
+Index: Add soft-server to palettes.json
+Rename: Solarized Darcula.json -> solarized-darcula.json (Name: Solarized Darcula)
+Index: Add solarized-darcula to palettes.json
+Rename: Solarized Dark Higher Contrast.json -> solarized-dark-higher-contrast.json (Name: Solarized Dark Higher Contrast)
+Index: Add solarized-dark-higher-contrast to palettes.json
+Rename: Solarized Dark Patched.json -> solarized-dark-patched.json (Name: Solarized Dark Patched)
+Index: Add solarized-dark-patched to palettes.json
+Rename: Solarized Osaka Night.json -> solarized-osaka-night.json (Name: Solarized Osaka Night)
+Index: Add solarized-osaka-night to palettes.json
+Rename: Sonokai.json -> sonokai.json (Name: Sonokai)
+Index: Add sonokai to palettes.json
+Rename: Spacedust.json -> spacedust.json (Name: Spacedust)
+Index: Add spacedust to palettes.json
+Rename: Spacegray Bright.json -> spacegray-bright.json (Name: Spacegray Bright)
+Index: Add spacegray-bright to palettes.json
+Rename: Spacegray Eighties Dull.json -> spacegray-eighties-dull.json (Name: Spacegray Eighties Dull)
+Index: Add spacegray-eighties-dull to palettes.json
+Rename: Spacegray Eighties.json -> spacegray-eighties.json (Name: Spacegray Eighties)
+Index: Add spacegray-eighties to palettes.json
+Rename: Spacegray.json -> spacegray.json (Name: Spacegray)
+Index: Add spacegray to palettes.json
+Rename: Spiderman.json -> spiderman.json (Name: Spiderman)
+Index: Add spiderman to palettes.json
+Rename: Spring.json -> spring.json (Name: Spring)
+Index: Add spring to palettes.json
+Rename: Square.json -> square.json (Name: Square)
+Index: Add square to palettes.json
+Rename: Squirrelsong Dark.json -> squirrelsong-dark.json (Name: Squirrelsong Dark)
+Index: Add squirrelsong-dark to palettes.json
+Rename: Srcery.json -> srcery.json (Name: Srcery)
+Index: Add srcery to palettes.json
+Rename: Starlight.json -> starlight.json (Name: Starlight)
+Index: Add starlight to palettes.json
+Rename: Sublette.json -> sublette.json (Name: Sublette)
+Index: Add sublette to palettes.json
+Rename: Subliminal.json -> subliminal.json (Name: Subliminal)
+Index: Add subliminal to palettes.json
+Rename: Sugarplum.json -> sugarplum.json (Name: Sugarplum)
+Index: Add sugarplum to palettes.json
+Rename: Sundried.json -> sundried.json (Name: Sundried)
+Index: Add sundried to palettes.json
+Rename: Sunset Drive.json -> sunset-drive.json (Name: Sunset Drive)
+Index: Add sunset-drive to palettes.json
+Rename: Symfonic.json -> symfonic.json (Name: Symfonic)
+Index: Add symfonic to palettes.json
+Rename: Synthwave Alpha.json -> synthwave-alpha.json (Name: Synthwave Alpha)
+Index: Add synthwave-alpha to palettes.json
+Rename: Synthwave Everything.json -> synthwave-everything.json (Name: Synthwave Everything)
+Index: Add synthwave-everything to palettes.json
+Rename: Synthwave.json -> synthwave.json (Name: Synthwave)
+Index: Add synthwave to palettes.json
+Rename: Tango Adapted.json -> tango-adapted.json (Name: Tango Adapted)
+Index: Add tango-adapted to palettes.json
+Rename: Tango Half Adapted.json -> tango-half-adapted.json (Name: Tango Half Adapted)
+Index: Add tango-half-adapted to palettes.json
+Rename: Tearout.json -> tearout.json (Name: Tearout)
+Index: Add tearout to palettes.json
+Rename: Teerb.json -> teerb.json (Name: Teerb)
+Index: Add teerb to palettes.json
+Rename: Terafox.json -> terafox.json (Name: Terafox)
+Index: Add terafox to palettes.json
+Rename: Terminal Basic Dark.json -> terminal-basic-dark.json (Name: Terminal Basic Dark)
+Index: Add terminal-basic-dark to palettes.json
+Rename: Terminal Basic.json -> terminal-basic.json (Name: Terminal Basic)
+Index: Add terminal-basic to palettes.json
+Rename: Thayer Bright.json -> thayer-bright.json (Name: Thayer Bright)
+Index: Add thayer-bright to palettes.json
+Rename: The Hulk.json -> the-hulk.json (Name: The Hulk)
+Index: Add the-hulk to palettes.json
+Rename: Tinacious Design Dark.json -> tinacious-design-dark.json (Name: Tinacious Design Dark)
+Index: Add tinacious-design-dark to palettes.json
+Rename: Tinacious Design Light.json -> tinacious-design-light.json (Name: Tinacious Design Light)
+Index: Add tinacious-design-light to palettes.json
+Rename: TokyoNight Day.json -> tokyonight-day.json (Name: TokyoNight Day)
+Index: Add tokyonight-day to palettes.json
+Rename: TokyoNight Moon.json -> tokyonight-moon.json (Name: TokyoNight Moon)
+Index: Add tokyonight-moon to palettes.json
+Rename: TokyoNight Night.json -> tokyonight-night.json (Name: TokyoNight Night)
+Index: Add tokyonight-night to palettes.json
+Rename: TokyoNight Storm.json -> tokyonight-storm.json (Name: TokyoNight Storm)
+Index: Add tokyonight-storm to palettes.json
+Rename: TokyoNight.json -> tokyonight.json (Name: TokyoNight)
+Index: Add tokyonight to palettes.json
+Rename: Tomorrow Night Blue.json -> tomorrow-night-blue.json (Name: Tomorrow Night Blue)
+Index: Add tomorrow-night-blue to palettes.json
+Rename: Tomorrow Night Bright.json -> tomorrow-night-bright.json (Name: Tomorrow Night Bright)
+Index: Add tomorrow-night-bright to palettes.json
+Rename: Tomorrow Night Burns.json -> tomorrow-night-burns.json (Name: Tomorrow Night Burns)
+Index: Add tomorrow-night-burns to palettes.json
+Rename: Tomorrow Night Eighties.json -> tomorrow-night-eighties.json (Name: Tomorrow Night Eighties)
+Index: Add tomorrow-night-eighties to palettes.json
+Rename: Tomorrow Night.json -> tomorrow-night.json (Name: Tomorrow Night)
+Index: Add tomorrow-night to palettes.json
+Rename: Tomorrow.json -> tomorrow.json (Name: Tomorrow)
+Index: Add tomorrow to palettes.json
+Rename: Toy Chest.json -> toy-chest.json (Name: Toy Chest)
+Index: Add toy-chest to palettes.json
+Rename: Trapped in Amber.json -> trapped-in-amber.json (Name: Trapped in Amber)
+Index: Add trapped-in-amber to palettes.json
+Rename: Treehouse.json -> treehouse.json (Name: Treehouse)
+Index: Add treehouse to palettes.json
+Rename: Twilight.json -> twilight.json (Name: Twilight)
+Index: Add twilight to palettes.json
+Rename: Ubuntu.json -> ubuntu.json (Name: Ubuntu)
+Index: Add ubuntu to palettes.json
+Rename: Ultra Dark.json -> ultra-dark.json (Name: Ultra Dark)
+Index: Add ultra-dark to palettes.json
+Rename: Ultra Violent.json -> ultra-violent.json (Name: Ultra Violent)
+Index: Add ultra-violent to palettes.json
+Rename: Under The Sea.json -> under-the-sea.json (Name: Under The Sea)
+Index: Add under-the-sea to palettes.json
+Rename: Unikitty.json -> unikitty.json (Name: Unikitty)
+Index: Add unikitty to palettes.json
+Rename: Urple.json -> urple.json (Name: Urple)
+Index: Add urple to palettes.json
+Rename: Vague.json -> vague.json (Name: Vague)
+Index: Add vague to palettes.json
+Rename: Vaughn.json -> vaughn.json (Name: Vaughn)
+Index: Add vaughn to palettes.json
+Rename: Vercel.json -> vercel.json (Name: Vercel)
+Index: Add vercel to palettes.json
+Rename: Vesper.json -> vesper.json (Name: Vesper)
+Index: Add vesper to palettes.json
+Rename: Vibrant Ink.json -> vibrant-ink.json (Name: Vibrant Ink)
+Index: Add vibrant-ink to palettes.json
+Rename: Vimbones.json -> vimbones.json (Name: Vimbones)
+Index: Add vimbones to palettes.json
+Rename: Violet Dark.json -> violet-dark.json (Name: Violet Dark)
+Index: Add violet-dark to palettes.json
+Rename: Violet Light.json -> violet-light.json (Name: Violet Light)
+Index: Add violet-light to palettes.json
+Rename: Violite.json -> violite.json (Name: Violite)
+Index: Add violite to palettes.json
+Rename: Warm Neon.json -> warm-neon.json (Name: Warm Neon)
+Index: Add warm-neon to palettes.json
+Rename: Wez.json -> wez.json (Name: Wez)
+Index: Add wez to palettes.json
+Rename: Whimsy.json -> whimsy.json (Name: Whimsy)
+Index: Add whimsy to palettes.json
+Rename: Wild Cherry.json -> wild-cherry.json (Name: Wild Cherry)
+Index: Add wild-cherry to palettes.json
+Rename: Wilmersdorf.json -> wilmersdorf.json (Name: Wilmersdorf)
+Index: Add wilmersdorf to palettes.json
+Rename: Wombat.json -> wombat.json (Name: Wombat)
+Index: Add wombat to palettes.json
+Rename: Wryan.json -> wryan.json (Name: Wryan)
+Index: Add wryan to palettes.json
+Rename: Xcode Dark hc.json -> xcode-dark-hc.json (Name: Xcode Dark hc)
+Index: Add xcode-dark-hc to palettes.json
+Rename: Xcode Dark.json -> xcode-dark.json (Name: Xcode Dark)
+Index: Add xcode-dark to palettes.json
+Rename: Xcode Light hc.json -> xcode-light-hc.json (Name: Xcode Light hc)
+Index: Add xcode-light-hc to palettes.json
+Rename: Xcode Light.json -> xcode-light.json (Name: Xcode Light)
+Index: Add xcode-light to palettes.json
+Rename: Xcode WWDC.json -> xcode-wwdc.json (Name: Xcode WWDC)
+Index: Add xcode-wwdc to palettes.json
+Rename: Zenbones Dark.json -> zenbones-dark.json (Name: Zenbones Dark)
+Index: Add zenbones-dark to palettes.json
+Rename: Zenbones Light.json -> zenbones-light.json (Name: Zenbones Light)
+Index: Add zenbones-light to palettes.json
+Rename: Zenbones.json -> zenbones.json (Name: Zenbones)
+Index: Add zenbones to palettes.json
+Rename: Zenburn.json -> zenburn.json (Name: Zenburn)
+Index: Add zenburn to palettes.json
+Rename: Zenburned.json -> zenburned.json (Name: Zenburned)
+Index: Add zenburned to palettes.json
+Rename: Zenwritten Dark.json -> zenwritten-dark.json (Name: Zenwritten Dark)
+Index: Add zenwritten-dark to palettes.json
+Rename: Zenwritten Light.json -> zenwritten-light.json (Name: Zenwritten Light)
+Index: Add zenwritten-light to palettes.json
+Keep: branch.json (Name: branch)
+Index: Add branch to palettes.json
+Rename: iTerm2 Dark Background.json -> iterm2-dark-background.json (Name: iTerm2 Dark Background)
+Index: Add iterm2-dark-background to palettes.json
+Rename: iTerm2 Default.json -> iterm2-default.json (Name: iTerm2 Default)
+Index: Add iterm2-default to palettes.json
+Rename: iTerm2 Light Background.json -> iterm2-light-background.json (Name: iTerm2 Light Background)
+Index: Add iterm2-light-background to palettes.json
+Rename: iTerm2 Pastel Dark Background.json -> iterm2-pastel-dark-background.json (Name: iTerm2 Pastel Dark Background)
+Index: Add iterm2-pastel-dark-background to palettes.json
+Rename: iTerm2 Smoooooth.json -> iterm2-smoooooth.json (Name: iTerm2 Smoooooth)
+Index: Add iterm2-smoooooth to palettes.json
+Rename: iTerm2 Solarized Dark.json -> iterm2-solarized-dark.json (Name: iTerm2 Solarized Dark)
+Index: Add iterm2-solarized-dark to palettes.json
+Rename: iTerm2 Solarized Light.json -> iterm2-solarized-light.json (Name: iTerm2 Solarized Light)
+Index: Add iterm2-solarized-light to palettes.json
+Rename: iTerm2 Tango Dark.json -> iterm2-tango-dark.json (Name: iTerm2 Tango Dark)
+Index: Add iterm2-tango-dark to palettes.json
+Rename: iTerm2 Tango Light.json -> iterm2-tango-light.json (Name: iTerm2 Tango Light)
+Index: Add iterm2-tango-light to palettes.json
+Keep: novmbr.json (Name: novmbr)
+Index: Add novmbr to palettes.json
+Keep: owl.json (Name: owl)
+Index: Add owl to palettes.json
+Keep: traffic.json (Name: traffic)
+Index: Add traffic to palettes.json
+Keep: urban.json (Name: urban)
+Index: Add urban to palettes.json

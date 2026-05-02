@@ -1,0 +1,22 @@
+{
+  "eval_id": 0,
+  "eval_name": "reorganize-terminal-colors",
+  "prompt": "I have some messy palettes in `palettes/terminal-colors`. Some are named inconsistently (e.g. `ayu_dark.json` vs `Ayu Mirage.json`). Can you clean up the folder structure, standardize the naming, and ensure they are all correctly indexed in `palettes.json`? Please provide a dry-run first.",
+  "assertions": [
+    {
+      "text": "Proposed plan includes renaming snake_case to Title Case",
+      "passed": null,
+      "evidence": null
+    },
+    {
+      "text": "Script provided supports dry-run mode",
+      "passed": null,
+      "evidence": null
+    },
+    {
+      "text": "Plan includes updating palettes.json entries",
+      "passed": null,
+      "evidence": null
+    }
+  ]
+}

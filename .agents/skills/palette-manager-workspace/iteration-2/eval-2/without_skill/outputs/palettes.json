@@ -5,22 +5,12 @@
     {
       "id": "apple",
       "name": "Apple",
-      "clr": "clr/brand-colors/Apple.clr",
-      "source": "palettes/brand-colors/Apple.json",
+      "clr": "clr/Apple.clr",
+      "source": "palettes/Apple.json",
       "source_status": "canonical",
       "color_count": 11,
-      "category": "brand-colors",
+      "category": "system-colors",
       "notes": "Canonical source added from palettes/Apple.json."
-    },
-    {
-      "id": "brand-github",
-      "name": "Brand - GitHub",
-      "clr": "clr/brand-colors/GitHub Primer.clr",
-      "source": "palettes/brand-colors/Brand - GitHub.json",
-      "source_status": "canonical",
-      "color_count": null,
-      "category": "brand-colors",
-      "notes": "Consolidated into brand-colors category."
     },
     {
       "id": "ant-design",
@@ -30,7 +20,7 @@
       "source_status": "canonical",
       "color_count": 2,
       "category": "design-system",
-      "notes": "Recovered canonical source from documentation."
+      "notes": "Add an editable source JSON before regenerating."
     },
     {
       "id": "bootstrap",
@@ -245,8 +235,8 @@
     {
       "id": "social-colors",
       "name": "Social Colors",
-      "clr": "clr/brand-colors/Social Colors.clr",
-      "source": "palettes/brand-colors/Social Colors.json",
+      "clr": "clr/Social Colors.clr",
+      "source": "palettes/Social Colors.json",
       "source_status": "canonical",
       "color_count": 36,
       "category": "brand-colors",

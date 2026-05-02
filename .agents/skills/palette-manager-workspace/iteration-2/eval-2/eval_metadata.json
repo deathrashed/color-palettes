@@ -1,0 +1,17 @@
+{
+  "eval_id": 2,
+  "eval_name": "fix-moved-clr",
+  "prompt": "I accidentally moved `clr/Breeze.clr` to `clr/terminal-colors/Breeze.clr` but forgot to update the manifest. Can you find and fix this inconsistency? Use the manifest validation script to identify the problem first.",
+  "assertions": [
+    {
+      "text": "scripts/check-palette-manifest.py was run to find the error",
+      "passed": null,
+      "evidence": null
+    },
+    {
+      "text": "palettes.json updated with correct path for Breeze.clr",
+      "passed": null,
+      "evidence": null
+    }
+  ]
+}

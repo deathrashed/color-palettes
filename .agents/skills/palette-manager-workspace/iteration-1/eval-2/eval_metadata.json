@@ -1,0 +1,22 @@
+{
+  "eval_id": 2,
+  "eval_name": "refactor-check-script",
+  "prompt": "Our `scripts/check-colorgen-formats.sh` is a bit basic. Can you refactor it to use more robust error handling, support a --verbose flag, and ensure it cleans up its temporary directory even on failure?",
+  "assertions": [
+    {
+      "text": "Script includes set -e or manual error checking",
+      "passed": null,
+      "evidence": null
+    },
+    {
+      "text": "Script supports --verbose flag",
+      "passed": null,
+      "evidence": null
+    },
+    {
+      "text": "Script uses trap or similar for cleanup on failure",
+      "passed": null,
+      "evidence": null
+    }
+  ]
+}

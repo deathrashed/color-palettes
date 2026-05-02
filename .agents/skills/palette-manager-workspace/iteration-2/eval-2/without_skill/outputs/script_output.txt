@@ -1,0 +1,29 @@
+28 palette manifest check(s) failed
+FAIL apple: clr file does not exist: clr/Apple.clr
+FAIL apple: source file does not exist: palettes/Apple.json
+FAIL ant-design: clr file does not exist: clr/Ant.Design.clr
+FAIL bootstrap: clr file does not exist: clr/Bootstrap.clr
+FAIL chakra-ui: clr file does not exist: clr/Chakra UI.clr
+FAIL chakraui: clr file does not exist: clr/Chakraui.clr
+FAIL copic: clr file does not exist: clr/Copic.clr
+FAIL crayola: clr file does not exist: clr/Crayola.clr
+FAIL css: clr file does not exist: clr/CSS.clr
+FAIL flat-ui-colors: clr file does not exist: clr/Flat UI Colors.clr
+FAIL html-colors: clr file does not exist: clr/HTML Colors.clr
+FAIL material: clr file does not exist: clr/Material.clr
+FAIL material-design-colors: clr file does not exist: clr/Material Design Colors.clr
+FAIL matreial: clr file does not exist: clr/Matreial.clr
+FAIL metro-colors: clr file does not exist: clr/Metro Colors.clr
+FAIL pantone-coated: clr file does not exist: clr/Pantone Coated.clr
+FAIL pantone-fashion-interior: clr file does not exist: clr/Pantone Fashion Interior.clr
+FAIL pantone-metalic: clr file does not exist: clr/Pantone Metalic.clr
+FAIL pantone-pastel-neon: clr file does not exist: clr/Pantone Pastel Neon.clr
+FAIL pantone-skin: clr file does not exist: clr/Pantone Skin.clr
+FAIL pantone-uncoated: clr file does not exist: clr/Pantone Uncoated.clr
+FAIL primer: clr file does not exist: clr/Primer.clr
+FAIL real-brush: clr file does not exist: clr/Real Brush.clr
+FAIL social-colors: clr file does not exist: clr/Social Colors.clr
+FAIL social-colors: source file does not exist: palettes/Social Colors.json
+FAIL system: clr file does not exist: clr/System.clr
+FAIL tachyons: clr file does not exist: clr/Tachyons.clr
+FAIL tailwind: clr file does not exist: clr/Tailwind.clr

@@ -1,0 +1,19 @@
+{
+  "expectations": [
+    {
+      "text": "Proposed plan includes renaming snake_case to Title Case",
+      "passed": false,
+      "evidence": "The agent proposed kebab-case instead of Title Case."
+    },
+    {
+      "text": "Script provided supports dry-run mode",
+      "passed": true,
+      "evidence": "dry_run_report.txt was generated."
+    },
+    {
+      "text": "Plan includes updating palettes.json entries",
+      "passed": true,
+      "evidence": "proposed_palettes.json was generated."
+    }
+  ]
+}

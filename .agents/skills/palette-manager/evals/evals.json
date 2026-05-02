@@ -1,0 +1,23 @@
+{
+  "skill_name": "palette-manager",
+  "evals": [
+    {
+      "id": 0,
+      "prompt": "The 'Ant.Design' palette is currently 'binary-only' in `palettes.json`. Can you recover its source? Create a basic JSON source in `palettes/design-system/Ant.Design.json` with primary colors like #1890ff (Blue 6) and #52c41a (Green 6), update the manifest to 'canonical', and regenerate the .clr file. Use `scripts/check-palette-manifest.py` to verify.",
+      "expected_output": "A new JSON source, an updated palettes.json entry (status changed to canonical), and a successful colorgen run.",
+      "files": ["palettes.json", "clr/Ant.Design.clr"]
+    },
+    {
+      "id": 1,
+      "prompt": "I want to consolidate all brand-related palettes into a new `palettes/brand-colors` category. This includes 'Apple' and any others you find that fit. Move the files, update their paths and categories in `palettes.json`, and ensure symmetry in the `clr/` directory. Run the manifest check after moving.",
+      "expected_output": "Files moved to palettes/brand-colors/ and clr/brand-colors/, palettes.json paths updated, and a clean manifest check report.",
+      "files": ["palettes.json", "palettes/Apple.json", "clr/Apple.clr"]
+    },
+    {
+      "id": 2,
+      "prompt": "I accidentally moved `clr/Breeze.clr` to `clr/terminal-colors/Breeze.clr` but forgot to update the manifest. Can you find and fix this inconsistency? Use the manifest validation script to identify the problem first.",
+      "expected_output": "The skill should run check-palette-manifest.py, identify the broken 'clr' path for Breeze, and update palettes.json with the new correct path.",
+      "files": ["palettes.json", "clr/terminal-colors/Breeze.clr"]
+    }
+  ]
+}
